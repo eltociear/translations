@@ -31,6 +31,7 @@
 |  [okisdev/ChatChat](https://github.com/okisdev/ChatChat/)  |  README.JA.mdx  |  [#46](https://github.com/okisdev/ChatChat/pull/46)  |
 |  [One-Language/One](https://github.com/One-Language/One/)  |  README_JA.md  |  [#359](https://github.com/One-Language/One/pull/359)  |
 |  [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle/)  |  README_ja.md  |  [#53726](https://github.com/PaddlePaddle/Paddle/pull/53726)  |
+|  [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B/)  |  README_JA.md  |  [#79](https://github.com/QwenLM/Qwen-7B/pull/79)  |
 |  [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin/)  |  Resources/AVR_Miner_langs.json<br>Resources/CLI_Wallet_langs.json<br>Resources/PC_Miner_langs.json<br>Resources/README_TRANSLATIONS/README_ja_JP.md<br>Resources/Wallet_langs.json  |  [#1563](https://github.com/revoxhere/duino-coin/pull/1563)  |
 |  [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web/)  |  docs/README_JA.md  |  [#9](https://github.com/Ryan-yang125/ChatLLM-Web/pull/9)  |
 |  [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole/)  |  README.JA.md  |  [#410](https://github.com/Sangwan5688/BlackHole/pull/410)  |
