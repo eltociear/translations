@@ -32,7 +32,7 @@
 |  [okisdev/ChatChat](https://github.com/okisdev/ChatChat/)  |  README.JA.mdx  |  [#46](https://github.com/okisdev/ChatChat/pull/46)  |
 |  [One-Language/One](https://github.com/One-Language/One/)  |  README_JA.md  |  [#359](https://github.com/One-Language/One/pull/359)  |
 |  [PaddlePaddle/docs](https://github.com/PaddlePaddle/docs/)  |  README_ja.md  |  [#6088](https://github.com/PaddlePaddle/docs/pull/6088)  |
-|  [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle/)  |  README_ja.md  |  [#53726](https://github.com/PaddlePaddle/Paddle/pull/53726)  |
+|  [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle/)  |  README_ja.md<br>SECURITY_ja.md<br>security/README_ja.md  |  [#53726](https://github.com/PaddlePaddle/Paddle/pull/53726)<br>[#56466](https://github.com/PaddlePaddle/Paddle/pull/56466)  |
 |  [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL/)  |  FAQ_ja.md<br>README_JA.md<br>touchstone/README_JA.md  |  [#16](https://github.com/QwenLM/Qwen-VL/pull/16)  |
 |  [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B/)  |  README_JA.md  |  [#79](https://github.com/QwenLM/Qwen-7B/pull/79)  |
 |  [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin/)  |  Resources/AVR_Miner_langs.json<br>Resources/CLI_Wallet_langs.json<br>Resources/PC_Miner_langs.json<br>Resources/README_TRANSLATIONS/README_ja_JP.md<br>Resources/Wallet_langs.json  |  [#1563](https://github.com/revoxhere/duino-coin/pull/1563)  |
