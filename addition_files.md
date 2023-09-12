@@ -53,4 +53,5 @@
 |  [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi/)  |  docs/README-ja.md  |  [#176](https://github.com/yoheinakajima/babyagi/pull/176)  |
 |  [zadam/trilium](https://github.com/zadam/trilium/)  |  README.ja.md  |  [#3771](https://github.com/zadam/trilium/pull/3771)  |
 |  [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org/)  |  content/_index.ja.md<br>content/download/_index.ja.md<br>content/learn/_index.ja.md<br>content/learn/getting-started.ja.md<br>content/learn/overview.ja.md<br>content/learn/samples.ja.md<br>content/learn/tools.ja.md<br>content/learn/why_zig_rust_d_cpp.ja.md<br>content/news/_index.ja.md<br>content/zsf/index.ja.md<br>themes/ziglang-original/i18n/ja.toml  |  [#212](https://github.com/ziglang/www.ziglang.org/pull/212)  |
+|  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel/)  |  README_JA.md  |  [#2265](https://github.com/1Panel-dev/1Panel/pull/2265)  |
 |  [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub/)  |  README_ja.md  |  [#2580](https://github.com/521xueweihan/HelloGitHub/pull/2580)  |
