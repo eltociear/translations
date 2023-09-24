@@ -47,6 +47,7 @@
 |  [songquanpeng/one-api](https://github.com/songquanpeng/one-api/)  |  README.ja.md  |  [#425](https://github.com/songquanpeng/one-api/pull/425)  |
 |  [sunner/ChatALL](https://github.com/sunner/ChatALL/)  |  README_JA-JP.md  |  [#50](https://github.com/sunner/ChatALL/pull/50)  |
 |  [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2/)  |  README_JA.md  |  [#22](https://github.com/THUDM/CodeGeeX2/pull/22)  |
+|  [tikkid/JetbrainKiller](https://github.com/tikkid/JetbrainKiller/)  |  README_JA-JP.md  |  [#3](https://github.com/tikkid/JetbrainKiller/pull/3)  |
 |  [tonsky/FiraCode](https://github.com/tonsky/FiraCode/)  |  README_JA.md  |  [#1537](https://github.com/tonsky/FiraCode/pull/1537)  |
 |  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
 |  [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts/)  |  README_ja.md  |  [#54](https://github.com/xiangsx/gpt4free-ts/pull/54)  |
