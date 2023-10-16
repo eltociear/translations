@@ -24,6 +24,7 @@
 |  [immich-app/immich](https://github.com/immich-app/immich/)  |  README_ja_JP.md  |  [#4268](https://github.com/immich-app/immich/pull/4268)  |
 |  [Infisical/infisical](https://github.com/Infisical/infisical/)  |  i18n/README.ja.md  |  [#399](https://github.com/Infisical/infisical/pull/399)  |
 |  [InternLM/InternLM](https://github.com/InternLM/InternLM/)  |  README-ja-JP.md  |  [#43](https://github.com/InternLM/InternLM/pull/43)  |
+|  [InternLM/lagent](https://github.com/InternLM/lagent/)  |  README_ja_JP.md<br>docs/ja/get_started/overview.md  |  [#42](https://github.com/InternLM/lagent/pull/42)  |
 |  [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner/)  |  README_JA.md  |  [#100](https://github.com/josStorer/RWKV-Runner/pull/100)  |
 |  [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt/)  |  README_JA.md  |  [#3](https://github.com/jtsang4/claude-to-chatgpt/pull/3)  |
 |  [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT/)  |  docs/README_JA.md  |  [#31](https://github.com/kuafuai/DevOpsGPT/pull/31)  |
