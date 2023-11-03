@@ -41,6 +41,7 @@
 |  [okisdev/ChatChat](https://github.com/okisdev/ChatChat/)  |  README.JA.mdx  |  [#46](https://github.com/okisdev/ChatChat/pull/46)  |
 |  [One-Language/One](https://github.com/One-Language/One/)  |  README_JA.md  |  [#359](https://github.com/One-Language/One/pull/359)  |
 |  [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev/)  |  README-Japanese.md  |  [#15](https://github.com/OpenBMB/ChatDev/pull/15)  |
+|  [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent/)  |  README_JA.md  |  [#159](https://github.com/OpenBMB/XAgent/pull/159)  |
 |  [PaddlePaddle/docs](https://github.com/PaddlePaddle/docs/)  |  README_ja.md  |  [#6088](https://github.com/PaddlePaddle/docs/pull/6088)  |
 |  [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle/)  |  README_ja.md<br>SECURITY_ja.md<br>security/README_ja.md  |  [#53726](https://github.com/PaddlePaddle/Paddle/pull/53726)<br>[#56466](https://github.com/PaddlePaddle/Paddle/pull/56466)  |
 |  [PaddlePaddle/PaddleCustomDevice](https://github.com/PaddlePaddle/PaddleCustomDevice/)  |  README_ja.md<br>backends/custom_cpu/README_ja.md  |  [#782](https://github.com/PaddlePaddle/PaddleCustomDevice/pull/782)  |
