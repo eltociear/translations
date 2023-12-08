@@ -12,6 +12,7 @@
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
 |  [chathub-dev/chathub](https://github.com/chathub-dev/chathub/)  |  README_JA.md  |  [#263](https://github.com/chathub-dev/chathub/pull/263)  |
 |  [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11/)  |  CONTRIBUTING.ja.md  |  [#694](https://github.com/chrislgarry/Apollo-11/pull/694)  |
+|  [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede/)  |  README_JA.md  |  [#11693](https://github.com/coolsnowwolf/lede/pull/11693)  |
 |  [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor/)  |  CONTRIBUTING_ja-JP.md<br>DONATE_ja-JP.md<br>README_ja-JP.md  |  [#1144](https://github.com/cpeditor/cpeditor/pull/1144)  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus/)  |  translations/ja-jp/README.md  |  [#1329](https://github.com/DioxusLabs/dioxus/pull/1329)  |
 |  [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/)  |  README_JA.md  |  [#44](https://github.com/dmMaze/BallonsTranslator/pull/44)  |
