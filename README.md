@@ -14,6 +14,7 @@
 |  [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11/)  |  CONTRIBUTING.ja.md  |  [#694](https://github.com/chrislgarry/Apollo-11/pull/694)  |
 |  [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede/)  |  README_JA.md  |  [#11693](https://github.com/coolsnowwolf/lede/pull/11693)  |
 |  [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor/)  |  CONTRIBUTING_ja-JP.md<br>DONATE_ja-JP.md<br>README_ja-JP.md  |  [#1144](https://github.com/cpeditor/cpeditor/pull/1144)  |
+|  [dataelement/bisheng](https://github.com/dataelement/bisheng/)  |  README_JPN.md  |  [#268](https://github.com/dataelement/bisheng/pull/268)  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus/)  |  translations/ja-jp/README.md  |  [#1329](https://github.com/DioxusLabs/dioxus/pull/1329)  |
 |  [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/)  |  README_JA.md  |  [#44](https://github.com/dmMaze/BallonsTranslator/pull/44)  |
 |  [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly/)  |  README.ja-JP.md  |  [#1494](https://github.com/dragonflydb/dragonfly/pull/1494)  |
