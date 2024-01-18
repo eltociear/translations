@@ -10,6 +10,7 @@
 |  [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT/)  |  docs/README_ja.md  |  [#318](https://github.com/acheong08/EdgeGPT/pull/318)  |
 |  [alist-org/alist](https://github.com/alist-org/alist/)  |  README_ja.md  |  [#4798](https://github.com/alist-org/alist/pull/4798)  |
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
+|  [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter/)  |  README_ja.md  |  [#12](https://github.com/bleedline/aimoneyhunter/pull/12)  |
 |  [chathub-dev/chathub](https://github.com/chathub-dev/chathub/)  |  README_JA.md  |  [#263](https://github.com/chathub-dev/chathub/pull/263)  |
 |  [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11/)  |  CONTRIBUTING.ja.md  |  [#694](https://github.com/chrislgarry/Apollo-11/pull/694)  |
 |  [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede/)  |  README_JA.md  |  [#11693](https://github.com/coolsnowwolf/lede/pull/11693)  |
