@@ -33,6 +33,7 @@
 |  [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner/)  |  README_JA.md  |  [#100](https://github.com/josStorer/RWKV-Runner/pull/100)  |
 |  [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt/)  |  README_JA.md  |  [#3](https://github.com/jtsang4/claude-to-chatgpt/pull/3)  |
 |  [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT/)  |  docs/README_JA.md  |  [#31](https://github.com/kuafuai/DevOpsGPT/pull/31)  |
+|  [KwaiKEG/KwaiAgents](https://github.com/KwaiKEG/KwaiAgents/)  |  README_JA.md  |  [#24](https://github.com/KwaiKEG/KwaiAgents/pull/24)  |
 |  [labring/FastGPT](https://github.com/labring/FastGPT/)  |  README_ja.md  |  [#455](https://github.com/labring/FastGPT/pull/455)  |
 |  [langgenius/dify](https://github.com/langgenius/dify/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#96](https://github.com/langgenius/dify/pull/96)  |
 |  [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya/)  |  README_JA.md  |  [#32](https://github.com/LC1332/Chat-Haruhi-Suzumiya/pull/32)  |
