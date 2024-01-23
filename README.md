@@ -58,6 +58,7 @@
 |  [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL/)  |  FAQ_ja.md<br>README_JA.md<br>TUTORIAL_ja.md<br>touchstone/README_JA.md  |  [#16](https://github.com/QwenLM/Qwen-VL/pull/16)<br>[#41](https://github.com/QwenLM/Qwen-VL/pull/41)  |
 |  [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B/)  |  FAQ_ja.md<br>README_JA.md<br>tokenization_note_ja.md  |  [#79](https://github.com/QwenLM/Qwen-7B/pull/79)<br>[#216](https://github.com/QwenLM/Qwen-7B/pull/216)  |
 |  [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin/)  |  Resources/AVR_Miner_langs.json<br>Resources/CLI_Wallet_langs.json<br>Resources/PC_Miner_langs.json<br>Resources/README_TRANSLATIONS/README_ja_JP.md<br>Resources/Wallet_langs.json  |  [#1563](https://github.com/revoxhere/duino-coin/pull/1563)  |
+|  [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk/)  |  docs/CODE_OF_CONDUCT-JP.md<br>docs/CONTRIBUTING-JP.md<br>docs/DEVCONTAINER-JP.md<br>docs/SECURITY-JP.md  |  [#6963](https://github.com/rustdesk/rustdesk/pull/6963)  |
 |  [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS/)  |  docs/ja/README.md  |  [#96](https://github.com/RVC-Boss/GPT-SoVITS/pull/96)  |
 |  [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web/)  |  docs/README_JA.md  |  [#9](https://github.com/Ryan-yang125/ChatLLM-Web/pull/9)  |
 |  [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole/)  |  README.JA.md  |  [#410](https://github.com/Sangwan5688/BlackHole/pull/410)  |
