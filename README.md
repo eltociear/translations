@@ -49,6 +49,7 @@
 |  [LorisYounger/VPet](https://github.com/LorisYounger/VPet/)  |  README_ja.md  |  [#284](https://github.com/LorisYounger/VPet/pull/284)  |
 |  [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray/)  |  README_ja.md  |  [#988](https://github.com/MatsuriDayo/nekoray/pull/988)  |
 |  [modelscope/modelscope](https://github.com/modelscope/modelscope/)  |  README_ja.md  |  [#405](https://github.com/modelscope/modelscope/pull/405)  |
+|  [modelscope/modelscope-studio](https://github.com/modelscope/modelscope-studio/)  |  README-ja_JP.md  |  [#1](https://github.com/modelscope/modelscope-studio/pull/1)  |
 |  [okisdev/ChatChat](https://github.com/okisdev/ChatChat/)  |  README.JA.mdx  |  [#46](https://github.com/okisdev/ChatChat/pull/46)  |
 |  [One-Language/One](https://github.com/One-Language/One/)  |  README_JA.md  |  [#359](https://github.com/One-Language/One/pull/359)  |
 |  [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev/)  |  README-Japanese.md  |  [#15](https://github.com/OpenBMB/ChatDev/pull/15)  |
