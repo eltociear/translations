@@ -70,6 +70,7 @@
 |  [SchneeHertz/exhentai-manga-manager](https://github.com/SchneeHertz/exhentai-manga-manager/)  |  README_JA.md  |  [#126](https://github.com/SchneeHertz/exhentai-manga-manager/pull/126)  |
 |  [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern/)  |  .github/readme-ja_jp.md  |  [#1604](https://github.com/SillyTavern/SillyTavern/pull/1604)  |
 |  [songquanpeng/one-api](https://github.com/songquanpeng/one-api/)  |  README.ja.md  |  [#425](https://github.com/songquanpeng/one-api/pull/425)  |
+|  [SoraWebui/SoraWebui](https://github.com/SoraWebui/SoraWebui/)  |  README.ja-JP.md  |  [#9](https://github.com/SoraWebui/SoraWebui/pull/9)  |
 |  [sunner/ChatALL](https://github.com/sunner/ChatALL/)  |  README_JA-JP.md  |  [#50](https://github.com/sunner/ChatALL/pull/50)  |
 |  [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb/)  |  README_ja.md  |  [#1537](https://github.com/SuperDuperDB/superduperdb/pull/1537)  |
 |  [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2/)  |  README_JA.md  |  [#22](https://github.com/THUDM/CodeGeeX2/pull/22)  |
