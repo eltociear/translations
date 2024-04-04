@@ -30,6 +30,7 @@
 |  [huggingface/transformers](https://github.com/huggingface/transformers/)  |  README_ja.md  |  [#19945](https://github.com/huggingface/transformers/pull/19945)  |
 |  [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#142](https://github.com/HuolalaTech/page-spy-web/pull/142)<br>[#143](https://github.com/HuolalaTech/page-spy-web/pull/143)  |
 |  [immich-app/immich](https://github.com/immich-app/immich/)  |  README_ja_JP.md  |  [#4268](https://github.com/immich-app/immich/pull/4268)  |
+|  [infiniflow/ragflow](https://github.com/infiniflow/ragflow/)  |  README_ja.md  |  [#224](https://github.com/infiniflow/ragflow/pull/224)  |
 |  [Infisical/infisical](https://github.com/Infisical/infisical/)  |  i18n/README.ja.md  |  [#399](https://github.com/Infisical/infisical/pull/399)  |
 |  [InternLM/InternLM](https://github.com/InternLM/InternLM/)  |  README-ja-JP.md  |  [#43](https://github.com/InternLM/InternLM/pull/43)  |
 |  [InternLM/lagent](https://github.com/InternLM/lagent/)  |  README_ja_JP.md<br>docs/ja/get_started/overview.md  |  [#42](https://github.com/InternLM/lagent/pull/42)  |
