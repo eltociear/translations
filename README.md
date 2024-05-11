@@ -12,6 +12,7 @@
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
 |  [apernet/OpenGFW](https://github.com/apernet/OpenGFW/)  |  README.ja.md  |  [#31](https://github.com/apernet/OpenGFW/pull/31)  |
 |  [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter/)  |  README_ja.md  |  [#12](https://github.com/bleedline/aimoneyhunter/pull/12)  |
+|  [ca110us/epeius](https://github.com/ca110us/epeius/)  |  README-ja_JP.md  |  [#7](https://github.com/ca110us/epeius/pull/7)  |
 |  [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat/)  |  README_ja.md  |  [#2787](https://github.com/chatchat-space/Langchain-Chatchat/pull/2787)  |
 |  [chathub-dev/chathub](https://github.com/chathub-dev/chathub/)  |  README_JA.md  |  [#263](https://github.com/chathub-dev/chathub/pull/263)  |
 |  [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11/)  |  CONTRIBUTING.ja.md  |  [#694](https://github.com/chrislgarry/Apollo-11/pull/694)  |
