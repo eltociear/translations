@@ -49,6 +49,7 @@
 |  [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney/)  |  README_JA.md  |  [#23](https://github.com/Licoy/ChatGPT-Midjourney/pull/23)  |
 |  [LinkSoul-AI/AutoAgents](https://github.com/LinkSoul-AI/AutoAgents/)  |  docs/README_JA.md  |  [#23](https://github.com/LinkSoul-AI/AutoAgents/pull/23)  |
 |  [linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai/)  |  README_JA.md  |  [#7](https://github.com/linyiLYi/snake-ai/pull/7)  |
+|  [LongxingTan/open-retrievals](https://github.com/LongxingTan/open-retrievals/)  |  README_ja-JP.md  |  [#40](https://github.com/LongxingTan/open-retrievals/pull/40)  |
 |  [LorisYounger/VPet](https://github.com/LorisYounger/VPet/)  |  README_ja.md  |  [#284](https://github.com/LorisYounger/VPet/pull/284)  |
 |  [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray/)  |  README_ja.md  |  [#988](https://github.com/MatsuriDayo/nekoray/pull/988)  |
 |  [modelscope/modelscope](https://github.com/modelscope/modelscope/)  |  README_ja.md  |  [#405](https://github.com/modelscope/modelscope/pull/405)  |
