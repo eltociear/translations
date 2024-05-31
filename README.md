@@ -11,6 +11,7 @@
 |  [alist-org/alist](https://github.com/alist-org/alist/)  |  README_ja.md  |  [#4798](https://github.com/alist-org/alist/pull/4798)  |
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
 |  [apernet/OpenGFW](https://github.com/apernet/OpenGFW/)  |  README.ja.md  |  [#31](https://github.com/apernet/OpenGFW/pull/31)  |
+|  [beam-cloud/beta9](https://github.com/beam-cloud/beta9/)  |  docs/jp/README.md  |  [#270](https://github.com/beam-cloud/beta9/pull/270)  |
 |  [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter/)  |  README_ja.md  |  [#12](https://github.com/bleedline/aimoneyhunter/pull/12)  |
 |  [ca110us/epeius](https://github.com/ca110us/epeius/)  |  README-ja_JP.md  |  [#7](https://github.com/ca110us/epeius/pull/7)  |
 |  [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat/)  |  README_ja.md  |  [#2787](https://github.com/chatchat-space/Langchain-Chatchat/pull/2787)  |
@@ -28,6 +29,7 @@
 |  [geekan/MetaGPT](https://github.com/geekan/MetaGPT/)  |  docs/README_JA.md  |  [#12](https://github.com/geekan/MetaGPT/pull/12)  |
 |  [gojue/ecapture](https://github.com/gojue/ecapture/)  |  README_JA.md  |  [#324](https://github.com/gojue/ecapture/pull/324)  |
 |  [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed/)  |  CONTRIBUTING_ja-JP.md<br>README_ja-JP.md<br>ui/flutter/assets/locales/ja_JP.json  |  [#139](https://github.com/GopeedLab/gopeed/pull/139)  |
+|  [go-nunu/nunu](https://github.com/go-nunu/nunu/)  |  README_jp.md  |  [#59](https://github.com/go-nunu/nunu/pull/59)  |
 |  [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next/)  |  README_ja.md  |  [#371](https://github.com/hiddify/hiddify-next/pull/371)  |
 |  [huggingface/transformers](https://github.com/huggingface/transformers/)  |  README_ja.md  |  [#19945](https://github.com/huggingface/transformers/pull/19945)  |
 |  [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#142](https://github.com/HuolalaTech/page-spy-web/pull/142)<br>[#143](https://github.com/HuolalaTech/page-spy-web/pull/143)  |
