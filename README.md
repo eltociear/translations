@@ -49,6 +49,7 @@
 |  [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya/)  |  README_JA.md  |  [#32](https://github.com/LC1332/Chat-Haruhi-Suzumiya/pull/32)  |
 |  [LeKovr/webtail](https://github.com/LeKovr/webtail/)  |  README.ja.md  |  [#17](https://github.com/LeKovr/webtail/pull/17)  |
 |  [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy/)  |  readmes/README.ja.md  |  [#3620](https://github.com/LemmyNet/lemmy/pull/3620)  |
+|  [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/)  |  README-JP.md  |  [#2908](https://github.com/lf-edge/ekuiper/pull/2908)  |
 |  [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney/)  |  README_JA.md  |  [#23](https://github.com/Licoy/ChatGPT-Midjourney/pull/23)  |
 |  [LinkSoul-AI/AutoAgents](https://github.com/LinkSoul-AI/AutoAgents/)  |  docs/README_JA.md  |  [#23](https://github.com/LinkSoul-AI/AutoAgents/pull/23)  |
 |  [linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai/)  |  README_JA.md  |  [#7](https://github.com/linyiLYi/snake-ai/pull/7)  |
@@ -57,6 +58,7 @@
 |  [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray/)  |  README_ja.md  |  [#988](https://github.com/MatsuriDayo/nekoray/pull/988)  |
 |  [modelscope/modelscope](https://github.com/modelscope/modelscope/)  |  README_ja.md  |  [#405](https://github.com/modelscope/modelscope/pull/405)  |
 |  [modelscope/modelscope-studio](https://github.com/modelscope/modelscope-studio/)  |  README-ja_JP.md  |  [#1](https://github.com/modelscope/modelscope-studio/pull/1)  |
+|  [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything/)  |  README_jp.md  |  [#374](https://github.com/netease-youdao/QAnything/pull/374)  |
 |  [okisdev/ChatChat](https://github.com/okisdev/ChatChat/)  |  README.JA.mdx  |  [#46](https://github.com/okisdev/ChatChat/pull/46)  |
 |  [One-Language/One](https://github.com/One-Language/One/)  |  README_JA.md  |  [#359](https://github.com/One-Language/One/pull/359)  |
 |  [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev/)  |  README-Japanese.md  |  [#15](https://github.com/OpenBMB/ChatDev/pull/15)  |
