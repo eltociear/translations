@@ -8,6 +8,7 @@
 |  [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT/)  |  docs/README_ja.md  |  [#1344](https://github.com/acheong08/ChatGPT/pull/1344)  |
 |  [acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API/)  |  README_JAmd  |  [#93](https://github.com/acheong08/ChatGPT-to-API/pull/93)  |
 |  [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT/)  |  docs/README_ja.md  |  [#318](https://github.com/acheong08/EdgeGPT/pull/318)  |
+|  [alipay/agentUniverse](https://github.com/alipay/agentUniverse/)  |  README_jp.md  |  [#1344](https://github.com/alipay/agentUniverse/pull/68)  |
 |  [alist-org/alist](https://github.com/alist-org/alist/)  |  README_ja.md  |  [#4798](https://github.com/alist-org/alist/pull/4798)  |
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
 |  [apernet/OpenGFW](https://github.com/apernet/OpenGFW/)  |  README.ja.md  |  [#31](https://github.com/apernet/OpenGFW/pull/31)  |
@@ -56,6 +57,7 @@
 |  [LongxingTan/open-retrievals](https://github.com/LongxingTan/open-retrievals/)  |  README_ja-JP.md  |  [#40](https://github.com/LongxingTan/open-retrievals/pull/40)  |
 |  [LorisYounger/VPet](https://github.com/LorisYounger/VPet/)  |  README_ja.md  |  [#284](https://github.com/LorisYounger/VPet/pull/284)  |
 |  [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray/)  |  README_ja.md  |  [#988](https://github.com/MatsuriDayo/nekoray/pull/988)  |
+|  [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm/)  |  README.ja-JP.md  |  [#988](https://github.com/Mintplex-Labs/anything-llm/pull/1574)  |
 |  [modelscope/modelscope](https://github.com/modelscope/modelscope/)  |  README_ja.md  |  [#405](https://github.com/modelscope/modelscope/pull/405)  |
 |  [modelscope/modelscope-studio](https://github.com/modelscope/modelscope-studio/)  |  README-ja_JP.md  |  [#1](https://github.com/modelscope/modelscope-studio/pull/1)  |
 |  [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything/)  |  README_jp.md  |  [#374](https://github.com/netease-youdao/QAnything/pull/374)  |
