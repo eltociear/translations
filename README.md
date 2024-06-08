@@ -72,6 +72,7 @@
 |  [PaddlePaddle/PaddleCustomDevice](https://github.com/PaddlePaddle/PaddleCustomDevice/)  |  README_ja.md<br>backends/custom_cpu/README_ja.md  |  [#782](https://github.com/PaddlePaddle/PaddleCustomDevice/pull/782)  |
 |  [PaddlePaddle/PaddleTS](https://github.com/PaddlePaddle/PaddleTS/)  |  README_ja.md  |  [#413](https://github.com/PaddlePaddle/PaddleTS/pull/413)  |
 |  [PKU-YuanGroup/Machine-Mindset](https://github.com/PKU-YuanGroup/Machine-Mindset/)  |  README_ja.md  |  [#1](https://github.com/PKU-YuanGroup/Machine-Mindset/pull/1)  |
+|  [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei/)  |  README_JP.md  |  [#5259](https://github.com/projectdiscovery/nuclei/pull/5259)  |
 |  [Project-DARC/DARC](https://github.com/Project-DARC/DARC/)  |  README_ja.md  |  [#28](https://github.com/Project-DARC/DARC/pull/28)  |
 |  [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL/)  |  FAQ_ja.md<br>README_JA.md<br>TUTORIAL_ja.md<br>touchstone/README_JA.md  |  [#16](https://github.com/QwenLM/Qwen-VL/pull/16)<br>[#41](https://github.com/QwenLM/Qwen-VL/pull/41)  |
 |  [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B/)  |  FAQ_ja.md<br>README_JA.md<br>tokenization_note_ja.md  |  [#79](https://github.com/QwenLM/Qwen-7B/pull/79)<br>[#216](https://github.com/QwenLM/Qwen-7B/pull/216)  |
