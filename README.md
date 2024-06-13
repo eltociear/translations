@@ -12,6 +12,7 @@
 |  [alist-org/alist](https://github.com/alist-org/alist/)  |  README_ja.md  |  [#4798](https://github.com/alist-org/alist/pull/4798)  |
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
 |  [apernet/OpenGFW](https://github.com/apernet/OpenGFW/)  |  README.ja.md  |  [#31](https://github.com/apernet/OpenGFW/pull/31)  |
+|  [AXYZdong/AMchat](https://github.com/AXYZdong/AMchat/)  |  README_ja-JP.md  |  [#11](https://github.com/AXYZdong/AMchat/pull/11)  |
 |  [beam-cloud/beta9](https://github.com/beam-cloud/beta9/)  |  docs/jp/README.md  |  [#270](https://github.com/beam-cloud/beta9/pull/270)  |
 |  [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter/)  |  README_ja.md  |  [#12](https://github.com/bleedline/aimoneyhunter/pull/12)  |
 |  [ca110us/epeius](https://github.com/ca110us/epeius/)  |  README-ja_JP.md  |  [#7](https://github.com/ca110us/epeius/pull/7)  |
@@ -21,6 +22,7 @@
 |  [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede/)  |  README_JA.md  |  [#11693](https://github.com/coolsnowwolf/lede/pull/11693)  |
 |  [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor/)  |  CONTRIBUTING_ja-JP.md<br>DONATE_ja-JP.md<br>README_ja-JP.md  |  [#1144](https://github.com/cpeditor/cpeditor/pull/1144)  |
 |  [dataelement/bisheng](https://github.com/dataelement/bisheng/)  |  README_JPN.md  |  [#268](https://github.com/dataelement/bisheng/pull/268)  |
+|  [deepflowio/deepflow](https://github.com/deepflowio/deepflow/)  |  README-JP.md  |  [#6880](https://github.com/deepflowio/deepflow/pull/6880)  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus/)  |  translations/ja-jp/README.md  |  [#1329](https://github.com/DioxusLabs/dioxus/pull/1329)  |
 |  [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/)  |  README_JA.md  |  [#44](https://github.com/dmMaze/BallonsTranslator/pull/44)  |
 |  [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly/)  |  README.ja-JP.md  |  [#1494](https://github.com/dragonflydb/dragonfly/pull/1494)  |
