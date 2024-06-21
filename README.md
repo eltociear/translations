@@ -91,6 +91,7 @@
 |  [sunner/ChatALL](https://github.com/sunner/ChatALL/)  |  README_JA-JP.md  |  [#50](https://github.com/sunner/ChatALL/pull/50)  |
 |  [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API/)  |  README_JA.md  |  [#7](https://github.com/SunoAI-API/Suno-API/pull/7)  |
 |  [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb/)  |  README_ja.md  |  [#1537](https://github.com/SuperDuperDB/superduperdb/pull/1537)  |
+|  [tencentmusic/supersonic](https://github.com/tencentmusic/supersonic/)  |  README_JP.md  |  [#1177](https://github.com/tencentmusic/supersonic/pull/1177)  |
 |  [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2/)  |  README_JA.md  |  [#22](https://github.com/THUDM/CodeGeeX2/pull/22)  |
 |  [tikkid/JetbrainKiller](https://github.com/tikkid/JetbrainKiller/)  |  README_JA-JP.md  |  [#3](https://github.com/tikkid/JetbrainKiller/pull/3)  |
 |  [tonsky/FiraCode](https://github.com/tonsky/FiraCode/)  |  README_JA.md  |  [#1537](https://github.com/tonsky/FiraCode/pull/1537)  |
