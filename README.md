@@ -70,6 +70,7 @@
 |  [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent/)  |  README_JA.md  |  [#159](https://github.com/OpenBMB/XAgent/pull/159)  |
 |  [opendilab/LLMRiddles](https://github.com/opendilab/LLMRiddles/)  |  README_ja.md  |  [#21](https://github.com/opendilab/LLMRiddles/pull/21)  |
 |  [OpenInterpreter/01](https://github.com/OpenInterpreter/01/)  |  docs/README_JA.md  |  [#243](https://github.com/OpenInterpreter/01/pull/243)  |
+|  [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit/)  |  README_ja.md  |  [#232](https://github.com/open-compass/VLMEvalKit/pull/232)  |
 |  [PaddlePaddle/docs](https://github.com/PaddlePaddle/docs/)  |  README_ja.md  |  [#6088](https://github.com/PaddlePaddle/docs/pull/6088)  |
 |  [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle/)  |  README_ja.md<br>SECURITY_ja.md<br>security/README_ja.md  |  [#53726](https://github.com/PaddlePaddle/Paddle/pull/53726)<br>[#56466](https://github.com/PaddlePaddle/Paddle/pull/56466)  |
 |  [PaddlePaddle/PaddleCustomDevice](https://github.com/PaddlePaddle/PaddleCustomDevice/)  |  README_ja.md<br>backends/custom_cpu/README_ja.md  |  [#782](https://github.com/PaddlePaddle/PaddleCustomDevice/pull/782)  |
