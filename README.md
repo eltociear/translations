@@ -8,6 +8,7 @@
 |  [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT/)  |  docs/README_ja.md  |  [#1344](https://github.com/acheong08/ChatGPT/pull/1344)  |
 |  [acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API/)  |  README_JAmd  |  [#93](https://github.com/acheong08/ChatGPT-to-API/pull/93)  |
 |  [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT/)  |  docs/README_ja.md  |  [#318](https://github.com/acheong08/EdgeGPT/pull/318)  |
+|  [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity/)  |  docs/ja/README.md  |  [#52](https://github.com/adamlui/chatgpt-infinity/pull/52)  |
 |  [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D/)  |  README_jp.md  |  [#28](https://github.com/AiuniAI/Unique3D/pull/28)  |
 |  [alipay/agentUniverse](https://github.com/alipay/agentUniverse/)  |  README_jp.md  |  [#1344](https://github.com/alipay/agentUniverse/pull/68)  |
 |  [alist-org/alist](https://github.com/alist-org/alist/)  |  README_ja.md  |  [#4798](https://github.com/alist-org/alist/pull/4798)  |
