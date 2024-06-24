@@ -99,6 +99,7 @@
 |  [tonsky/FiraCode](https://github.com/tonsky/FiraCode/)  |  README_JA.md  |  [#1537](https://github.com/tonsky/FiraCode/pull/1537)  |
 |  [tw93/Pake](https://github.com/tw93/Pake/)  |  README_JP.md  |  [#723](https://github.com/tw93/Pake/pull/723)  |
 |  [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai/)  |  docs/japanese.md  |  [#345](https://github.com/VinciGit00/Scrapegraph-ai/pull/345)  |
+|  [VisActor/VMind](https://github.com/VisActor/VMind/)  |  README-ja.md  |  [#146](https://github.com/VisActor/VMind/pull/146)  |
 |  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
 |  [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/)  |  README-ja.md  |  [#3157](https://github.com/WasmEdge/WasmEdge/pull/3157)  |
 |  [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts/)  |  README_ja.md  |  [#54](https://github.com/xiangsx/gpt4free-ts/pull/54)  |
