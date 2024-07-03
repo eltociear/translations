@@ -31,6 +31,7 @@
 |  [dream-num/univer](https://github.com/dream-num/univer/)  |  README-ja.md  |  [#857](https://github.com/dream-num/univer/pull/857)  |
 |  [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT/)  |  README.ja.md  |  [#1593](https://github.com/eosphoros-ai/DB-GPT/pull/1593)  |
 |  [Eugeny/tabby](https://github.com/Eugeny/tabby/)  |  README.ja-JP.md  |  [#6894](https://github.com/Eugeny/tabby/pull/6894)  |
+|  [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech/)  |  docs/ja/finetune.md<br>docs/ja/index.md<br>docs/ja/inference.md<br>docs/ja/samples.md<br>  |  [#3182](https://github.com/fishaudio/fish-speech/pull/3182)  |
 |  [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise/)  |  README-JA.md  |  [#2202](https://github.com/FlowiseAI/Flowise/pull/2202)  |
 |  [geekan/MetaGPT](https://github.com/geekan/MetaGPT/)  |  docs/README_JA.md  |  [#12](https://github.com/geekan/MetaGPT/pull/12)  |
 |  [gojue/ecapture](https://github.com/gojue/ecapture/)  |  README_JA.md  |  [#324](https://github.com/gojue/ecapture/pull/324)  |
