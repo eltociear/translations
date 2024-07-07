@@ -88,6 +88,7 @@
 |  [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web/)  |  docs/README_JA.md  |  [#9](https://github.com/Ryan-yang125/ChatLLM-Web/pull/9)  |
 |  [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole/)  |  README.JA.md  |  [#410](https://github.com/Sangwan5688/BlackHole/pull/410)  |
 |  [SchneeHertz/exhentai-manga-manager](https://github.com/SchneeHertz/exhentai-manga-manager/)  |  README_JA.md  |  [#126](https://github.com/SchneeHertz/exhentai-manga-manager/pull/126)  |
+|  [shibing624/agentica](https://github.com/shibing624/agentica/)  |  README_JP.md  |  [#5](https://github.com/shibing624/agentica/pull/5)  |
 |  [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern/)  |  .github/readme-ja_jp.md  |  [#1604](https://github.com/SillyTavern/SillyTavern/pull/1604)  |
 |  [someu/aigotools](https://github.com/someu/aigotools/)  |  README.ja-JP.md  |  [#3](https://github.com/someu/aigotools/pull/3)  |
 |  [songquanpeng/one-api](https://github.com/songquanpeng/one-api/)  |  README.ja.md  |  [#425](https://github.com/songquanpeng/one-api/pull/425)  |
