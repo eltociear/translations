@@ -26,6 +26,7 @@
 |  [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor/)  |  CONTRIBUTING_ja-JP.md<br>DONATE_ja-JP.md<br>README_ja-JP.md  |  [#1144](https://github.com/cpeditor/cpeditor/pull/1144)  |
 |  [dataelement/bisheng](https://github.com/dataelement/bisheng/)  |  README_JPN.md  |  [#268](https://github.com/dataelement/bisheng/pull/268)  |
 |  [deepflowio/deepflow](https://github.com/deepflowio/deepflow/)  |  README-JP.md  |  [#6880](https://github.com/deepflowio/deepflow/pull/6880)  |
+|  [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)  |  README-ja.md  |  [#521](https://github.com/deniscerri/ytdlnis/pull/521)  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus/)  |  translations/ja-jp/README.md  |  [#1329](https://github.com/DioxusLabs/dioxus/pull/1329)  |
 |  [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/)  |  README_JA.md  |  [#44](https://github.com/dmMaze/BallonsTranslator/pull/44)  |
 |  [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly/)  |  README.ja-JP.md  |  [#1494](https://github.com/dragonflydb/dragonfly/pull/1494)  |
