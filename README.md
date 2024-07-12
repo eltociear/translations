@@ -67,6 +67,7 @@
 |  [LorisYounger/VPet](https://github.com/LorisYounger/VPet/)  |  README_ja.md  |  [#284](https://github.com/LorisYounger/VPet/pull/284)  |
 |  [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray/)  |  README_ja.md  |  [#988](https://github.com/MatsuriDayo/nekoray/pull/988)  |
 |  [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm/)  |  README.ja-JP.md  |  [#988](https://github.com/Mintplex-Labs/anything-llm/pull/1574)  |
+|  [mobxjs/mobx.dart](https://github.com/mobxjs/mobx.dart/)  |  translation/ja-JP/README.md  |  [#1005](https://github.com/mobxjs/mobx.dart/pull/1005)  |
 |  [modelscope/modelscope](https://github.com/modelscope/modelscope/)  |  README_ja.md  |  [#405](https://github.com/modelscope/modelscope/pull/405)  |
 |  [modelscope/modelscope-studio](https://github.com/modelscope/modelscope-studio/)  |  README-ja_JP.md  |  [#1](https://github.com/modelscope/modelscope-studio/pull/1)  |
 |  [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything/)  |  README_jp.md  |  [#374](https://github.com/netease-youdao/QAnything/pull/374)  |
