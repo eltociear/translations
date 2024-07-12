@@ -97,6 +97,7 @@
 |  [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern/)  |  .github/readme-ja_jp.md  |  [#1604](https://github.com/SillyTavern/SillyTavern/pull/1604)  |
 |  [someu/aigotools](https://github.com/someu/aigotools/)  |  README.ja-JP.md  |  [#3](https://github.com/someu/aigotools/pull/3)  |
 |  [songquanpeng/one-api](https://github.com/songquanpeng/one-api/)  |  README.ja.md  |  [#425](https://github.com/songquanpeng/one-api/pull/425)  |
+|  [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt/)  |  README.ja.md  |  [#7](https://github.com/SoraEase/sora-prompt/pull/7)  |
 |  [SoraWebui/SoraWebui](https://github.com/SoraWebui/SoraWebui/)  |  README.ja-JP.md  |  [#9](https://github.com/SoraWebui/SoraWebui/pull/9)  |
 |  [sunner/ChatALL](https://github.com/sunner/ChatALL/)  |  README_JA-JP.md  |  [#50](https://github.com/sunner/ChatALL/pull/50)  |
 |  [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API/)  |  README_JA.md  |  [#7](https://github.com/SunoAI-API/Suno-API/pull/7)  |
