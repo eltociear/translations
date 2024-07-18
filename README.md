@@ -8,6 +8,7 @@
 |  [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT/)  |  docs/README_ja.md  |  [#1344](https://github.com/acheong08/ChatGPT/pull/1344)  |
 |  [acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API/)  |  README_JAmd  |  [#93](https://github.com/acheong08/ChatGPT-to-API/pull/93)  |
 |  [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT/)  |  docs/README_ja.md  |  [#318](https://github.com/acheong08/EdgeGPT/pull/318)  |
+|  [adamlui/chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh/)  |  docs/ja/LISENCE.md<br>docs/ja/PRIVACY.md<br>docs/ja/README.md<br>docs/ja/SECURITY.md  |  [#59](https://github.com/adamlui/chatgpt-auto-refresh/pull/59)  |
 |  [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity/)  |  docs/ja/README.md  |  [#52](https://github.com/adamlui/chatgpt-infinity/pull/52)  |
 |  [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor/)  |  readme.ja.md  |  [#44](https://github.com/aieditor-team/AiEditor/pull/44)  |
 |  [aistra0528/Hail](https://github.com/aistra0528/Hail/)  |  README_JP.md  |  [#253](https://github.com/aistra0528/Hail/pull/253)  |
