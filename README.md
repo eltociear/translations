@@ -18,6 +18,7 @@
 |  [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein/)  |  README_ja.md<br>TUTORIAL_ja.md  |  [#57](https://github.com/AndersonBY/vector-vein/pull/57)  |
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
 |  [apernet/OpenGFW](https://github.com/apernet/OpenGFW/)  |  README.ja.md  |  [#31](https://github.com/apernet/OpenGFW/pull/31)  |
+|  [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher/)  |  README-ja_JP.md  |  [#686](https://github.com/assafelovic/gpt-researcher/pull/686)  |
 |  [AXYZdong/AMchat](https://github.com/AXYZdong/AMchat/)  |  README_ja-JP.md  |  [#11](https://github.com/AXYZdong/AMchat/pull/11)  |
 |  [beam-cloud/beta9](https://github.com/beam-cloud/beta9/)  |  docs/jp/README.md  |  [#270](https://github.com/beam-cloud/beta9/pull/270)  |
 |  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
