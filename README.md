@@ -61,6 +61,7 @@
 |  [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT/)  |  docs/README_JA.md  |  [#31](https://github.com/kuafuai/DevOpsGPT/pull/31)  |
 |  [KwaiKEG/KwaiAgents](https://github.com/KwaiKEG/KwaiAgents/)  |  README_JA.md  |  [#24](https://github.com/KwaiKEG/KwaiAgents/pull/24)  |
 |  [labring/FastGPT](https://github.com/labring/FastGPT/)  |  README_ja.md  |  [#455](https://github.com/labring/FastGPT/pull/455)  |
+|  [langflow-ai/langflow](https://github.com/langflow-ai/langflow/)  |  README.ja.md  |  [#2760](https://github.com/langflow-ai/langflow/pull/2760)  |
 |  [langgenius/dify](https://github.com/langgenius/dify/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#96](https://github.com/langgenius/dify/pull/96)  |
 |  [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya/)  |  README_JA.md  |  [#32](https://github.com/LC1332/Chat-Haruhi-Suzumiya/pull/32)  |
 |  [LeKovr/webtail](https://github.com/LeKovr/webtail/)  |  README.ja.md  |  [#17](https://github.com/LeKovr/webtail/pull/17)  |
