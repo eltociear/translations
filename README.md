@@ -59,6 +59,7 @@
 |  [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox/)  |  README_JA.md  |  [#549](https://github.com/josStorer/chatGPTBox/pull/549)  |
 |  [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner/)  |  README_JA.md  |  [#100](https://github.com/josStorer/RWKV-Runner/pull/100)  |
 |  [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt/)  |  README_JA.md  |  [#3](https://github.com/jtsang4/claude-to-chatgpt/pull/3)  |
+|  [kevwan/tproxy](https://github.com/kevwan/tproxy/)  |  readme-ja.md  |  [#92](https://github.com/kevwan/tproxy/pull/92)  |
 |  [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT/)  |  docs/README_JA.md  |  [#31](https://github.com/kuafuai/DevOpsGPT/pull/31)  |
 |  [KwaiKEG/KwaiAgents](https://github.com/KwaiKEG/KwaiAgents/)  |  README_JA.md  |  [#24](https://github.com/KwaiKEG/KwaiAgents/pull/24)  |
 |  [labring/FastGPT](https://github.com/labring/FastGPT/)  |  README_ja.md  |  [#455](https://github.com/labring/FastGPT/pull/455)  |
