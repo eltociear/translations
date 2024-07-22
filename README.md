@@ -71,6 +71,7 @@
 |  [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy/)  |  readmes/README.ja.md  |  [#3620](https://github.com/LemmyNet/lemmy/pull/3620)  |
 |  [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/)  |  README-JP.md  |  [#2908](https://github.com/lf-edge/ekuiper/pull/2908)  |
 |  [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney/)  |  README_JA.md  |  [#23](https://github.com/Licoy/ChatGPT-Midjourney/pull/23)  |
+|  [lindb/lindb](https://github.com/lindb/lindb/)  |  README-ja.md  |  [#1039](https://github.com/lindb/lindb/pull/1039)  |
 |  [LinkSoul-AI/AutoAgents](https://github.com/LinkSoul-AI/AutoAgents/)  |  docs/README_JA.md  |  [#23](https://github.com/LinkSoul-AI/AutoAgents/pull/23)  |
 |  [linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai/)  |  README_JA.md  |  [#7](https://github.com/linyiLYi/snake-ai/pull/7)  |
 |  [LongxingTan/open-retrievals](https://github.com/LongxingTan/open-retrievals/)  |  README_ja-JP.md  |  [#40](https://github.com/LongxingTan/open-retrievals/pull/40)  |
