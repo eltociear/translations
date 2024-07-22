@@ -50,6 +50,7 @@
 |  [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next/)  |  README_ja.md  |  [#371](https://github.com/hiddify/hiddify-next/pull/371)  |
 |  [huggingface/transformers](https://github.com/huggingface/transformers/)  |  README_ja.md  |  [#19945](https://github.com/huggingface/transformers/pull/19945)  |
 |  [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#142](https://github.com/HuolalaTech/page-spy-web/pull/142)<br>[#143](https://github.com/HuolalaTech/page-spy-web/pull/143)  |
+|  [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs/)  |  README_ja.md  |  [#320](https://github.com/hushenghao/AndroidEasterEggs/pull/320)  |
 |  [immich-app/immich](https://github.com/immich-app/immich/)  |  README_ja_JP.md  |  [#4268](https://github.com/immich-app/immich/pull/4268)  |
 |  [infiniflow/ragflow](https://github.com/infiniflow/ragflow/)  |  README_ja.md  |  [#224](https://github.com/infiniflow/ragflow/pull/224)  |
 |  [Infisical/infisical](https://github.com/Infisical/infisical/)  |  i18n/README.ja.md  |  [#399](https://github.com/Infisical/infisical/pull/399)  |
@@ -113,6 +114,7 @@
 |  [sunner/ChatALL](https://github.com/sunner/ChatALL/)  |  README_JA-JP.md  |  [#50](https://github.com/sunner/ChatALL/pull/50)  |
 |  [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API/)  |  README_JA.md  |  [#7](https://github.com/SunoAI-API/Suno-API/pull/7)  |
 |  [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb/)  |  README_ja.md  |  [#1537](https://github.com/SuperDuperDB/superduperdb/pull/1537)  |
+|  [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown/)  |  README.JP.md  |  [#851](https://github.com/Tencent/cherry-markdown/pull/851)  |
 |  [tencentmusic/supersonic](https://github.com/tencentmusic/supersonic/)  |  README_JP.md  |  [#1177](https://github.com/tencentmusic/supersonic/pull/1177)  |
 |  [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2/)  |  README_JA.md  |  [#22](https://github.com/THUDM/CodeGeeX2/pull/22)  |
 |  [tikkid/JetbrainKiller](https://github.com/tikkid/JetbrainKiller/)  |  README_JA-JP.md  |  [#3](https://github.com/tikkid/JetbrainKiller/pull/3)  |
