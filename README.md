@@ -131,6 +131,7 @@
 |  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
 |  [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/)  |  README-ja.md  |  [#3157](https://github.com/WasmEdge/WasmEdge/pull/3157)  |
 |  [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts/)  |  README_ja.md  |  [#54](https://github.com/xiangsx/gpt4free-ts/pull/54)  |
+|  [XingYu-Zhong/FSRL](https://github.com/XingYu-Zhong/FSRL/)  |  readme_ja.md  |  [#1](https://github.com/XingYu-Zhong/FSRL/pull/1)  |
 |  [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents/)  |  README_JA.md  |  [#13](https://github.com/xlang-ai/OpenAgents/pull/13)  |
 |  [xorbitsai/inference](https://github.com/xorbitsai/inference/)  |  README_ja_JP.md  |  [#228](https://github.com/xorbitsai/inference/pull/228)  |
 |  [xverse-ai/XVERSE-13B](https://github.com/xverse-ai/XVERSE-13B/)  |  README_JA.md  |  [#13](https://github.com/xverse-ai/XVERSE-13B/pull/13)  |
