@@ -79,6 +79,7 @@
 |  [linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai/)  |  README_JA.md  |  [#7](https://github.com/linyiLYi/snake-ai/pull/7)  |
 |  [LongxingTan/open-retrievals](https://github.com/LongxingTan/open-retrievals/)  |  README_ja-JP.md  |  [#40](https://github.com/LongxingTan/open-retrievals/pull/40)  |
 |  [LorisYounger/VPet](https://github.com/LorisYounger/VPet/)  |  README_ja.md  |  [#284](https://github.com/LorisYounger/VPet/pull/284)  |
+|  [MaoXiaoYuZ/AutoChatScript](https://github.com/MaoXiaoYuZ/AutoChatScript/)  |  readme_jp.md  |  [#2](https://github.com/MaoXiaoYuZ/AutoChatScript/pull/2)  |
 |  [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray/)  |  README_ja.md  |  [#988](https://github.com/MatsuriDayo/nekoray/pull/988)  |
 |  [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm/)  |  README.ja-JP.md  |  [#988](https://github.com/Mintplex-Labs/anything-llm/pull/1574)  |
 |  [mobxjs/mobx.dart](https://github.com/mobxjs/mobx.dart/)  |  translation/ja-JP/README.md  |  [#1005](https://github.com/mobxjs/mobx.dart/pull/1005)  |
