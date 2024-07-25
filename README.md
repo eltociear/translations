@@ -23,6 +23,7 @@
 |  [beam-cloud/beta9](https://github.com/beam-cloud/beta9/)  |  docs/jp/README.md  |  [#270](https://github.com/beam-cloud/beta9/pull/270)  |
 |  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
 |  [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter/)  |  README_ja.md  |  [#12](https://github.com/bleedline/aimoneyhunter/pull/12)  |
+|  [bytedance/g3](https://github.com/bytedance/g3/)  |  README.ja_JP.md  |  [#268](https://github.com/bytedance/g3/pull/268)  |
 |  [bytedance/vArmor](https://github.com/bytedance/vArmor/)  |  README.ja.md  |  [#104](https://github.com/bytedance/vArmor/pull/104)  |
 |  [bz-lab/AUITestAgent](https://github.com/bz-lab/AUITestAgent/)  |  README_ja.md  |  [#4](https://github.com/bz-lab/AUITestAgent/pull/4)  |
 |  [ca110us/epeius](https://github.com/ca110us/epeius/)  |  README-ja_JP.md  |  [#7](https://github.com/ca110us/epeius/pull/7)  |
@@ -66,6 +67,7 @@
 |  [KID-joker/stokado](https://github.com/KID-joker/stokado/)  |  README.ja.md  |  [#13](https://github.com/KID-joker/stokado/pull/13)  |
 |  [kitUIN/PicImageSearch](https://github.com/kitUIN/PicImageSearch/)  |  README.ja.md  |  [#166](https://github.com/kitUIN/PicImageSearch/pull/166)  |
 |  [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT/)  |  docs/README_JA.md  |  [#31](https://github.com/kuafuai/DevOpsGPT/pull/31)  |
+|  [kubesphere/kubekey](https://github.com/kubesphere/kubekey/)  |  README_ja-JP.md  |  [#2329](https://github.com/kubesphere/kubekey/pull/2329)  |
 |  [KwaiKEG/KwaiAgents](https://github.com/KwaiKEG/KwaiAgents/)  |  README_JA.md  |  [#24](https://github.com/KwaiKEG/KwaiAgents/pull/24)  |
 |  [labring/FastGPT](https://github.com/labring/FastGPT/)  |  README_ja.md  |  [#455](https://github.com/labring/FastGPT/pull/455)  |
 |  [langflow-ai/langflow](https://github.com/langflow-ai/langflow/)  |  README.ja.md  |  [#2760](https://github.com/langflow-ai/langflow/pull/2760)  |
