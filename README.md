@@ -143,6 +143,7 @@
 |  [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents/)  |  README_JA.md  |  [#13](https://github.com/xlang-ai/OpenAgents/pull/13)  |
 |  [xorbitsai/inference](https://github.com/xorbitsai/inference/)  |  README_ja_JP.md  |  [#228](https://github.com/xorbitsai/inference/pull/228)  |
 |  [xverse-ai/XVERSE-13B](https://github.com/xverse-ai/XVERSE-13B/)  |  README_JA.md  |  [#13](https://github.com/xverse-ai/XVERSE-13B/pull/13)  |
+|  [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent/)  |  README_ja.md  |  [#36](https://github.com/X-PLUG/MobileAgent/pull/36)  |
 |  [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web/)  |  README_JA.md<br>docs/cloudflare-pages-ja.md<br>docs/faq-ja.md<br>docs/vercel-ja.md  |  [#2607](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/2607)  |
 |  [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi/)  |  docs/README-ja.md  |  [#176](https://github.com/yoheinakajima/babyagi/pull/176)  |
 |  [zadam/trilium](https://github.com/zadam/trilium/)  |  README.ja.md  |  [#3771](https://github.com/zadam/trilium/pull/3771)  |
