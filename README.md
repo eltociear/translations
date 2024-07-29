@@ -95,6 +95,7 @@
 |  [One-Language/One](https://github.com/One-Language/One/)  |  README_JA.md  |  [#359](https://github.com/One-Language/One/pull/359)  |
 |  [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev/)  |  README-Japanese.md  |  [#15](https://github.com/OpenBMB/ChatDev/pull/15)  |
 |  [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent/)  |  README_JA.md  |  [#159](https://github.com/OpenBMB/XAgent/pull/159)  |
+|  [opendatalab/MinerU](https://github.com/opendatalab/MinerU/)  |  README_ja-JP.md  |  [#231](https://github.com/opendatalab/MinerU/pull/231)  |
 |  [opendilab/LLMRiddles](https://github.com/opendilab/LLMRiddles/)  |  README_ja.md  |  [#21](https://github.com/opendilab/LLMRiddles/pull/21)  |
 |  [OpenInterpreter/01](https://github.com/OpenInterpreter/01/)  |  docs/README_JA.md  |  [#243](https://github.com/OpenInterpreter/01/pull/243)  |
 |  [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit/)  |  README_ja.md  |  [#232](https://github.com/open-compass/VLMEvalKit/pull/232)  |
