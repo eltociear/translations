@@ -15,6 +15,7 @@
 |  [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D/)  |  README_jp.md  |  [#28](https://github.com/AiuniAI/Unique3D/pull/28)  |
 |  [alipay/agentUniverse](https://github.com/alipay/agentUniverse/)  |  README_jp.md  |  [#1344](https://github.com/alipay/agentUniverse/pull/68)  |
 |  [alist-org/alist](https://github.com/alist-org/alist/)  |  README_ja.md  |  [#4798](https://github.com/alist-org/alist/pull/4798)  |
+|  [aliyun/alibaba-cloud-sdk-go](https://github.com/aliyun/alibaba-cloud-sdk-go/)  |  README-JP.md  |  [#631](https://github.com/aliyun/alibaba-cloud-sdk-go/pull/631)  |
 |  [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein/)  |  README_ja.md<br>TUTORIAL_ja.md  |  [#57](https://github.com/AndersonBY/vector-vein/pull/57)  |
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
 |  [apernet/OpenGFW](https://github.com/apernet/OpenGFW/)  |  README.ja.md  |  [#31](https://github.com/apernet/OpenGFW/pull/31)  |
@@ -24,6 +25,7 @@
 |  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
 |  [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter/)  |  README_ja.md  |  [#12](https://github.com/bleedline/aimoneyhunter/pull/12)  |
 |  [bytedance/g3](https://github.com/bytedance/g3/)  |  README.ja_JP.md  |  [#268](https://github.com/bytedance/g3/pull/268)  |
+|  [bytedance/scene](https://github.com/bytedance/scene/)  |  README_ja.md  |  [#70](https://github.com/bytedance/scene/pull/70)  |
 |  [bytedance/vArmor](https://github.com/bytedance/vArmor/)  |  README.ja.md  |  [#104](https://github.com/bytedance/vArmor/pull/104)  |
 |  [bz-lab/AUITestAgent](https://github.com/bz-lab/AUITestAgent/)  |  README_ja.md  |  [#4](https://github.com/bz-lab/AUITestAgent/pull/4)  |
 |  [ca110us/epeius](https://github.com/ca110us/epeius/)  |  README-ja_JP.md  |  [#7](https://github.com/ca110us/epeius/pull/7)  |
