@@ -52,9 +52,11 @@
 |  [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed/)  |  CONTRIBUTING_ja-JP.md<br>README_ja-JP.md<br>ui/flutter/assets/locales/ja_JP.json  |  [#139](https://github.com/GopeedLab/gopeed/pull/139)  |
 |  [go-nunu/nunu](https://github.com/go-nunu/nunu/)  |  README_jp.md  |  [#59](https://github.com/go-nunu/nunu/pull/59)  |
 |  [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next/)  |  README_ja.md  |  [#371](https://github.com/hiddify/hiddify-next/pull/371)  |
+|  [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement/)  |  README_JP.md<br>Tutorial_JP.md  |  [#107](https://github.com/HolographicHat/YaeAchievement/pull/107)  |
 |  [huggingface/transformers](https://github.com/huggingface/transformers/)  |  README_ja.md  |  [#19945](https://github.com/huggingface/transformers/pull/19945)  |
 |  [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#142](https://github.com/HuolalaTech/page-spy-web/pull/142)<br>[#143](https://github.com/HuolalaTech/page-spy-web/pull/143)  |
 |  [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs/)  |  README_ja.md  |  [#320](https://github.com/hushenghao/AndroidEasterEggs/pull/320)  |
+|  [iGeeky/wolf](https://github.com/iGeeky/wolf/)  |  README-JA.md  |  [#52](https://github.com/iGeeky/wolf/pull/52)  |
 |  [immich-app/immich](https://github.com/immich-app/immich/)  |  README_ja_JP.md  |  [#4268](https://github.com/immich-app/immich/pull/4268)  |
 |  [infiniflow/ragflow](https://github.com/infiniflow/ragflow/)  |  README_ja.md  |  [#224](https://github.com/infiniflow/ragflow/pull/224)  |
 |  [Infisical/infisical](https://github.com/Infisical/infisical/)  |  i18n/README.ja.md  |  [#399](https://github.com/Infisical/infisical/pull/399)  |
