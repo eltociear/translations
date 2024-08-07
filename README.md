@@ -154,6 +154,7 @@
 |  [xorbitsai/inference](https://github.com/xorbitsai/inference/)  |  README_ja_JP.md  |  [#228](https://github.com/xorbitsai/inference/pull/228)  |
 |  [xverse-ai/XVERSE-13B](https://github.com/xverse-ai/XVERSE-13B/)  |  README_JA.md  |  [#13](https://github.com/xverse-ai/XVERSE-13B/pull/13)  |
 |  [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI/)  |  readme_ja.md  |  [#87](https://github.com/xvzc/SpoofDPI/pull/87)  |
+|  [x-extends/vxe-table](https://github.com/x-extends/vxe-table/)  |  README.ja-JP.md  |  [#2496](https://github.com/x-extends/vxe-table/pull/2496)  |
 |  [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent/)  |  README_ja.md  |  [#36](https://github.com/X-PLUG/MobileAgent/pull/36)  |
 |  [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web/)  |  README_JA.md<br>docs/cloudflare-pages-ja.md<br>docs/faq-ja.md<br>docs/vercel-ja.md  |  [#2607](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/2607)  |
 |  [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi/)  |  docs/README-ja.md  |  [#176](https://github.com/yoheinakajima/babyagi/pull/176)  |
