@@ -118,6 +118,7 @@
 |  [Project-DARC/DARC](https://github.com/Project-DARC/DARC/)  |  README_ja.md  |  [#28](https://github.com/Project-DARC/DARC/pull/28)  |
 |  [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL/)  |  FAQ_ja.md<br>README_JA.md<br>TUTORIAL_ja.md<br>touchstone/README_JA.md  |  [#16](https://github.com/QwenLM/Qwen-VL/pull/16)<br>[#41](https://github.com/QwenLM/Qwen-VL/pull/41)  |
 |  [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B/)  |  FAQ_ja.md<br>README_JA.md<br>tokenization_note_ja.md  |  [#79](https://github.com/QwenLM/Qwen-7B/pull/79)<br>[#216](https://github.com/QwenLM/Qwen-7B/pull/216)  |
+|  [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner/)  |  docs/README_JP.md  |  [#822](https://github.com/RealKai42/qwerty-learner/pull/822)  |
 |  [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin/)  |  Resources/AVR_Miner_langs.json<br>Resources/CLI_Wallet_langs.json<br>Resources/PC_Miner_langs.json<br>Resources/README_TRANSLATIONS/README_ja_JP.md<br>Resources/Wallet_langs.json  |  [#1563](https://github.com/revoxhere/duino-coin/pull/1563)  |
 |  [rte-design/ASTRA.ai](https://github.com/rte-design/ASTRA.ai/)  |  docs/readmes/README-JP.md  |  [#192](https://github.com/rte-design/ASTRA.ai/pull/192)  |
 |  [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk/)  |  docs/CODE_OF_CONDUCT-JP.md<br>docs/CONTRIBUTING-JP.md<br>docs/DEVCONTAINER-JP.md<br>docs/SECURITY-JP.md  |  [#6963](https://github.com/rustdesk/rustdesk/pull/6963)  |
