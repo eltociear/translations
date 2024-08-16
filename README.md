@@ -21,6 +21,7 @@
 |  [apernet/OpenGFW](https://github.com/apernet/OpenGFW/)  |  README.ja.md  |  [#31](https://github.com/apernet/OpenGFW/pull/31)  |
 |  [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher/)  |  README-ja_JP.md  |  [#686](https://github.com/assafelovic/gpt-researcher/pull/686)  |
 |  [AXYZdong/AMchat](https://github.com/AXYZdong/AMchat/)  |  README_ja-JP.md  |  [#11](https://github.com/AXYZdong/AMchat/pull/11)  |
+|  [baidubce/app-builder](https://github.com/baidubce/app-builder/)  |  README_ja.md  |  [#461](https://github.com/baidubce/app-builder/pull/461)  |
 |  [beam-cloud/beta9](https://github.com/beam-cloud/beta9/)  |  docs/jp/README.md  |  [#270](https://github.com/beam-cloud/beta9/pull/270)  |
 |  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
 |  [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter/)  |  README_ja.md  |  [#12](https://github.com/bleedline/aimoneyhunter/pull/12)  |
