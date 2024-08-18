@@ -146,6 +146,7 @@
 |  [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2/)  |  README_JA.md  |  [#22](https://github.com/THUDM/CodeGeeX2/pull/22)  |
 |  [THUDM/CogVideo](https://github.com/THUDM/CogVideo/)  |  README_ja.md<br>sat/README_ja.md<br>tools/caption/README_ja.md  |  [#76](https://github.com/THUDM/CogVideo/pull/76)  |
 |  [tikkid/JetbrainKiller](https://github.com/tikkid/JetbrainKiller/)  |  README_JA-JP.md  |  [#3](https://github.com/tikkid/JetbrainKiller/pull/3)  |
+|  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm/)  |  README_ja.md  |  [#335](https://github.com/tiny-craft/tiny-rdm/pull/335)  |
 |  [tonsky/FiraCode](https://github.com/tonsky/FiraCode/)  |  README_JA.md  |  [#1537](https://github.com/tonsky/FiraCode/pull/1537)  |
 |  [tw93/Pake](https://github.com/tw93/Pake/)  |  README_JP.md  |  [#723](https://github.com/tw93/Pake/pull/723)  |
 |  [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin/)  |  README.ja-JP.md  |  [#4028](https://github.com/vbenjs/vue-vben-admin/pull/4028)  |
