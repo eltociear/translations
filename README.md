@@ -145,6 +145,7 @@
 |  [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown/)  |  README.JP.md  |  [#851](https://github.com/Tencent/cherry-markdown/pull/851)  |
 |  [tencentmusic/supersonic](https://github.com/tencentmusic/supersonic/)  |  README_JP.md  |  [#1177](https://github.com/tencentmusic/supersonic/pull/1177)  |
 |  [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2/)  |  README_JA.md  |  [#22](https://github.com/THUDM/CodeGeeX2/pull/22)  |
+|  [THUDM/CodeGeeX4](https://github.com/THUDM/CodeGeeX4/)  |  README_ja.md  |  [#22](https://github.com/THUDM/CodeGeeX4/pull/51)  |
 |  [THUDM/CogVideo](https://github.com/THUDM/CogVideo/)  |  README_ja.md<br>sat/README_ja.md<br>tools/caption/README_ja.md  |  [#76](https://github.com/THUDM/CogVideo/pull/76)  |
 |  [tikkid/JetbrainKiller](https://github.com/tikkid/JetbrainKiller/)  |  README_JA-JP.md  |  [#3](https://github.com/tikkid/JetbrainKiller/pull/3)  |
 |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm/)  |  README_ja.md  |  [#335](https://github.com/tiny-craft/tiny-rdm/pull/335)  |
