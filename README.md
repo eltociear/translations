@@ -169,6 +169,7 @@
 |  [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web/)  |  README_JA.md<br>docs/cloudflare-pages-ja.md<br>docs/faq-ja.md<br>docs/vercel-ja.md  |  [#2607](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/2607)  |
 |  [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi/)  |  docs/README-ja.md  |  [#176](https://github.com/yoheinakajima/babyagi/pull/176)  |
 |  [zadam/trilium](https://github.com/zadam/trilium/)  |  README.ja.md  |  [#3771](https://github.com/zadam/trilium/pull/3771)  |
+|  [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos/)  |  README_JP.md  |  [#19](https://github.com/Zeyi-Lin/HivisionIDPhotos/pull/19)  |
 |  [zhiguoxu/flowx](https://github.com/zhiguoxu/flowx/)  |  README_ja-JP.md  |  [#1](https://github.com/zhiguoxu/flowx/pull/1)  |
 |  [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org/)  |  content/_index.ja.md<br>content/download/_index.ja.md<br>content/learn/_index.ja.md<br>content/learn/getting-started.ja.md<br>content/learn/overview.ja.md<br>content/learn/samples.ja.md<br>content/learn/tools.ja.md<br>content/learn/why_zig_rust_d_cpp.ja.md<br>content/news/_index.ja.md<br>content/zsf/index.ja.md<br>themes/ziglang-original/i18n/ja.toml  |  [#212](https://github.com/ziglang/www.ziglang.org/pull/212)  |
 |  [zyronon/douyin](https://github.com/zyronon/douyin/)  |  README-ja-JP.md  |  [#54](https://github.com/zyronon/douyin/pull/54)  |
