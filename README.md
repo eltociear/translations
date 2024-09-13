@@ -110,6 +110,7 @@
 |  [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent/)  |  README_JA.md  |  [#159](https://github.com/OpenBMB/XAgent/pull/159)  |
 |  [OpenCSGs/CSGHub](https://github.com/OpenCSGs/CSGHub/)  |  docs/readme_ja.md  |  [#403](https://github.com/OpenCSGs/CSGHub/pull/403)  |
 |  [opendatalab/MinerU](https://github.com/opendatalab/MinerU/)  |  README_ja-JP.md  |  [#231](https://github.com/opendatalab/MinerU/pull/231)  |
+|  [opendatalab/UniMERNet](https://github.com/opendatalab/UniMERNet/)  |  README-ja.md  |  [#24](https://github.com/opendatalab/UniMERNet/pull/24)  |
 |  [opendilab/LLMRiddles](https://github.com/opendilab/LLMRiddles/)  |  README_ja.md  |  [#21](https://github.com/opendilab/LLMRiddles/pull/21)  |
 |  [OpenInterpreter/01](https://github.com/OpenInterpreter/01/)  |  docs/README_JA.md  |  [#243](https://github.com/OpenInterpreter/01/pull/243)  |
 |  [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit/)  |  README_ja.md  |  [#232](https://github.com/open-compass/VLMEvalKit/pull/232)  |
