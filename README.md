@@ -18,6 +18,7 @@
 |  [aliyun/alibaba-cloud-sdk-go](https://github.com/aliyun/alibaba-cloud-sdk-go/)  |  README-JP.md  |  [#631](https://github.com/aliyun/alibaba-cloud-sdk-go/pull/631)  |
 |  [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein/)  |  README_ja.md<br>TUTORIAL_ja.md  |  [#57](https://github.com/AndersonBY/vector-vein/pull/57)  |
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
+|  [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons/)  |  packages/icons-svg/docs/ContributionGuide.ja-JP.md  |  [#658](https://github.com/ant-design/ant-design-icons/pull/658)  |
 |  [apernet/OpenGFW](https://github.com/apernet/OpenGFW/)  |  README.ja.md  |  [#31](https://github.com/apernet/OpenGFW/pull/31)  |
 |  [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher/)  |  README-ja_JP.md  |  [#686](https://github.com/assafelovic/gpt-researcher/pull/686)  |
 |  [AXYZdong/AMchat](https://github.com/AXYZdong/AMchat/)  |  README_ja-JP.md  |  [#11](https://github.com/AXYZdong/AMchat/pull/11)  |
