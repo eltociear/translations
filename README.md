@@ -110,6 +110,7 @@
 |  [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev/)  |  README-Japanese.md  |  [#15](https://github.com/OpenBMB/ChatDev/pull/15)  |
 |  [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent/)  |  README_JA.md  |  [#159](https://github.com/OpenBMB/XAgent/pull/159)  |
 |  [OpenCSGs/CSGHub](https://github.com/OpenCSGs/CSGHub/)  |  docs/readme_ja.md  |  [#403](https://github.com/OpenCSGs/CSGHub/pull/403)  |
+|  [OpenCSGs/csghub-server](https://github.com/OpenCSGs/csghub-server/)  |  README_ja.md  |  [#121](https://github.com/OpenCSGs/csghub-server/pull/121)  |
 |  [opendatalab/MinerU](https://github.com/opendatalab/MinerU/)  |  README_ja-JP.md  |  [#231](https://github.com/opendatalab/MinerU/pull/231)  |
 |  [opendatalab/UniMERNet](https://github.com/opendatalab/UniMERNet/)  |  README-ja.md  |  [#24](https://github.com/opendatalab/UniMERNet/pull/24)  |
 |  [opendilab/LLMRiddles](https://github.com/opendilab/LLMRiddles/)  |  README_ja.md  |  [#21](https://github.com/opendilab/LLMRiddles/pull/21)  |
