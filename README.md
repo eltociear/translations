@@ -70,6 +70,7 @@
 |  [InternLM/lagent](https://github.com/InternLM/lagent/)  |  README_ja_JP.md<br>docs/ja/get_started/overview.md  |  [#42](https://github.com/InternLM/lagent/pull/42)  |
 |  [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy/)  |  README_ja.md  |  [#2237](https://github.com/InternLM/lmdeploy/pull/2237)  |
 |  [ish-app/ish](https://github.com/ish-app/ish/)  |  README_JP.md  |  [#2427](https://github.com/ish-app/ish/pull/2427)  |
+|  [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub/)  |  README.ja.md  |  [#16](https://github.com/jaywcjlove/DevHub/pull/16)  |
 |  [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox/)  |  README_JA.md  |  [#549](https://github.com/josStorer/chatGPTBox/pull/549)  |
 |  [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner/)  |  README_JA.md  |  [#100](https://github.com/josStorer/RWKV-Runner/pull/100)  |
 |  [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt/)  |  README_JA.md  |  [#3](https://github.com/jtsang4/claude-to-chatgpt/pull/3)  |
