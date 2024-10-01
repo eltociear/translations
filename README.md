@@ -59,6 +59,7 @@
 |  [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events/)  |  README.ja.md  |  [#200](https://github.com/HiEventsDev/Hi.Events/pull/200)  |
 |  [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next/)  |  README_ja.md  |  [#371](https://github.com/hiddify/hiddify-next/pull/371)  |
 |  [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement/)  |  README_JP.md<br>Tutorial_JP.md  |  [#107](https://github.com/HolographicHat/YaeAchievement/pull/107)  |
+|  [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo/)  |  README.ja.md<br>docs/pages/_meta.ja.json<br>docs/pages/docs/_meta.ja.json  |  [#78](https://github.com/Huanshere/VideoLingo/pull/78)  |
 |  [huggingface/transformers](https://github.com/huggingface/transformers/)  |  README_ja.md  |  [#19945](https://github.com/huggingface/transformers/pull/19945)  |
 |  [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#142](https://github.com/HuolalaTech/page-spy-web/pull/142)<br>[#143](https://github.com/HuolalaTech/page-spy-web/pull/143)  |
 |  [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs/)  |  README_ja.md  |  [#320](https://github.com/hushenghao/AndroidEasterEggs/pull/320)  |
