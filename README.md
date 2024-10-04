@@ -75,6 +75,7 @@
 |  [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox/)  |  README_JA.md  |  [#549](https://github.com/josStorer/chatGPTBox/pull/549)  |
 |  [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner/)  |  README_JA.md  |  [#100](https://github.com/josStorer/RWKV-Runner/pull/100)  |
 |  [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt/)  |  README_JA.md  |  [#3](https://github.com/jtsang4/claude-to-chatgpt/pull/3)  |
+|  [keploy/keploy](https://github.com/keploy/keploy/)  |  READMEja-JP.md  |  [#2315](https://github.com/keploy/keploy/pull/2315)  |
 |  [kevwan/tproxy](https://github.com/kevwan/tproxy/)  |  readme-ja.md  |  [#92](https://github.com/kevwan/tproxy/pull/92)  |
 |  [KID-joker/stokado](https://github.com/KID-joker/stokado/)  |  README.ja.md  |  [#13](https://github.com/KID-joker/stokado/pull/13)  |
 |  [kitUIN/PicImageSearch](https://github.com/kitUIN/PicImageSearch/)  |  README.ja.md  |  [#166](https://github.com/kitUIN/PicImageSearch/pull/166)  |
