@@ -181,6 +181,7 @@
 |  [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent/)  |  README_ja.md  |  [#36](https://github.com/X-PLUG/MobileAgent/pull/36)  |
 |  [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web/)  |  README_JA.md<br>docs/cloudflare-pages-ja.md<br>docs/faq-ja.md<br>docs/vercel-ja.md  |  [#2607](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/2607)  |
 |  [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi/)  |  docs/README-ja.md  |  [#176](https://github.com/yoheinakajima/babyagi/pull/176)  |
+|  [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai/)  |  README_JP.md  |  [#59](https://github.com/yokingma/search_with_ai/pull/59)  |
 |  [zadam/trilium](https://github.com/zadam/trilium/)  |  README.ja.md  |  [#3771](https://github.com/zadam/trilium/pull/3771)  |
 |  [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos/)  |  README_JP.md  |  [#19](https://github.com/Zeyi-Lin/HivisionIDPhotos/pull/19)  |
 |  [zhiguoxu/flowx](https://github.com/zhiguoxu/flowx/)  |  README_ja-JP.md  |  [#1](https://github.com/zhiguoxu/flowx/pull/1)  |
