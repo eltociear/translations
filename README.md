@@ -107,6 +107,7 @@
 |  [MLT-OSS/open-assistant-api](https://github.com/MLT-OSS/open-assistant-api/)  |  README_JP.md  |  [#85](https://github.com/MLT-OSS/open-assistant-api/pull/85)  |
 |  [mobxjs/mobx.dart](https://github.com/mobxjs/mobx.dart/)  |  translation/ja-JP/README.md  |  [#1005](https://github.com/mobxjs/mobx.dart/pull/1005)  |
 |  [ModelTC/llmc](https://github.com/ModelTC/llmc/)  |  README_ja.md  |  [#12](https://github.com/ModelTC/llmc/pull/12)  |
+|  [modelscope/agentscope](https://github.com/modelscope/agentscope/)  |  README_JA.md  |  [#455](https://github.com/modelscope/agentscope/pull/455)  |
 |  [modelscope/modelscope](https://github.com/modelscope/modelscope/)  |  README_ja.md  |  [#405](https://github.com/modelscope/modelscope/pull/405)  |
 |  [modelscope/modelscope-studio](https://github.com/modelscope/modelscope-studio/)  |  README-ja_JP.md  |  [#1](https://github.com/modelscope/modelscope-studio/pull/1)  |
 |  [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything/)  |  README_jp.md  |  [#374](https://github.com/netease-youdao/QAnything/pull/374)  |
