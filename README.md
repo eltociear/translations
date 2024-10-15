@@ -170,6 +170,7 @@
 |  [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin/)  |  README.ja-JP.md  |  [#4028](https://github.com/vbenjs/vue-vben-admin/pull/4028)  |
 |  [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai/)  |  docs/japanese.md  |  [#345](https://github.com/VinciGit00/Scrapegraph-ai/pull/345)  |
 |  [VisActor/VMind](https://github.com/VisActor/VMind/)  |  README-ja.md  |  [#146](https://github.com/VisActor/VMind/pull/146)  |
+|  [VisActor/VStory](https://github.com/VisActor/VStory/)  |  README.ja-JP.md  |  [#90](https://github.com/VisActor/VStory/pull/90)  |
 |  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
 |  [Wannabeasmartguy/RAGENT](https://github.com/Wannabeasmartguy/RAGENT/)  |  README_ja.md  |  [#4](https://github.com/Wannabeasmartguy/RAGENT/pull/4)  |
 |  [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/)  |  README-ja.md  |  [#3157](https://github.com/WasmEdge/WasmEdge/pull/3157)  |
