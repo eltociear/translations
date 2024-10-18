@@ -148,6 +148,7 @@
 |  [shibing624/agentica](https://github.com/shibing624/agentica/)  |  README_JP.md  |  [#5](https://github.com/shibing624/agentica/pull/5)  |
 |  [siglens/siglens](https://github.com/siglens/siglens/)  |  README_JA_JP.md  |  [#1303](https://github.com/siglens/siglens/pull/1303)  |
 |  [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern/)  |  .github/readme-ja_jp.md  |  [#1604](https://github.com/SillyTavern/SillyTavern/pull/1604)  |
+|  [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan/)  |  README_ja_JP.md  |  [#12819](https://github.com/siyuan-note/siyuan/pull/12819)  |
 |  [SmartFlowAI/EmoLLM](https://github.com/SmartFlowAI/EmoLLM/)  |  README_JP.md  |  [#271](https://github.com/SmartFlowAI/EmoLLM/pull/271)  |
 |  [someu/aigotools](https://github.com/someu/aigotools/)  |  README.ja-JP.md  |  [#3](https://github.com/someu/aigotools/pull/3)  |
 |  [songquanpeng/one-api](https://github.com/songquanpeng/one-api/)  |  README.ja.md  |  [#425](https://github.com/songquanpeng/one-api/pull/425)  |
