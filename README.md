@@ -87,6 +87,7 @@
 |  [labring/FastGPT](https://github.com/labring/FastGPT/)  |  README_ja.md  |  [#455](https://github.com/labring/FastGPT/pull/455)  |
 |  [langflow-ai/langflow](https://github.com/langflow-ai/langflow/)  |  README.ja.md  |  [#2760](https://github.com/langflow-ai/langflow/pull/2760)  |
 |  [langgenius/dify](https://github.com/langgenius/dify/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#96](https://github.com/langgenius/dify/pull/96)  |
+|  [langgptai/LangGPT](https://github.com/langgptai/LangGPT/)  |  README_ja.md  |  [#22](https://github.com/langgptai/LangGPT/pull/22)  |
 |  [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya/)  |  README_JA.md  |  [#32](https://github.com/LC1332/Chat-Haruhi-Suzumiya/pull/32)  |
 |  [LeKovr/webtail](https://github.com/LeKovr/webtail/)  |  README.ja.md  |  [#17](https://github.com/LeKovr/webtail/pull/17)  |
 |  [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy/)  |  readmes/README.ja.md  |  [#3620](https://github.com/LemmyNet/lemmy/pull/3620)  |
