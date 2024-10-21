@@ -173,6 +173,7 @@
 |  [tw93/Pake](https://github.com/tw93/Pake/)  |  README_JP.md  |  [#723](https://github.com/tw93/Pake/pull/723)  |
 |  [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin/)  |  README.ja-JP.md  |  [#4028](https://github.com/vbenjs/vue-vben-admin/pull/4028)  |
 |  [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai/)  |  docs/japanese.md  |  [#345](https://github.com/VinciGit00/Scrapegraph-ai/pull/345)  |
+|  [VisActor/VChart](https://github.com/VisActor/VChart/)  |  CONTRIBUTING.ja-JP.md<br>README.ja-JP.md  |  [#3323](https://github.com/VisActor/VChart/pull/3323)  |
 |  [VisActor/VMind](https://github.com/VisActor/VMind/)  |  README-ja.md  |  [#146](https://github.com/VisActor/VMind/pull/146)  |
 |  [VisActor/VStory](https://github.com/VisActor/VStory/)  |  README.ja-JP.md  |  [#90](https://github.com/VisActor/VStory/pull/90)  |
 |  [VisActor/VTable](https://github.com/VisActor/VTable/)  |  CONTRIBUTING.ja-JP.md<br>README.ja-JP.md  |  [#2617](https://github.com/VisActor/VTable/pull/2617)  |
