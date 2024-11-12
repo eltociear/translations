@@ -11,6 +11,7 @@
 |  [adamlui/chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh/)  |  docs/ja/LISENCE.md<br>docs/ja/PRIVACY.md<br>docs/ja/README.md<br>docs/ja/SECURITY.md  |  [#59](https://github.com/adamlui/chatgpt-auto-refresh/pull/59)  |
 |  [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity/)  |  docs/ja/README.md  |  [#52](https://github.com/adamlui/chatgpt-infinity/pull/52)  |
 |  [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor/)  |  readme.ja.md  |  [#44](https://github.com/aieditor-team/AiEditor/pull/44)  |
+|  [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate/)  |  README_ja-JP.md  |  [#138](https://github.com/aigc-apps/EasyAnimate/pull/138)  |
 |  [aistra0528/Hail](https://github.com/aistra0528/Hail/)  |  README_JP.md  |  [#253](https://github.com/aistra0528/Hail/pull/253)  |
 |  [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D/)  |  README_jp.md  |  [#28](https://github.com/AiuniAI/Unique3D/pull/28)  |
 |  [alibaba/higress](https://github.com/alibaba/higress/)  |  CONTRIBUTING_JP.md<br>README_JP.md  |  [#1407](https://github.com/alibaba/higress/pull/1407)  |
