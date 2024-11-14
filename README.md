@@ -14,6 +14,7 @@
 |  [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate/)  |  README_ja-JP.md  |  [#138](https://github.com/aigc-apps/EasyAnimate/pull/138)  |
 |  [aistra0528/Hail](https://github.com/aistra0528/Hail/)  |  README_JP.md  |  [#253](https://github.com/aistra0528/Hail/pull/253)  |
 |  [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D/)  |  README_jp.md  |  [#28](https://github.com/AiuniAI/Unique3D/pull/28)  |
+|  [ai16z/eliza](https://github.com/ai16z/eliza/)  |  README_JA.md  |  [#307](https://github.com/ai16z/eliza/pull/307)  |
 |  [alibaba/higress](https://github.com/alibaba/higress/)  |  CONTRIBUTING_JP.md<br>README_JP.md  |  [#1407](https://github.com/alibaba/higress/pull/1407)  |
 |  [alipay/agentUniverse](https://github.com/alipay/agentUniverse/)  |  README_jp.md  |  [#1344](https://github.com/alipay/agentUniverse/pull/68)  |
 |  [alist-org/alist](https://github.com/alist-org/alist/)  |  README_ja.md  |  [#4798](https://github.com/alist-org/alist/pull/4798)  |
