@@ -177,6 +177,7 @@
 |  [toss/es-toolkit](https://github.com/toss/es-toolkit/)  |  README-ja_jp.md  |  [#394](https://github.com/toss/es-toolkit/pull/394)  |
 |  [tw93/Pake](https://github.com/tw93/Pake/)  |  README_JP.md  |  [#723](https://github.com/tw93/Pake/pull/723)  |
 |  [unitreerobotics/avp_teleoperate](https://github.com/unitreerobotics/avp_teleoperate/)  |  README_ja-JP.md  |  [#12](https://github.com/unitreerobotics/avp_teleoperate/pull/12)  |
+|  [unitreerobotics/unitree_IL_lerobot](https://github.com/unitreerobotics/unitree_IL_lerobot/)  |  README_ja.md  |  [#1](https://github.com/unitreerobotics/unitree_IL_lerobot/pull/1)  |
 |  [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin/)  |  README.ja-JP.md  |  [#4028](https://github.com/vbenjs/vue-vben-admin/pull/4028)  |
 |  [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai/)  |  docs/japanese.md  |  [#345](https://github.com/VinciGit00/Scrapegraph-ai/pull/345)  |
 |  [VisActor/VChart](https://github.com/VisActor/VChart/)  |  CONTRIBUTING.ja-JP.md<br>README.ja-JP.md  |  [#3323](https://github.com/VisActor/VChart/pull/3323)  |
