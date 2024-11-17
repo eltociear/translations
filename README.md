@@ -209,5 +209,5 @@
 |  [4xmen/Get-Github-Achievements](https://github.com/4xmen/Get-Github-Achievements/)  |  README.ja.md  |  [#132](https://github.com/4xmen/Get-Github-Achievements/pull/132)  |
 |  [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub/)  |  README_ja.md  |  [#2580](https://github.com/521xueweihan/HelloGitHub/pull/2580)  |
 
-### 昔にREADMEを翻訳していたRepository
+### 過去にREADMEを翻訳していたRepository
 - [eltociear/OSSDocumentsTranslate](https://github.com/eltociear/OSSDocumentsTranslate)
