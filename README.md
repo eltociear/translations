@@ -54,6 +54,7 @@
 |  [feiyun0112/Gradio.Net](https://github.com/feiyun0112/Gradio.Net/)  |  readme_files/README_ja.md  |  [#13](https://github.com/feiyun0112/Gradio.Net/pull/13)  |
 |  [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech/)  |  docs/ja/finetune.md<br>docs/ja/index.md<br>docs/ja/inference.md<br>docs/ja/samples.md<br>README.ja.md  |  [#318](https://github.com/fishaudio/fish-speech/pull/318)<br>[#529](https://github.com/fishaudio/fish-speech/pull/529)  |
 |  [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise/)  |  README-JA.md  |  [#2202](https://github.com/FlowiseAI/Flowise/pull/2202)  |
+|  [foldl/chatllm.cpp](https://github.com/foldl/chatllm.cpp/)  |  README_ja.md  |  [#39](hhttps://github.com/foldl/chatllm.cpp/pull/39)  |
 |  [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice/)  |  README_ja.md  |  [#55](https://github.com/FunAudioLLM/SenseVoice/pull/55)  |
 |  [geekan/MetaGPT](https://github.com/geekan/MetaGPT/)  |  docs/README_JA.md  |  [#12](https://github.com/geekan/MetaGPT/pull/12)  |
 |  [gojue/ecapture](https://github.com/gojue/ecapture/)  |  README_JA.md  |  [#324](https://github.com/gojue/ecapture/pull/324)  |
