@@ -23,6 +23,7 @@
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
 |  [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons/)  |  packages/icons-svg/docs/ContributionGuide.ja-JP.md  |  [#658](https://github.com/ant-design/ant-design-icons/pull/658)  |
 |  [apernet/OpenGFW](https://github.com/apernet/OpenGFW/)  |  README.ja.md  |  [#31](https://github.com/apernet/OpenGFW/pull/31)  |
+|  [arkohut/pensieve](https://github.com/arkohut/pensieve/)  |  README_JP.md  |  [#25](https://github.com/arkohut/pensieve/pull/25)  |
 |  [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher/)  |  README-ja_JP.md  |  [#686](https://github.com/assafelovic/gpt-researcher/pull/686)  |
 |  [AXYZdong/AMchat](https://github.com/AXYZdong/AMchat/)  |  README_ja-JP.md  |  [#11](https://github.com/AXYZdong/AMchat/pull/11)  |
 |  [baidubce/app-builder](https://github.com/baidubce/app-builder/)  |  README_ja.md  |  [#461](https://github.com/baidubce/app-builder/pull/461)  |
