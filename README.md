@@ -139,6 +139,7 @@
 |  [Peterande/D-FINE](https://github.com/Peterande/D-FINE/)  |  README_ja.md  |  [#15](https://github.com/Peterande/D-FINE/pull/15)  |
 |  [petercat-ai/petercat](https://github.com/petercat-ai/petercat/)  |  README.ja-JP.md  |  [#373](https://github.com/petercat-ai/petercat/pull/373)  |
 |  [PKU-YuanGroup/Machine-Mindset](https://github.com/PKU-YuanGroup/Machine-Mindset/)  |  README_ja.md  |  [#1](https://github.com/PKU-YuanGroup/Machine-Mindset/pull/1)  |
+|  [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway/)  |  .github/README.jp.md  |  [#742](https://github.com/Portkey-AI/gateway/pull/742)  |
 |  [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei/)  |  README_JP.md  |  [#5259](https://github.com/projectdiscovery/nuclei/pull/5259)  |
 |  [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates/)  |  README_JA.md  |  [#10401](https://github.com/projectdiscovery/nuclei-templates/pull/10401)  |
 |  [Project-DARC/DARC](https://github.com/Project-DARC/DARC/)  |  README_ja.md  |  [#28](https://github.com/Project-DARC/DARC/pull/28)  |
