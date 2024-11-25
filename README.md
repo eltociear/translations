@@ -11,6 +11,7 @@
 |  [adamlui/chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh/)  |  docs/ja/LISENCE.md<br>docs/ja/PRIVACY.md<br>docs/ja/README.md<br>docs/ja/SECURITY.md  |  [#59](https://github.com/adamlui/chatgpt-auto-refresh/pull/59)  |
 |  [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity/)  |  docs/ja/README.md  |  [#52](https://github.com/adamlui/chatgpt-infinity/pull/52)  |
 |  [aieditor-team/AiEditor](https://github.com/aieditor-team/AiEditor/)  |  readme.ja.md  |  [#44](https://github.com/aieditor-team/AiEditor/pull/44)  |
+|  [aigc-apps/CogVideoX-Fun](https://github.com/aigc-apps/CogVideoX-Fun/)  |  README_ja-JP.md  |  [#77](https://github.com/aigc-apps/CogVideoX-Fun/pull/77)  |
 |  [aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate/)  |  README_ja-JP.md  |  [#138](https://github.com/aigc-apps/EasyAnimate/pull/138)  |
 |  [aistra0528/Hail](https://github.com/aistra0528/Hail/)  |  README_JP.md  |  [#253](https://github.com/aistra0528/Hail/pull/253)  |
 |  [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D/)  |  README_jp.md  |  [#28](https://github.com/AiuniAI/Unique3D/pull/28)  |
@@ -186,7 +187,9 @@
 |  [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin/)  |  README.ja-JP.md  |  [#4028](https://github.com/vbenjs/vue-vben-admin/pull/4028)  |
 |  [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai/)  |  docs/japanese.md  |  [#345](https://github.com/VinciGit00/Scrapegraph-ai/pull/345)  |
 |  [VisActor/VChart](https://github.com/VisActor/VChart/)  |  CONTRIBUTING.ja-JP.md<br>README.ja-JP.md  |  [#3323](https://github.com/VisActor/VChart/pull/3323)  |
+|  [VisActor/VGrammar](https://github.com/VisActor/VGrammar/)  |  README.ja-JP.md  |  [#589](https://github.com/VisActor/VGrammar/pull/589)  |
 |  [VisActor/VMind](https://github.com/VisActor/VMind/)  |  README-ja.md  |  [#146](https://github.com/VisActor/VMind/pull/146)  |
+|  [VisActor/VRender](https://github.com/VisActor/VRender/)  |  README.ja-JP.md  |  [#1576](https://github.com/VisActor/VRender/pull/1576)  |
 |  [VisActor/VStory](https://github.com/VisActor/VStory/)  |  README.ja-JP.md  |  [#90](https://github.com/VisActor/VStory/pull/90)  |
 |  [VisActor/VTable](https://github.com/VisActor/VTable/)  |  CONTRIBUTING.ja-JP.md<br>README.ja-JP.md  |  [#2617](https://github.com/VisActor/VTable/pull/2617)  |
 |  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
