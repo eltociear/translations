@@ -103,6 +103,7 @@
 |  [lindb/lindb](https://github.com/lindb/lindb/)  |  README-ja.md  |  [#1039](https://github.com/lindb/lindb/pull/1039)  |
 |  [LinkSoul-AI/AutoAgents](https://github.com/LinkSoul-AI/AutoAgents/)  |  docs/README_JA.md  |  [#23](https://github.com/LinkSoul-AI/AutoAgents/pull/23)  |
 |  [linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai/)  |  README_JA.md  |  [#7](https://github.com/linyiLYi/snake-ai/pull/7)  |
+|  [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI/)  |  README-ja.md  |  [#66](https://github.com/linyqh/NarratoAI/pull/66)  |
 |  [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat/)  |  README.ja-JP.md  |  [#3368](https://github.com/lobehub/lobe-chat/pull/3368)  |
 |  [localsend/localsend](https://github.com/localsend/localsend/)  |  README_JA.md  |  [#1584](https://github.com/localsend/localsend/pull/1584)  |
 |  [LongxingTan/open-retrievals](https://github.com/LongxingTan/open-retrievals/)  |  README_ja-JP.md  |  [#40](https://github.com/LongxingTan/open-retrievals/pull/40)  |
