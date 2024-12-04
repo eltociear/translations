@@ -27,6 +27,7 @@
 |  [apernet/OpenGFW](https://github.com/apernet/OpenGFW/)  |  README.ja.md  |  [#31](https://github.com/apernet/OpenGFW/pull/31)  |
 |  [arkohut/pensieve](https://github.com/arkohut/pensieve/)  |  README_JP.md  |  [#25](https://github.com/arkohut/pensieve/pull/25)  |
 |  [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher/)  |  README-ja_JP.md  |  [#686](https://github.com/assafelovic/gpt-researcher/pull/686)  |
+|  [asterinas/asterinas](https://github.com/asterinas/asterinas/)  |  README_JP.md  |  [#1510](https://github.com/asterinas/asterinas/pull/1510)  |
 |  [AXYZdong/AMchat](https://github.com/AXYZdong/AMchat/)  |  README_ja-JP.md  |  [#11](https://github.com/AXYZdong/AMchat/pull/11)  |
 |  [baidubce/app-builder](https://github.com/baidubce/app-builder/)  |  README_ja.md  |  [#461](https://github.com/baidubce/app-builder/pull/461)  |
 |  [beam-cloud/beta9](https://github.com/beam-cloud/beta9/)  |  docs/jp/README.md  |  [#270](https://github.com/beam-cloud/beta9/pull/270)  |
@@ -143,6 +144,7 @@
 |  [PaddlePaddle/PaddleTS](https://github.com/PaddlePaddle/PaddleTS/)  |  README_ja.md  |  [#413](https://github.com/PaddlePaddle/PaddleTS/pull/413)  |
 |  [Peterande/D-FINE](https://github.com/Peterande/D-FINE/)  |  README_ja.md  |  [#15](https://github.com/Peterande/D-FINE/pull/15)  |
 |  [petercat-ai/petercat](https://github.com/petercat-ai/petercat/)  |  README.ja-JP.md  |  [#373](https://github.com/petercat-ai/petercat/pull/373)  |
+|  [petiky/awesome-mcp](https://github.com/petiky/awesome-mcp/)  |  README_ja.md  |  [#1](https://github.com/petiky/awesome-mcp/pull/1)  |
 |  [PKU-YuanGroup/Machine-Mindset](https://github.com/PKU-YuanGroup/Machine-Mindset/)  |  README_ja.md  |  [#1](https://github.com/PKU-YuanGroup/Machine-Mindset/pull/1)  |
 |  [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway/)  |  .github/README.jp.md  |  [#742](https://github.com/Portkey-AI/gateway/pull/742)  |
 |  [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei/)  |  README_JP.md  |  [#5259](https://github.com/projectdiscovery/nuclei/pull/5259)  |
