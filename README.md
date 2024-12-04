@@ -142,6 +142,7 @@
 |  [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle/)  |  README_ja.md<br>SECURITY_ja.md<br>security/README_ja.md  |  [#53726](https://github.com/PaddlePaddle/Paddle/pull/53726)<br>[#56466](https://github.com/PaddlePaddle/Paddle/pull/56466)  |
 |  [PaddlePaddle/PaddleCustomDevice](https://github.com/PaddlePaddle/PaddleCustomDevice/)  |  README_ja.md<br>backends/custom_cpu/README_ja.md  |  [#782](https://github.com/PaddlePaddle/PaddleCustomDevice/pull/782)  |
 |  [PaddlePaddle/PaddleTS](https://github.com/PaddlePaddle/PaddleTS/)  |  README_ja.md  |  [#413](https://github.com/PaddlePaddle/PaddleTS/pull/413)  |
+|  [pepecoinppc/pepecoin](https://github.com/pepecoinppc/pepecoin/)  |  README_ja_JP.md  |  [#78](https://github.com/pepecoinppc/pepecoin/pull/78)  |
 |  [Peterande/D-FINE](https://github.com/Peterande/D-FINE/)  |  README_ja.md  |  [#15](https://github.com/Peterande/D-FINE/pull/15)  |
 |  [petercat-ai/petercat](https://github.com/petercat-ai/petercat/)  |  README.ja-JP.md  |  [#373](https://github.com/petercat-ai/petercat/pull/373)  |
 |  [petiky/awesome-mcp](https://github.com/petiky/awesome-mcp/)  |  README_ja.md  |  [#1](https://github.com/petiky/awesome-mcp/pull/1)  |
