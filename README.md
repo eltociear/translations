@@ -182,6 +182,7 @@
 |  [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2/)  |  README_JA.md  |  [#22](https://github.com/THUDM/CodeGeeX2/pull/22)  |
 |  [THUDM/CodeGeeX4](https://github.com/THUDM/CodeGeeX4/)  |  README_ja.md  |  [#22](https://github.com/THUDM/CodeGeeX4/pull/51)  |
 |  [THUDM/CogVideo](https://github.com/THUDM/CogVideo/)  |  README_ja.md<br>sat/README_ja.md<br>tools/caption/README_ja.md  |  [#76](https://github.com/THUDM/CogVideo/pull/76)  |
+|  [thunlp/ProactiveAgent](https://github.com/thunlp/ProactiveAgent/)  | README_ja.md<br>agent/README_ja.md<br>dataset/README_ja.md<br>eval/README_ja.md<br>gym/README_ja.md  |  [#11](https://github.com/thunlp/ProactiveAgent/pull/11)  |
 |  [tikkid/JetbrainKiller](https://github.com/tikkid/JetbrainKiller/)  |  README_JA-JP.md  |  [#3](https://github.com/tikkid/JetbrainKiller/pull/3)  |
 |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm/)  |  README_ja.md  |  [#335](https://github.com/tiny-craft/tiny-rdm/pull/335)  |
 |  [tonsky/FiraCode](https://github.com/tonsky/FiraCode/)  |  README_JA.md  |  [#1537](https://github.com/tonsky/FiraCode/pull/1537)  |
