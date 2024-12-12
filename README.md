@@ -151,6 +151,7 @@
 |  [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei/)  |  README_JP.md  |  [#5259](https://github.com/projectdiscovery/nuclei/pull/5259)  |
 |  [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates/)  |  README_JA.md  |  [#10401](https://github.com/projectdiscovery/nuclei-templates/pull/10401)  |
 |  [Project-DARC/DARC](https://github.com/Project-DARC/DARC/)  |  README_ja.md  |  [#28](https://github.com/Project-DARC/DARC/pull/28)  |
+|  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/)  |  README-ja.md  |  [#82](https://github.com/punkpeye/awesome-mcp-servers/pull/82)  |
 |  [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL/)  |  FAQ_ja.md<br>README_JA.md<br>TUTORIAL_ja.md<br>touchstone/README_JA.md  |  [#16](https://github.com/QwenLM/Qwen-VL/pull/16)<br>[#41](https://github.com/QwenLM/Qwen-VL/pull/41)  |
 |  [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B/)  |  FAQ_ja.md<br>README_JA.md<br>tokenization_note_ja.md  |  [#79](https://github.com/QwenLM/Qwen-7B/pull/79)<br>[#216](https://github.com/QwenLM/Qwen-7B/pull/216)  |
 |  [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner/)  |  docs/README_JP.md  |  [#822](https://github.com/RealKai42/qwerty-learner/pull/822)  |
