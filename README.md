@@ -33,6 +33,7 @@
 |  [beam-cloud/beta9](https://github.com/beam-cloud/beta9/)  |  docs/jp/README.md  |  [#270](https://github.com/beam-cloud/beta9/pull/270)  |
 |  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
 |  [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter/)  |  README_ja.md  |  [#12](https://github.com/bleedline/aimoneyhunter/pull/12)  |
+|  [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate/)  |  README_ja-JP.md  |  [#232](https://github.com/Byaidu/PDFMathTranslate/pull/232)  |
 |  [bytedance/g3](https://github.com/bytedance/g3/)  |  README.ja_JP.md  |  [#268](https://github.com/bytedance/g3/pull/268)  |
 |  [bytedance/scene](https://github.com/bytedance/scene/)  |  README_ja.md  |  [#70](https://github.com/bytedance/scene/pull/70)  |
 |  [bytedance/vArmor](https://github.com/bytedance/vArmor/)  |  README.ja.md  |  [#104](https://github.com/bytedance/vArmor/pull/104)  |
@@ -180,6 +181,7 @@
 |  [swow/swow](https://github.com/swow/swow/)  |  README-JP.md  |  [#252](https://github.com/swow/swow/pull/252)  |
 |  [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown/)  |  README.JP.md  |  [#851](https://github.com/Tencent/cherry-markdown/pull/851)  |
 |  [tencentmusic/supersonic](https://github.com/tencentmusic/supersonic/)  |  README_JP.md  |  [#1177](https://github.com/tencentmusic/supersonic/pull/1177)  |
+|  [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent/)  |  docs/readmes/README-JP.md  |  [#192](https://github.com/TEN-framework/TEN-Agent/pull/192)  |
 |  [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2/)  |  README_JA.md  |  [#22](https://github.com/THUDM/CodeGeeX2/pull/22)  |
 |  [THUDM/CodeGeeX4](https://github.com/THUDM/CodeGeeX4/)  |  README_ja.md  |  [#22](https://github.com/THUDM/CodeGeeX4/pull/51)  |
 |  [THUDM/CogVideo](https://github.com/THUDM/CogVideo/)  |  README_ja.md<br>sat/README_ja.md<br>tools/caption/README_ja.md  |  [#76](https://github.com/THUDM/CogVideo/pull/76)  |
