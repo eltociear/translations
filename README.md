@@ -31,6 +31,7 @@
 |  [AXYZdong/AMchat](https://github.com/AXYZdong/AMchat/)  |  README_ja-JP.md  |  [#11](https://github.com/AXYZdong/AMchat/pull/11)  |
 |  [baidubce/app-builder](https://github.com/baidubce/app-builder/)  |  README_ja.md  |  [#461](https://github.com/baidubce/app-builder/pull/461)  |
 |  [beam-cloud/beta9](https://github.com/beam-cloud/beta9/)  |  docs/jp/README.md  |  [#270](https://github.com/beam-cloud/beta9/pull/270)  |
+|  [beclab/Olares](https://github.com/beclab/Olares/)  |  README_JP.md  |  [#806](https://github.com/beclab/Olares/pull/806)  |
 |  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
 |  [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter/)  |  README_ja.md  |  [#12](https://github.com/bleedline/aimoneyhunter/pull/12)  |
 |  [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate/)  |  README_ja-JP.md  |  [#232](https://github.com/Byaidu/PDFMathTranslate/pull/232)  |
@@ -159,6 +160,7 @@
 |  [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner/)  |  docs/README_JP.md  |  [#822](https://github.com/RealKai42/qwerty-learner/pull/822)  |
 |  [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin/)  |  Resources/AVR_Miner_langs.json<br>Resources/CLI_Wallet_langs.json<br>Resources/PC_Miner_langs.json<br>Resources/README_TRANSLATIONS/README_ja_JP.md<br>Resources/Wallet_langs.json  |  [#1563](https://github.com/revoxhere/duino-coin/pull/1563)  |
 |  [rte-design/ASTRA.ai](https://github.com/rte-design/ASTRA.ai/)  |  docs/readmes/README-JP.md  |  [#192](https://github.com/rte-design/ASTRA.ai/pull/192)  |
+|  [RUC-GSAI/YuLan-Mini](https://github.com/RUC-GSAI/YuLan-Mini/)  |  README_ja.md  |  [#2](https://github.com/RUC-GSAI/YuLan-Mini/pull/2)  |
 |  [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk/)  |  docs/CODE_OF_CONDUCT-JP.md<br>docs/CONTRIBUTING-JP.md<br>docs/DEVCONTAINER-JP.md<br>docs/SECURITY-JP.md  |  [#6963](https://github.com/rustdesk/rustdesk/pull/6963)  |
 |  [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS/)  |  docs/ja/README.md  |  [#96](https://github.com/RVC-Boss/GPT-SoVITS/pull/96)  |
 |  [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web/)  |  docs/README_JA.md  |  [#9](https://github.com/Ryan-yang125/ChatLLM-Web/pull/9)  |
