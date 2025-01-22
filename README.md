@@ -97,6 +97,7 @@
 |  [kitUIN/PicImageSearch](https://github.com/kitUIN/PicImageSearch/)  |  README.ja.md  |  [#166](https://github.com/kitUIN/PicImageSearch/pull/166)  |
 |  [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT/)  |  docs/README_JA.md  |  [#31](https://github.com/kuafuai/DevOpsGPT/pull/31)  |
 |  [kubesphere/kubekey](https://github.com/kubesphere/kubekey/)  |  README_ja-JP.md  |  [#2329](https://github.com/kubesphere/kubekey/pull/2329)  |
+|  [KusionStack/karpor](https://github.com/KusionStack/karpor/)  |  README-ja.md<br>SECURITY-ja.md  |  [#755](https://github.com/KusionStack/karpor/pull/755)  |
 |  [KwaiKEG/KwaiAgents](https://github.com/KwaiKEG/KwaiAgents/)  |  README_JA.md  |  [#24](https://github.com/KwaiKEG/KwaiAgents/pull/24)  |
 |  [labring/FastGPT](https://github.com/labring/FastGPT/)  |  README_ja.md  |  [#455](https://github.com/labring/FastGPT/pull/455)  |
 |  [langflow-ai/langflow](https://github.com/langflow-ai/langflow/)  |  README.ja.md  |  [#2760](https://github.com/langflow-ai/langflow/pull/2760)  |
