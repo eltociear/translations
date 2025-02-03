@@ -30,6 +30,7 @@
 |  [asterinas/asterinas](https://github.com/asterinas/asterinas/)  |  README_JP.md  |  [#1510](https://github.com/asterinas/asterinas/pull/1510)  |
 |  [AXYZdong/AMchat](https://github.com/AXYZdong/AMchat/)  |  README_ja-JP.md  |  [#11](https://github.com/AXYZdong/AMchat/pull/11)  |
 |  [baidubce/app-builder](https://github.com/baidubce/app-builder/)  |  README_ja.md  |  [#461](https://github.com/baidubce/app-builder/pull/461)  |
+|  [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit/)  |  CONTRIBUTING_ja-JP.md<br>README_ja-JP.md  |  [#1562](https://github.com/BartoszCichecki/LenovoLegionToolkit/pull/1562)  |
 |  [beam-cloud/beta9](https://github.com/beam-cloud/beta9/)  |  docs/jp/README.md  |  [#270](https://github.com/beam-cloud/beta9/pull/270)  |
 |  [beclab/Olares](https://github.com/beclab/Olares/)  |  README_JP.md  |  [#806](https://github.com/beclab/Olares/pull/806)  |
 |  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
