@@ -187,6 +187,7 @@
 |  [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt/)  |  README.ja.md  |  [#7](https://github.com/SoraEase/sora-prompt/pull/7)  |
 |  [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh/)  |  README.jp.md  |  [#7](https://github.com/SoraEase/sora-prompt-zh/pull/7)  |
 |  [SoraWebui/SoraWebui](https://github.com/SoraWebui/SoraWebui/)  |  README.ja-JP.md  |  [#9](https://github.com/SoraWebui/SoraWebui/pull/9)  |
+|  [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs/)  |  README_JP.md  |  [#51](https://github.com/spiritLHLS/ecs/pull/51)  |
 |  [sunner/ChatALL](https://github.com/sunner/ChatALL/)  |  README_JA-JP.md  |  [#50](https://github.com/sunner/ChatALL/pull/50)  |
 |  [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API/)  |  README_JA.md  |  [#7](https://github.com/SunoAI-API/Suno-API/pull/7)  |
 |  [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb/)  |  README_ja.md  |  [#1537](https://github.com/SuperDuperDB/superduperdb/pull/1537)  |
