@@ -46,6 +46,7 @@
 |  [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11/)  |  CONTRIBUTING.ja.md  |  [#694](https://github.com/chrislgarry/Apollo-11/pull/694)  |
 |  [cloudwego/thriftgo](https://github.com/cloudwego/thriftgo/)  |  README_ja.md  |  [#219](https://github.com/cloudwego/thriftgo/pull/219)  |
 |  [cloudwego/volo](https://github.com/cloudwego/volo/)  |  README-ja.md  |  [#474](https://github.com/cloudwego/volo/pull/474)  |
+|  [coaidev/coai](https://github.com/coaidev/coai/)  |  README_ja-JP.md  |  [#262](https://github.com/coaidev/coai/pull/262)  |
 |  [ComposioHQ/composio](https://github.com/ComposioHQ/composio/)  |  README-JP.md  |  [#272](https://github.com/ComposioHQ/composio/pull/272)  |
 |  [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede/)  |  README_JA.md  |  [#11693](https://github.com/coolsnowwolf/lede/pull/11693)  |
 |  [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor/)  |  CONTRIBUTING_ja-JP.md<br>DONATE_ja-JP.md<br>README_ja-JP.md  |  [#1144](https://github.com/cpeditor/cpeditor/pull/1144)  |
