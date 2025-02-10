@@ -33,6 +33,7 @@
 |  [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit/)  |  CONTRIBUTING_ja-JP.md<br>README_ja-JP.md  |  [#1562](https://github.com/BartoszCichecki/LenovoLegionToolkit/pull/1562)  |
 |  [beam-cloud/beta9](https://github.com/beam-cloud/beta9/)  |  docs/jp/README.md  |  [#270](https://github.com/beam-cloud/beta9/pull/270)  |
 |  [beclab/Olares](https://github.com/beclab/Olares/)  |  README_JP.md  |  [#806](https://github.com/beclab/Olares/pull/806)  |
+|  [bigtreetech/Manta-M8P](https://github.com/bigtreetech/Manta-M8P/)  |  README_ja.md  |  [#134](https://github.com/bigtreetech/Manta-M8P/pull/134)  |
 |  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
 |  [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter/)  |  README_ja.md  |  [#12](https://github.com/bleedline/aimoneyhunter/pull/12)  |
 |  [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate/)  |  README_ja-JP.md  |  [#232](https://github.com/Byaidu/PDFMathTranslate/pull/232)  |
