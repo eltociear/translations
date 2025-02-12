@@ -72,6 +72,7 @@
 |  [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed/)  |  CONTRIBUTING_ja-JP.md<br>README_ja-JP.md<br>ui/flutter/assets/locales/ja_JP.json  |  [#139](https://github.com/GopeedLab/gopeed/pull/139)  |
 |  [go-nunu/nunu](https://github.com/go-nunu/nunu/)  |  README_jp.md  |  [#59](https://github.com/go-nunu/nunu/pull/59)  |
 |  [guanguans/ai-commit](https://github.com/guanguans/ai-commit/)  |  README-ja_JP.md  |  [#177](https://github.com/guanguans/ai-commit/pull/177)  |
+|  [hellokaton/namesage](https://github.com/hellokaton/namesage/)  |  README_ja.md  |  [#1](https://github.com/hellokaton/namesage/pull/1)  |
 |  [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events/)  |  README.ja.md  |  [#200](https://github.com/HiEventsDev/Hi.Events/pull/200)  |
 |  [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next/)  |  README_ja.md  |  [#371](https://github.com/hiddify/hiddify-next/pull/371)  |
 |  [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator/)  |  docs/ja/README.md<br>docs/ja/alltoolbuttons.md<br>docs/ja/basicuse.md<br>docs/ja/cantstart.md<br>docs/ja/embedtranslate.md<br>docs/ja/fastkeys.md<br>docs/ja/gooduseocr.md<br>docs/ja/guochandamoxing.md<br>docs/ja/hooksettings.md<br>docs/ja/ocrparam.md<br>docs/ja/offlinellm.md<br>docs/ja/playonxp.md<br>docs/ja/qa1.md<br>docs/ja/qa2.md<br>docs/ja/sidebar.md<br>docs/ja/support.md<br>docs/ja/textprocess.md<br>docs/ja/transoptimi.md<br>docs/ja/ttsofname.md<br>docs/ja/update.md<br>docs/ja/useapis/ocrapi.md<br>docs/ja/useapis/tsapi.md  |  [#1251](https://github.com/HIllya51/LunaTranslator/pull/1251)  |
@@ -179,6 +180,7 @@
 |  [SchneeHertz/exhentai-manga-manager](https://github.com/SchneeHertz/exhentai-manga-manager/)  |  README_JA.md  |  [#126](https://github.com/SchneeHertz/exhentai-manga-manager/pull/126)  |
 |  [scopewu/qrcode.vue](https://github.com/scopewu/qrcode.vue/)  |  README-ja.md  |  [#81](https://github.com/scopewu/qrcode.vue/pull/81)  |
 |  [seerge/g-helper](https://github.com/seerge/g-helper/)  |  docs/README.ja-JP.md  |  [#3047](https://github.com/seerge/g-helper/pull/3047)  |
+|  [shibacoinppc/shibacoin](https://github.com/shibacoinppc/shibacoin/)  |  README_ja_JP.md  |  [#4](https://github.com/shibacoinppc/shibacoin/pull/4)  |
 |  [shibing624/agentica](https://github.com/shibing624/agentica/)  |  README_JP.md  |  [#5](https://github.com/shibing624/agentica/pull/5)  |
 |  [siglens/siglens](https://github.com/siglens/siglens/)  |  README_JA_JP.md  |  [#1303](https://github.com/siglens/siglens/pull/1303)  |
 |  [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern/)  |  .github/readme-ja_jp.md  |  [#1604](https://github.com/SillyTavern/SillyTavern/pull/1604)  |
