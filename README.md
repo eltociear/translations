@@ -111,6 +111,7 @@
 |  [langgenius/dify](https://github.com/langgenius/dify/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#96](https://github.com/langgenius/dify/pull/96)  |
 |  [langgptai/LangGPT](https://github.com/langgptai/LangGPT/)  |  README_ja.md  |  [#22](https://github.com/langgptai/LangGPT/pull/22)  |
 |  [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya/)  |  README_JA.md  |  [#32](https://github.com/LC1332/Chat-Haruhi-Suzumiya/pull/32)  |
+|  [ldclabs/anda](https://github.com/ldclabs/anda/)  |  README_JA.md  |  [#4](https://github.com/ldclabs/anda/pull/4)  |
 |  [LeKovr/webtail](https://github.com/LeKovr/webtail/)  |  README.ja.md  |  [#17](https://github.com/LeKovr/webtail/pull/17)  |
 |  [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy/)  |  readmes/README.ja.md  |  [#3620](https://github.com/LemmyNet/lemmy/pull/3620)  |
 |  [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/)  |  README-JP.md  |  [#2908](https://github.com/lf-edge/ekuiper/pull/2908)  |
@@ -137,6 +138,7 @@
 |  [modelscope/MemoryScope](https://github.com/modelscope/MemoryScope/)  |  README_JP.md  |  [#11](https://github.com/modelscope/MemoryScope/pull/11)  |
 |  [modelscope/modelscope](https://github.com/modelscope/modelscope/)  |  README_ja.md  |  [#405](https://github.com/modelscope/modelscope/pull/405)  |
 |  [modelscope/modelscope-studio](https://github.com/modelscope/modelscope-studio/)  |  README-ja_JP.md  |  [#1](https://github.com/modelscope/modelscope-studio/pull/1)  |
+|  [neavo/LinguaGacha](https://github.com/nneavo/LinguaGacha/)  |  README_JP.md  |  [#29](https://github.com/neavo/LinguaGacha/pull/29)  |
 |  [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything/)  |  README_jp.md  |  [#374](https://github.com/netease-youdao/QAnything/pull/374)  |
 |  [nicepkg/aide](https://github.com/nicepkg/aide/)  |  README_JP.md  |  [#75](https://github.com/nicepkg/aide/pull/75)  |
 |  [okisdev/ChatChat](https://github.com/okisdev/ChatChat/)  |  README.JA.mdx  |  [#46](https://github.com/okisdev/ChatChat/pull/46)  |
@@ -195,6 +197,7 @@
 |  [SoraWebui/SoraWebui](https://github.com/SoraWebui/SoraWebui/)  |  README.ja-JP.md  |  [#9](https://github.com/SoraWebui/SoraWebui/pull/9)  |
 |  [Soulter/AstrBot](https://github.com/Soulter/AstrBot/)  |  README_ja.md  |  [#491](https://github.com/Soulter/AstrBot/pull/491)  |
 |  [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs/)  |  README_JP.md  |  [#51](https://github.com/spiritLHLS/ecs/pull/51)  |
+|  [stepfun-ai/Step-Audio](https://github.com/stepfun-ai/Step-Audio/)  |  README_JP.md  |  [#60](https://github.com/stepfun-ai/Step-Audio/pull/60)  |
 |  [sunner/ChatALL](https://github.com/sunner/ChatALL/)  |  README_JA-JP.md  |  [#50](https://github.com/sunner/ChatALL/pull/50)  |
 |  [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API/)  |  README_JA.md  |  [#7](https://github.com/SunoAI-API/Suno-API/pull/7)  |
 |  [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb/)  |  README_ja.md  |  [#1537](https://github.com/SuperDuperDB/superduperdb/pull/1537)  |
