@@ -59,6 +59,7 @@
 |  [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/)  |  README_JA.md  |  [#44](https://github.com/dmMaze/BallonsTranslator/pull/44)  |
 |  [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly/)  |  README.ja-JP.md  |  [#1494](https://github.com/dragonflydb/dragonfly/pull/1494)  |
 |  [dream-num/univer](https://github.com/dream-num/univer/)  |  README-ja.md  |  [#857](https://github.com/dream-num/univer/pull/857)  |
+|  [easychen/CST](https://github.com/easychen/CST/)  |  README-ja.md  |  [#1](https://github.com/easychen/CST/pull/1)  |
 |  [elizaOS/eliza](https://github.com/elizaOS/eliza/)  |  README_JA.md<br>docs/README_JA.md  |  [#307](https://github.com/elizaOS/eliza/pull/307)<br>[#2515](https://github.com/elizaOS/eliza/pull/2515)  |
 |  [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT/)  |  README.ja.md  |  [#1593](https://github.com/eosphoros-ai/DB-GPT/pull/1593)  |
 |  [Eugeny/tabby](https://github.com/Eugeny/tabby/)  |  README.ja-JP.md  |  [#6894](https://github.com/Eugeny/tabby/pull/6894)  |
