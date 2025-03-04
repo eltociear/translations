@@ -32,6 +32,7 @@
 |  [AXYZdong/AMchat](https://github.com/AXYZdong/AMchat/)  |  README_ja-JP.md  |  [#11](https://github.com/AXYZdong/AMchat/pull/11)  |
 |  [baidubce/app-builder](https://github.com/baidubce/app-builder/)  |  README_ja.md  |  [#461](https://github.com/baidubce/app-builder/pull/461)  |
 |  [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit/)  |  CONTRIBUTING_ja-JP.md<br>README_ja-JP.md  |  [#1562](https://github.com/BartoszCichecki/LenovoLegionToolkit/pull/1562)  |
+|  [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper/)  |  docs/readme_ja-JP.md  |  [#443](https://github.com/beeradmoore/dlss-swapper/pull/443)  |
 |  [beam-cloud/beta9](https://github.com/beam-cloud/beta9/)  |  docs/jp/README.md  |  [#270](https://github.com/beam-cloud/beta9/pull/270)  |
 |  [beclab/Olares](https://github.com/beclab/Olares/)  |  README_JP.md  |  [#806](https://github.com/beclab/Olares/pull/806)  |
 |  [bigtreetech/Manta-M8P](https://github.com/bigtreetech/Manta-M8P/)  |  README_ja.md  |  [#134](https://github.com/bigtreetech/Manta-M8P/pull/134)  |
@@ -230,6 +231,7 @@
 |  [VisActor/VStory](https://github.com/VisActor/VStory/)  |  README.ja-JP.md  |  [#90](https://github.com/VisActor/VStory/pull/90)  |
 |  [VisActor/VTable](https://github.com/VisActor/VTable/)  |  CONTRIBUTING.ja-JP.md<br>README.ja-JP.md  |  [#2617](https://github.com/VisActor/VTable/pull/2617)  |
 |  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
+|  [vortezwohl/CEO-Agentic-AI-Framework](https://github.com/vortezwohl/CEO-Agentic-AI-Framework/)  |  i18n/README_ja-jp.md  |  [#67](https://github.com/vortezwohl/CEO-Agentic-AI-Framework/pull/67)  |
 |  [wangzongming/esp-ai](https://github.com/wangzongming/esp-ai/)  |  readme_ja.md  |  [#17](https://github.com/wangzongming/esp-ai/pull/17)  |
 |  [Wannabeasmartguy/RAGENT](https://github.com/Wannabeasmartguy/RAGENT/)  |  README_ja.md  |  [#4](https://github.com/Wannabeasmartguy/RAGENT/pull/4)  |
 |  [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/)  |  README-ja.md  |  [#3157](https://github.com/WasmEdge/WasmEdge/pull/3157)  |
