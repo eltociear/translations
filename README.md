@@ -52,6 +52,7 @@
 |  [cloudwego/volo](https://github.com/cloudwego/volo/)  |  README-ja.md  |  [#474](https://github.com/cloudwego/volo/pull/474)  |
 |  [coaidev/coai](https://github.com/coaidev/coai/)  |  README_ja-JP.md  |  [#262](https://github.com/coaidev/coai/pull/262)  |
 |  [ComposioHQ/composio](https://github.com/ComposioHQ/composio/)  |  README-JP.md  |  [#272](https://github.com/ComposioHQ/composio/pull/272)  |
+|  [cookieY/Yearning](https://github.com/cookieY/Yearning/)  |  README.ja-JP.md  |  [#1173](https://github.com/cookieY/Yearning/pull/1173)  |
 |  [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede/)  |  README_JA.md  |  [#11693](https://github.com/coolsnowwolf/lede/pull/11693)  |
 |  [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor/)  |  CONTRIBUTING_ja-JP.md<br>DONATE_ja-JP.md<br>README_ja-JP.md  |  [#1144](https://github.com/cpeditor/cpeditor/pull/1144)  |
 |  [dataelement/bisheng](https://github.com/dataelement/bisheng/)  |  README_JPN.md  |  [#268](https://github.com/dataelement/bisheng/pull/268)  |
@@ -158,6 +159,7 @@
 |  [OpenInterpreter/01](https://github.com/OpenInterpreter/01/)  |  docs/README_JA.md  |  [#243](https://github.com/OpenInterpreter/01/pull/243)  |
 |  [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF/)  |  README_ja.md  |  [#636](https://github.com/OpenRLHF/OpenRLHF/pull/636)  |
 |  [OpenSPG/KAG](https://github.com/OpenSPG/KAG/)  |  README_ja.md  |  [#49](https://github.com/OpenSPG/KAG/pull/49)  |
+|  [openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks/)  |  README_ja.md  |  [#2750](https://github.com/openvinotoolkit/openvino_notebooks/pull/2750)  |
 |  [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit/)  |  README_ja.md  |  [#232](https://github.com/open-compass/VLMEvalKit/pull/232)  |
 |  [PaddlePaddle/docs](https://github.com/PaddlePaddle/docs/)  |  README_ja.md  |  [#6088](https://github.com/PaddlePaddle/docs/pull/6088)  |
 |  [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle/)  |  README_ja.md<br>SECURITY_ja.md<br>security/README_ja.md  |  [#53726](https://github.com/PaddlePaddle/Paddle/pull/53726)<br>[#56466](https://github.com/PaddlePaddle/Paddle/pull/56466)  |
@@ -178,6 +180,7 @@
 |  [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner/)  |  docs/README_JP.md  |  [#822](https://github.com/RealKai42/qwerty-learner/pull/822)  |
 |  [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin/)  |  Resources/AVR_Miner_langs.json<br>Resources/CLI_Wallet_langs.json<br>Resources/PC_Miner_langs.json<br>Resources/README_TRANSLATIONS/README_ja_JP.md<br>Resources/Wallet_langs.json  |  [#1563](https://github.com/revoxhere/duino-coin/pull/1563)  |
 |  [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot/)  |  README_JP.md  |  [#1057](http://github.com/RockChinQ/LangBot/pull/1057)  |
+|  [rrousselGit/flutter_hooks](https://github.com/rrousselGit/flutter_hooks/)  |  packages/flutter_hooks/resources/translations/ja_jp/README.md  |  [#461](https://github.com/rrousselGit/flutter_hooks/pull/461)  |
 |  [rte-design/ASTRA.ai](https://github.com/rte-design/ASTRA.ai/)  |  docs/readmes/README-JP.md  |  [#192](https://github.com/rte-design/ASTRA.ai/pull/192)  |
 |  [RUC-GSAI/YuLan-Mini](https://github.com/RUC-GSAI/YuLan-Mini/)  |  README_ja.md  |  [#2](https://github.com/RUC-GSAI/YuLan-Mini/pull/2)  |
 |  [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk/)  |  docs/CODE_OF_CONDUCT-JP.md<br>docs/CONTRIBUTING-JP.md<br>docs/DEVCONTAINER-JP.md<br>docs/SECURITY-JP.md  |  [#6963](https://github.com/rustdesk/rustdesk/pull/6963)  |
@@ -247,6 +250,7 @@
 |  [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web/)  |  README_JA.md<br>docs/cloudflare-pages-ja.md<br>docs/faq-ja.md<br>docs/vercel-ja.md  |  [#2607](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/2607)  |
 |  [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi/)  |  docs/README-ja.md  |  [#176](https://github.com/yoheinakajima/babyagi/pull/176)  |
 |  [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai/)  |  README_JP.md  |  [#59](https://github.com/yokingma/search_with_ai/pull/59)  |
+|  [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate/)  |  README_JA.md  |  [#73](https://github.com/yuruotong1/autoMate/pull/73)  |
 |  [zadam/trilium](https://github.com/zadam/trilium/)  |  README.ja.md  |  [#3771](https://github.com/zadam/trilium/pull/3771)  |
 |  [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos/)  |  README_JP.md  |  [#19](https://github.com/Zeyi-Lin/HivisionIDPhotos/pull/19)  |
 |  [zhiguoxu/flowx](https://github.com/zhiguoxu/flowx/)  |  README_ja-JP.md  |  [#1](https://github.com/zhiguoxu/flowx/pull/1)  |
