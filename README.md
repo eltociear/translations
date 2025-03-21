@@ -115,6 +115,7 @@
 |  [langflow-ai/langflow](https://github.com/langflow-ai/langflow/)  |  README.ja.md  |  [#2760](https://github.com/langflow-ai/langflow/pull/2760)  |
 |  [langgenius/dify](https://github.com/langgenius/dify/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#96](https://github.com/langgenius/dify/pull/96)  |
 |  [langgptai/LangGPT](https://github.com/langgptai/LangGPT/)  |  README_ja.md  |  [#22](https://github.com/langgptai/LangGPT/pull/22)  |
+|  [langmanus/langmanus](https://github.com/langmanus/langmanus/)  |  README_ja.md  |  [#87](https://github.com/langmanus/langmanus/pull/87)  |
 |  [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya/)  |  README_JA.md  |  [#32](https://github.com/LC1332/Chat-Haruhi-Suzumiya/pull/32)  |
 |  [ldclabs/anda](https://github.com/ldclabs/anda/)  |  README_JA.md  |  [#4](https://github.com/ldclabs/anda/pull/4)  |
 |  [LeKovr/webtail](https://github.com/LeKovr/webtail/)  |  README.ja.md  |  [#17](https://github.com/LeKovr/webtail/pull/17)  |
