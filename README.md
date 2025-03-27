@@ -43,6 +43,7 @@
 |  [bytedance/scene](https://github.com/bytedance/scene/)  |  README_ja.md  |  [#70](https://github.com/bytedance/scene/pull/70)  |
 |  [bytedance/vArmor](https://github.com/bytedance/vArmor/)  |  README.ja.md  |  [#104](https://github.com/bytedance/vArmor/pull/104)  |
 |  [bz-lab/AUITestAgent](https://github.com/bz-lab/AUITestAgent/)  |  README_ja.md  |  [#4](https://github.com/bz-lab/AUITestAgent/pull/4)  |
+|  [camel-ai/owl](https://github.com/camel-ai/owl/)  |  README_ja.md  |  [#410](https://github.com/camel-ai/owl/pull/410)  |
 |  [ca110us/epeius](https://github.com/ca110us/epeius/)  |  README-ja_JP.md  |  [#7](https://github.com/ca110us/epeius/pull/7)  |
 |  [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat/)  |  README_ja.md  |  [#2787](https://github.com/chatchat-space/Langchain-Chatchat/pull/2787)  |
 |  [chathub-dev/chathub](https://github.com/chathub-dev/chathub/)  |  README_JA.md  |  [#263](https://github.com/chathub-dev/chathub/pull/263)  |
@@ -88,6 +89,7 @@
 |  [huggingface/transformers](https://github.com/huggingface/transformers/)  |  README_ja.md  |  [#19945](https://github.com/huggingface/transformers/pull/19945)  |
 |  [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#142](https://github.com/HuolalaTech/page-spy-web/pull/142)<br>[#143](https://github.com/HuolalaTech/page-spy-web/pull/143)  |
 |  [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs/)  |  README_ja.md  |  [#320](https://github.com/hushenghao/AndroidEasterEggs/pull/320)  |
+|  [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn/)  |  README-ja.md  |  [#1714](https://github.com/hwdsl2/setup-ipsec-vpn/pull/1714)  |
 |  [iGeeky/wolf](https://github.com/iGeeky/wolf/)  |  README-JA.md  |  [#52](https://github.com/iGeeky/wolf/pull/52)  |
 |  [immich-app/immich](https://github.com/immich-app/immich/)  |  README_ja_JP.md  |  [#4268](https://github.com/immich-app/immich/pull/4268)  |
 |  [infiniflow/ragflow](https://github.com/infiniflow/ragflow/)  |  README_ja.md  |  [#224](https://github.com/infiniflow/ragflow/pull/224)  |
@@ -206,6 +208,7 @@
 |  [Soulter/AstrBot](https://github.com/Soulter/AstrBot/)  |  README_ja.md  |  [#491](https://github.com/Soulter/AstrBot/pull/491)  |
 |  [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs/)  |  README_JP.md  |  [#51](https://github.com/spiritLHLS/ecs/pull/51)  |
 |  [stepfun-ai/Step-Audio](https://github.com/stepfun-ai/Step-Audio/)  |  README_JP.md  |  [#60](https://github.com/stepfun-ai/Step-Audio/pull/60)  |
+|  [subframe7536/maple-font](https://github.com/subframe7536/maple-font/)  |  README_JA.md  |  [#394](https://github.com/subframe7536/maple-font/pull/394)  |
 |  [sunner/ChatALL](https://github.com/sunner/ChatALL/)  |  README_JA-JP.md  |  [#50](https://github.com/sunner/ChatALL/pull/50)  |
 |  [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API/)  |  README_JA.md  |  [#7](https://github.com/SunoAI-API/Suno-API/pull/7)  |
 |  [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb/)  |  README_ja.md  |  [#1537](https://github.com/SuperDuperDB/superduperdb/pull/1537)  |
