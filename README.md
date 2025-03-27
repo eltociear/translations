@@ -209,6 +209,7 @@
 |  [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs/)  |  README_JP.md  |  [#51](https://github.com/spiritLHLS/ecs/pull/51)  |
 |  [stepfun-ai/Step-Audio](https://github.com/stepfun-ai/Step-Audio/)  |  README_JP.md  |  [#60](https://github.com/stepfun-ai/Step-Audio/pull/60)  |
 |  [subframe7536/maple-font](https://github.com/subframe7536/maple-font/)  |  README_JA.md  |  [#394](https://github.com/subframe7536/maple-font/pull/394)  |
+|  [SUFE-AIFLM-Lab/Fin-R1](https://github.com/SUFE-AIFLM-Lab/Fin-R1/)  |  README_ja.md  |  [#5](https://github.com/SUFE-AIFLM-Lab/Fin-R1/pull/5)  |
 |  [sunner/ChatALL](https://github.com/sunner/ChatALL/)  |  README_JA-JP.md  |  [#50](https://github.com/sunner/ChatALL/pull/50)  |
 |  [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API/)  |  README_JA.md  |  [#7](https://github.com/SunoAI-API/Suno-API/pull/7)  |
 |  [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb/)  |  README_ja.md  |  [#1537](https://github.com/SuperDuperDB/superduperdb/pull/1537)  |
