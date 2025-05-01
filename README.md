@@ -53,6 +53,7 @@
 |  [cloudwego/thriftgo](https://github.com/cloudwego/thriftgo/)  |  README_ja.md  |  [#219](https://github.com/cloudwego/thriftgo/pull/219)  |
 |  [cloudwego/volo](https://github.com/cloudwego/volo/)  |  README-ja.md  |  [#474](https://github.com/cloudwego/volo/pull/474)  |
 |  [coaidev/coai](https://github.com/coaidev/coai/)  |  README_ja-JP.md  |  [#262](https://github.com/coaidev/coai/pull/262)  |
+|  [codexu/note-gen](https://github.com/codexu/note-gen/)  |  README.JP.md  |  [#150](https://github.com/codexu/note-gen/pull/150)  |
 |  [ComposioHQ/composio](https://github.com/ComposioHQ/composio/)  |  README-JP.md  |  [#272](https://github.com/ComposioHQ/composio/pull/272)  |
 |  [cookieY/Yearning](https://github.com/cookieY/Yearning/)  |  README.ja-JP.md  |  [#1173](https://github.com/cookieY/Yearning/pull/1173)  |
 |  [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede/)  |  README_JA.md  |  [#11693](https://github.com/coolsnowwolf/lede/pull/11693)  |
