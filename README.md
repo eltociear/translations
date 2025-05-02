@@ -106,6 +106,7 @@
 |  [jingsewu/open-wes](https://github.com/jingsewu/open-wes/)  |  README_JP.md  |  [#10](https://github.com/jingsewu/open-wes/pull/10)  |
 |  [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox/)  |  README_JA.md  |  [#549](https://github.com/josStorer/chatGPTBox/pull/549)  |
 |  [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner/)  |  README_JA.md  |  [#100](https://github.com/josStorer/RWKV-Runner/pull/100)  |
+|  [JSLiam94/CMSwinKAN](https://github.com/JSLiam94/CMSwinKAN/)  |  README_ja.md  |  [#2](https://github.com/JSLiam94/CMSwinKAN/pull/2)  |
 |  [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt/)  |  README_JA.md  |  [#3](https://github.com/jtsang4/claude-to-chatgpt/pull/3)  |
 |  [julep-ai/julep](https://github.com/julep-ai/julep/)  |  README-JP.md  |  [#598](https://github.com/julep-ai/julep/pull/598)  |
 |  [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio/)  |  README.ja.md  |  [#233](https://github.com/kangfenmao/cherry-studio/pull/233)  |
