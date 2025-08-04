@@ -27,6 +27,7 @@
 |  [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons/)  |  packages/icons-svg/docs/ContributionGuide.ja-JP.md  |  [#658](https://github.com/ant-design/ant-design-icons/pull/658)  |
 |  [apernet/OpenGFW](https://github.com/apernet/OpenGFW/)  |  README.ja.md  |  [#31](https://github.com/apernet/OpenGFW/pull/31)  |
 |  [arkohut/pensieve](https://github.com/arkohut/pensieve/)  |  README_JP.md  |  [#25](https://github.com/arkohut/pensieve/pull/25)  |
+|  [asjqkkkk/markdown_widget](https://github.com/asjqkkkk/markdown_widget/)  |  README_JP.md  |  [#207](https://github.com/asjqkkkk/markdown_widget/pull/207)  |
 |  [ASLP-lab/OSUM](https://github.com/ASLP-lab/OSUM/)  |  README_JP.md  |  [#2](https://github.com/ASLP-lab/OSUM/pull/2)  |
 |  [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher/)  |  README-ja_JP.md  |  [#686](https://github.com/assafelovic/gpt-researcher/pull/686)  |
 |  [asterinas/asterinas](https://github.com/asterinas/asterinas/)  |  README_JP.md  |  [#1510](https://github.com/asterinas/asterinas/pull/1510)  |
