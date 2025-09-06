@@ -63,6 +63,7 @@
 |  [deepflowio/deepflow](https://github.com/deepflowio/deepflow/)  |  README-JP.md  |  [#6880](https://github.com/deepflowio/deepflow/pull/6880)  |
 |  [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration/)  |  README_ja.md  |  [#134](https://github.com/deepseek-ai/awesome-deepseek-integration/pull/134)  |
 |  [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)  |  README-ja.md  |  [#521](https://github.com/deniscerri/ytdlnis/pull/521)  |
+|  [derisk-ai/OpenDerisk](https://github.com/derisk-ai/OpenDerisk)  |  README.ja.md  |  [#64](https://github.com/derisk-ai/OpenDerisk/pull/64)  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus/)  |  translations/ja-jp/README.md  |  [#1329](https://github.com/DioxusLabs/dioxus/pull/1329)  |
 |  [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/)  |  README_JA.md  |  [#44](https://github.com/dmMaze/BallonsTranslator/pull/44)  |
 |  [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly/)  |  README.ja-JP.md  |  [#1494](https://github.com/dragonflydb/dragonfly/pull/1494)  |
