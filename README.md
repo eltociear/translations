@@ -227,6 +227,7 @@
 |  [taco-group/OpenEMMA](https://github.com/taco-group/OpenEMMA/)  |  README_ja-JP.md  |  [#5](https://github.com/taco-group/OpenEMMA/pull/5)  |
 |  [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown/)  |  README.JP.md  |  [#851](https://github.com/Tencent/cherry-markdown/pull/851)  |
 |  [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2/)  |  README_ja_jp.md  |  [#15](https://github.com/Tencent/Hunyuan3D-2/pull/15)  |
+|  [Tencent/WeKnora](https://github.com/Tencent/WeKnora/)  |  README_JA.md  |  [#222](https://github.com/Tencent/WeKnora/pull/222)  |
 |  [tencentmusic/supersonic](https://github.com/tencentmusic/supersonic/)  |  README_JP.md  |  [#1177](https://github.com/tencentmusic/supersonic/pull/1177)  |
 |  [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent/)  |  docs/readmes/README-JP.md  |  [#192](https://github.com/TEN-framework/TEN-Agent/pull/192)  |
 |  [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2/)  |  README_JA.md  |  [#22](https://github.com/THUDM/CodeGeeX2/pull/22)  |
