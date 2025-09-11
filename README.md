@@ -83,6 +83,7 @@
 |  [gojue/moling](https://github.com/gojue/moling/)  |  README_JA_JP.md  |  [#13](https://github.com/gojue/moling/pull/13)  |
 |  [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed/)  |  CONTRIBUTING_ja-JP.md<br>README_ja-JP.md<br>ui/flutter/assets/locales/ja_JP.json  |  [#139](https://github.com/GopeedLab/gopeed/pull/139)  |
 |  [go-nunu/nunu](https://github.com/go-nunu/nunu/)  |  README_jp.md  |  [#59](https://github.com/go-nunu/nunu/pull/59)  |
+|  [groupultra/telegram-search](https://github.com/groupultra/telegram-search/)  |  docs/README_JA.md  |  [#348](https://github.com/groupultra/telegram-search/pull/348)  |
 |  [guanguans/ai-commit](https://github.com/guanguans/ai-commit/)  |  README-ja_JP.md  |  [#177](https://github.com/guanguans/ai-commit/pull/177)  |
 |  [hellokaton/namesage](https://github.com/hellokaton/namesage/)  |  README_ja.md  |  [#1](https://github.com/hellokaton/namesage/pull/1)  |
 |  [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events/)  |  README.ja.md  |  [#200](https://github.com/HiEventsDev/Hi.Events/pull/200)  |
