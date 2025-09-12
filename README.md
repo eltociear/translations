@@ -242,6 +242,7 @@
 |  [tonsky/FiraCode](https://github.com/tonsky/FiraCode/)  |  README_JA.md  |  [#1537](https://github.com/tonsky/FiraCode/pull/1537)  |
 |  [toss/es-toolkit](https://github.com/toss/es-toolkit/)  |  README-ja_jp.md  |  [#394](https://github.com/toss/es-toolkit/pull/394)  |
 |  [tw93/Pake](https://github.com/tw93/Pake/)  |  README_JP.md  |  [#723](https://github.com/tw93/Pake/pull/723)  |
+|  [UfoMiao/zcf](https://github.com/UfoMiao/zcf/)  |  README_ja-JP.md  |  [#72](https://github.com/UfoMiao/zcf/pull/72)  |
 |  [unitreerobotics/avp_teleoperate](https://github.com/unitreerobotics/avp_teleoperate/)  |  README_ja-JP.md  |  [#12](https://github.com/unitreerobotics/avp_teleoperate/pull/12)  |
 |  [unitreerobotics/unitree_IL_lerobot](https://github.com/unitreerobotics/unitree_IL_lerobot/)  |  README_ja.md  |  [#1](https://github.com/unitreerobotics/unitree_IL_lerobot/pull/1)  |
 |  [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin/)  |  README.ja-JP.md  |  [#4028](https://github.com/vbenjs/vue-vben-admin/pull/4028)  |
