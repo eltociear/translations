@@ -255,6 +255,7 @@
 |  [VisActor/VTable](https://github.com/VisActor/VTable/)  |  CONTRIBUTING.ja-JP.md<br>README.ja-JP.md  |  [#2617](https://github.com/VisActor/VTable/pull/2617)  |
 |  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
 |  [vortezwohl/CEO-Agentic-AI-Framework](https://github.com/vortezwohl/CEO-Agentic-AI-Framework/)  |  i18n/README_ja-jp.md  |  [#67](https://github.com/vortezwohl/CEO-Agentic-AI-Framework/pull/67)  |
+|  [wangbooth/Claude-Code-Guardrails](https://github.com/wangbooth/Claude-Code-Guardrails/)  |  README_JA.md  |  [#3](https://github.com/wangbooth/Claude-Code-Guardrails/pull/3)  |
 |  [wangzongming/esp-ai](https://github.com/wangzongming/esp-ai/)  |  readme_ja.md  |  [#17](https://github.com/wangzongming/esp-ai/pull/17)  |
 |  [Wannabeasmartguy/RAGENT](https://github.com/Wannabeasmartguy/RAGENT/)  |  README_ja.md  |  [#4](https://github.com/Wannabeasmartguy/RAGENT/pull/4)  |
 |  [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/)  |  README-ja.md  |  [#3157](https://github.com/WasmEdge/WasmEdge/pull/3157)  |
