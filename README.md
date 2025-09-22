@@ -45,6 +45,7 @@
 |  [bytedance/scene](https://github.com/bytedance/scene/)  |  README_ja.md  |  [#70](https://github.com/bytedance/scene/pull/70)  |
 |  [bytedance/vArmor](https://github.com/bytedance/vArmor/)  |  README.ja.md  |  [#104](https://github.com/bytedance/vArmor/pull/104)  |
 |  [bz-lab/AUITestAgent](https://github.com/bz-lab/AUITestAgent/)  |  README_ja.md  |  [#4](https://github.com/bz-lab/AUITestAgent/pull/4)  |
+|  [camel-ai/camel](https://github.com/camel-ai/camel/)  |  README.ja.md  |  [#3178](https://github.com/camel-ai/camel/pull/3178)  |
 |  [camel-ai/owl](https://github.com/camel-ai/owl/)  |  README_ja.md  |  [#410](https://github.com/camel-ai/owl/pull/410)  |
 |  [ca110us/epeius](https://github.com/ca110us/epeius/)  |  README-ja_JP.md  |  [#7](https://github.com/ca110us/epeius/pull/7)  |
 |  [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat/)  |  README_ja.md  |  [#2787](https://github.com/chatchat-space/Langchain-Chatchat/pull/2787)  |
