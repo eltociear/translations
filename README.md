@@ -159,6 +159,7 @@
 |  [modelscope/modelscope](https://github.com/modelscope/modelscope/)  |  README_ja.md  |  [#405](https://github.com/modelscope/modelscope/pull/405)  |
 |  [modelscope/modelscope-studio](https://github.com/modelscope/modelscope-studio/)  |  README-ja_JP.md  |  [#1](https://github.com/modelscope/modelscope-studio/pull/1)  |
 |  [moeru-ai/airi](https://github.com/moeru-ai/airi/)  |  README.ja-JP.md  |  [#138](https://github.com/moeru-ai/airi/pull/138)  |
+|  [Morphicai/morphixai-code](https://github.com/Morphicai/morphixai-code/)  |  docs/README_JA.md  |  [#1](https://github.com/Morphicai/morphixai-code/pull/1)  |
 |  [neavo/LinguaGacha](https://github.com/nneavo/LinguaGacha/)  |  README_JP.md  |  [#29](https://github.com/neavo/LinguaGacha/pull/29)  |
 |  [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything/)  |  README_jp.md  |  [#374](https://github.com/netease-youdao/QAnything/pull/374)  |
 |  [nicepkg/aide](https://github.com/nicepkg/aide/)  |  README_JP.md  |  [#75](https://github.com/nicepkg/aide/pull/75)  |
