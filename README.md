@@ -114,6 +114,7 @@
 |  [JSLiam94/CMSwinKAN](https://github.com/JSLiam94/CMSwinKAN/)  |  README_ja.md  |  [#2](https://github.com/JSLiam94/CMSwinKAN/pull/2)  |
 |  [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt/)  |  README_JA.md  |  [#3](https://github.com/jtsang4/claude-to-chatgpt/pull/3)  |
 |  [julep-ai/julep](https://github.com/julep-ai/julep/)  |  README-JP.md  |  [#598](https://github.com/julep-ai/julep/pull/598)  |
+|  [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API/)  |  README-JA.md  |  [#56](https://github.com/justlovemaki/AIClient-2-API/pull/56)  |
 |  [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio/)  |  README.ja.md  |  [#233](https://github.com/kangfenmao/cherry-studio/pull/233)  |
 |  [keploy/keploy](https://github.com/keploy/keploy/)  |  READMEja-JP.md  |  [#2315](https://github.com/keploy/keploy/pull/2315)  |
 |  [kevwan/tproxy](https://github.com/kevwan/tproxy/)  |  readme-ja.md  |  [#92](https://github.com/kevwan/tproxy/pull/92)  |
