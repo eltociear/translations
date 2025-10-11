@@ -278,6 +278,7 @@
 |  [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help/)  |  README_JP.md  |  [#351](https://github.com/yuaotian/go-cursor-help/pull/351)  |
 |  [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate/)  |  README_JA.md  |  [#73](https://github.com/yuruotong1/autoMate/pull/73)  |
 |  [zadam/trilium](https://github.com/zadam/trilium/)  |  README.ja.md  |  [#3771](https://github.com/zadam/trilium/pull/3771)  |
+|  [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5/)  |  README_ja.md  |  [#88](https://github.com/zai-org/GLM-4.5/pull/88)  |
 |  [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos/)  |  README_JP.md  |  [#19](https://github.com/Zeyi-Lin/HivisionIDPhotos/pull/19)  |
 |  [zhiguoxu/flowx](https://github.com/zhiguoxu/flowx/)  |  README_ja-JP.md  |  [#1](https://github.com/zhiguoxu/flowx/pull/1)  |
 |  [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org/)  |  content/_index.ja.md<br>content/download/_index.ja.md<br>content/learn/_index.ja.md<br>content/learn/getting-started.ja.md<br>content/learn/overview.ja.md<br>content/learn/samples.ja.md<br>content/learn/tools.ja.md<br>content/learn/why_zig_rust_d_cpp.ja.md<br>content/news/_index.ja.md<br>content/zsf/index.ja.md<br>themes/ziglang-original/i18n/ja.toml  |  [#212](https://github.com/ziglang/www.ziglang.org/pull/212)  |
