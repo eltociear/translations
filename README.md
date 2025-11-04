@@ -289,6 +289,7 @@
 |  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel/)  |  README_JA.md  |  [#2265](https://github.com/1Panel-dev/1Panel/pull/2265)  |
 |  [2noise/ChatTTS](https://github.com/2noise/ChatTTS/)  |  README_JP.md  |  [#199](https://github.com/2noise/ChatTTS/pull/199)  |
 |  [4xmen/Get-Github-Achievements](https://github.com/4xmen/Get-Github-Achievements/)  |  README.ja.md  |  [#132](https://github.com/4xmen/Get-Github-Achievements/pull/132)  |
+|  [666ghj/BettaFish](https://github.com/666ghj/BettaFish/)  |  README-JA.md  |  [#76](https://github.com/666ghj/BettaFish/pull/76)  |
 |  [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub/)  |  README_ja.md  |  [#2580](https://github.com/521xueweihan/HelloGitHub/pull/2580)  |
 |  [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32/)  |  README_ja.md  |  [#46](https://github.com/78/xiaozhi-esp32/pull/46)  |
 
