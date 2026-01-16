@@ -51,6 +51,7 @@
 |  [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat/)  |  README_ja.md  |  [#2787](https://github.com/chatchat-space/Langchain-Chatchat/pull/2787)  |
 |  [chathub-dev/chathub](https://github.com/chathub-dev/chathub/)  |  README_JA.md  |  [#263](https://github.com/chathub-dev/chathub/pull/263)  |
 |  [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna/)  |  README_JP.MD  |  [#404](https://github.com/ChatLunaLab/chatluna/pull/404)  |
+|  [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz/)  |  README.ja_JP.md  |  [#1352](https://github.com/chidiwilliams/buzz/pull/1352)  |
 |  [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11/)  |  CONTRIBUTING.ja.md  |  [#694](https://github.com/chrislgarry/Apollo-11/pull/694)  |
 |  [cloudwego/thriftgo](https://github.com/cloudwego/thriftgo/)  |  README_ja.md  |  [#219](https://github.com/cloudwego/thriftgo/pull/219)  |
 |  [cloudwego/volo](https://github.com/cloudwego/volo/)  |  README-ja.md  |  [#474](https://github.com/cloudwego/volo/pull/474)  |
