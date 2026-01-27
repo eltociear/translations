@@ -40,6 +40,7 @@
 |  [bigtreetech/Manta-M8P](https://github.com/bigtreetech/Manta-M8P/)  |  README_ja.md  |  [#134](https://github.com/bigtreetech/Manta-M8P/pull/134)  |
 |  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
 |  [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter/)  |  README_ja.md  |  [#12](https://github.com/bleedline/aimoneyhunter/pull/12)  |
+|  [buxuku/SmartSub](https://github.com/buxuku/SmartSub/)  |  README_JA.md  |  [#276](https://github.com/buxuku/SmartSub/pull/276)  |
 |  [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate/)  |  README_ja-JP.md  |  [#232](https://github.com/Byaidu/PDFMathTranslate/pull/232)  |
 |  [bytedance/g3](https://github.com/bytedance/g3/)  |  README.ja_JP.md  |  [#268](https://github.com/bytedance/g3/pull/268)  |
 |  [bytedance/scene](https://github.com/bytedance/scene/)  |  README_ja.md  |  [#70](https://github.com/bytedance/scene/pull/70)  |
