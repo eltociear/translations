@@ -1,0 +1,32 @@
+# Apps
+
+|  Repository |  Files  |  PRs  |
+| ---- | ---- | ---- |
+|  [aistra0528/Hail](https://github.com/aistra0528/Hail/)  |  README_JP.md  |  [#253](https://github.com/aistra0528/Hail/pull/253)  |
+|  [alist-org/alist](https://github.com/alist-org/alist/)  |  README_ja.md  |  [#4798](https://github.com/alist-org/alist/pull/4798)  |
+|  [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit/)  |  CONTRIBUTING_ja-JP.md<br>README_ja-JP.md  |  [#1562](https://github.com/BartoszCichecki/LenovoLegionToolkit/pull/1562)  |
+|  [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper/)  |  docs/readme_ja-JP.md  |  [#443](https://github.com/beeradmoore/dlss-swapper/pull/443)  |
+|  [codexu/note-gen](https://github.com/codexu/note-gen/)  |  README.JP.md  |  [#150](https://github.com/codexu/note-gen/pull/150)  |
+|  [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)  |  README-ja.md  |  [#521](https://github.com/deniscerri/ytdlnis/pull/521)  |
+|  [dream-num/univer](https://github.com/dream-num/univer/)  |  README-ja.md  |  [#857](https://github.com/dream-num/univer/pull/857)  |
+|  [Eugeny/tabby](https://github.com/Eugeny/tabby/)  |  README.ja-JP.md  |  [#6894](https://github.com/Eugeny/tabby/pull/6894)  |
+|  [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed/)  |  CONTRIBUTING_ja-JP.md<br>README_ja-JP.md<br>ui/flutter/assets/locales/ja_JP.json  |  [#139](https://github.com/GopeedLab/gopeed/pull/139)  |
+|  [groupultra/telegram-search](https://github.com/groupultra/telegram-search/)  |  docs/README_JA.md  |  [#348](https://github.com/groupultra/telegram-search/pull/348)  |
+|  [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement/)  |  README_JP.md<br>Tutorial_JP.md  |  [#107](https://github.com/HolographicHat/YaeAchievement/pull/107)  |
+|  [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs/)  |  README_ja.md  |  [#320](https://github.com/hushenghao/AndroidEasterEggs/pull/320)  |
+|  [immich-app/immich](https://github.com/immich-app/immich/)  |  README_ja_JP.md  |  [#4268](https://github.com/immich-app/immich/pull/4268)  |
+|  [ish-app/ish](https://github.com/ish-app/ish/)  |  README_JP.md  |  [#2427](https://github.com/ish-app/ish/pull/2427)  |
+|  [localsend/localsend](https://github.com/localsend/localsend/)  |  README_JA.md  |  [#1584](https://github.com/localsend/localsend/pull/1584)  |
+|  [LorisYounger/VPet](https://github.com/LorisYounger/VPet/)  |  README_ja.md  |  [#284](https://github.com/LorisYounger/VPet/pull/284)  |
+|  [mgba-emu/mgba](https://github.com/mgba-emu/mgba/)  |  README_JP.md  |  [#3399](https://github.com/mgba-emu/mgba/pull/3399)  |
+|  [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant/)  |  README_JA.md  |  [#729](https://github.com/moesnow/March7thAssistant/pull/729)  |
+|  [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner/)  |  docs/README_JP.md  |  [#822](https://github.com/RealKai42/qwerty-learner/pull/822)  |
+|  [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk/)  |  docs/CODE_OF_CONDUCT-JP.md<br>docs/CONTRIBUTING-JP.md<br>docs/DEVCONTAINER-JP.md<br>docs/SECURITY-JP.md  |  [#6963](https://github.com/rustdesk/rustdesk/pull/6963)  |
+|  [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole/)  |  README.JA.md  |  [#410](https://github.com/Sangwan5688/BlackHole/pull/410)  |
+|  [SchneeHertz/exhentai-manga-manager](https://github.com/SchneeHertz/exhentai-manga-manager/)  |  README_JA.md  |  [#126](https://github.com/SchneeHertz/exhentai-manga-manager/pull/126)  |
+|  [seerge/g-helper](https://github.com/seerge/g-helper/)  |  docs/README.ja-JP.md  |  [#3047](https://github.com/seerge/g-helper/pull/3047)  |
+|  [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan/)  |  README_ja_JP.md<br>API_ja_JP.md  |  [#12819](https://github.com/siyuan-note/siyuan/pull/12819)<br>[#16886](https://github.com/siyuan-note/siyuan/pull/16886)  |
+|  [th-ch/youtube-music](https://github.com/th-ch/youtube-music/)  |  docs/readme/README-ja.md  |  [#3180](https://github.com/th-ch/youtube-music/pull/3180)  |
+|  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm/)  |  README_ja.md  |  [#335](https://github.com/tiny-craft/tiny-rdm/pull/335)  |
+|  [tw93/Pake](https://github.com/tw93/Pake/)  |  README_JP.md  |  [#723](https://github.com/tw93/Pake/pull/723)  |
+|  [zadam/trilium](https://github.com/zadam/trilium/)  |  README.ja.md  |  [#3771](https://github.com/zadam/trilium/pull/3771)  |

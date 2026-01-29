@@ -1,0 +1,35 @@
+# Cloud / Infrastructure
+
+|  Repository |  Files  |  PRs  |
+| ---- | ---- | ---- |
+|  [alibaba/higress](https://github.com/alibaba/higress/)  |  CONTRIBUTING_JP.md<br>README_JP.md  |  [#1407](https://github.com/alibaba/higress/pull/1407)  |
+|  [aliyun/alibaba-cloud-sdk-go](https://github.com/aliyun/alibaba-cloud-sdk-go/)  |  README-JP.md  |  [#631](https://github.com/aliyun/alibaba-cloud-sdk-go/pull/631)  |
+|  [apernet/OpenGFW](https://github.com/apernet/OpenGFW/)  |  README.ja.md  |  [#31](https://github.com/apernet/OpenGFW/pull/31)  |
+|  [asterinas/asterinas](https://github.com/asterinas/asterinas/)  |  README_JP.md  |  [#1510](https://github.com/asterinas/asterinas/pull/1510)  |
+|  [beam-cloud/beta9](https://github.com/beam-cloud/beta9/)  |  docs/jp/README.md  |  [#270](https://github.com/beam-cloud/beta9/pull/270)  |
+|  [beclab/Olares](https://github.com/beclab/Olares/)  |  README_JP.md  |  [#806](https://github.com/beclab/Olares/pull/806)  |
+|  [bytedance/g3](https://github.com/bytedance/g3/)  |  README.ja_JP.md  |  [#268](https://github.com/bytedance/g3/pull/268)  |
+|  [bytedance/vArmor](https://github.com/bytedance/vArmor/)  |  README.ja.md  |  [#104](https://github.com/bytedance/vArmor/pull/104)  |
+|  [ca110us/epeius](https://github.com/ca110us/epeius/)  |  README-ja_JP.md  |  [#7](https://github.com/ca110us/epeius/pull/7)  |
+|  [cloudwego/volo](https://github.com/cloudwego/volo/)  |  README-ja.md  |  [#474](https://github.com/cloudwego/volo/pull/474)  |
+|  [cookieY/Yearning](https://github.com/cookieY/Yearning/)  |  README.ja-JP.md  |  [#1173](https://github.com/cookieY/Yearning/pull/1173)  |
+|  [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede/)  |  README_JA.md  |  [#11693](https://github.com/coolsnowwolf/lede/pull/11693)  |
+|  [deepflowio/deepflow](https://github.com/deepflowio/deepflow/)  |  README-JP.md  |  [#6880](https://github.com/deepflowio/deepflow/pull/6880)  |
+|  [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly/)  |  README.ja-JP.md  |  [#1494](https://github.com/dragonflydb/dragonfly/pull/1494)  |
+|  [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next/)  |  README_ja.md  |  [#371](https://github.com/hiddify/hiddify-next/pull/371)  |
+|  [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn/)  |  README-ja.md  |  [#1714](https://github.com/hwdsl2/setup-ipsec-vpn/pull/1714)  |
+|  [iGeeky/wolf](https://github.com/iGeeky/wolf/)  |  README-JA.md  |  [#52](https://github.com/iGeeky/wolf/pull/52)  |
+|  [Infisical/infisical](https://github.com/Infisical/infisical/)  |  i18n/README.ja.md  |  [#399](https://github.com/Infisical/infisical/pull/399)  |
+|  [jingsewu/open-wes](https://github.com/jingsewu/open-wes/)  |  README_JP.md  |  [#10](https://github.com/jingsewu/open-wes/pull/10)  |
+|  [kevwan/tproxy](https://github.com/kevwan/tproxy/)  |  readme-ja.md  |  [#92](https://github.com/kevwan/tproxy/pull/92)  |
+|  [kubesphere/kubekey](https://github.com/kubesphere/kubekey/)  |  README_ja-JP.md  |  [#2329](https://github.com/kubesphere/kubekey/pull/2329)  |
+|  [KusionStack/karpor](https://github.com/KusionStack/karpor/)  |  README-ja.md<br>SECURITY-ja.md  |  [#755](https://github.com/KusionStack/karpor/pull/755)  |
+|  [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/)  |  README-JP.md  |  [#2908](https://github.com/lf-edge/ekuiper/pull/2908)  |
+|  [lindb/lindb](https://github.com/lindb/lindb/)  |  README-ja.md  |  [#1039](https://github.com/lindb/lindb/pull/1039)  |
+|  [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray/)  |  README_ja.md  |  [#988](https://github.com/MatsuriDayo/nekoray/pull/988)  |
+|  [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi/)  |  README_ja.md  |  [#1412](https://github.com/Project-HAMi/HAMi/pull/1412)  |
+|  [siglens/siglens](https://github.com/siglens/siglens/)  |  README_JA_JP.md  |  [#1303](https://github.com/siglens/siglens/pull/1303)  |
+|  [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs/)  |  README_JP.md  |  [#51](https://github.com/spiritLHLS/ecs/pull/51)  |
+|  [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/)  |  README-ja.md  |  [#3157](https://github.com/WasmEdge/WasmEdge/pull/3157)  |
+|  [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI/)  |  readme_ja.md  |  [#87](https://github.com/xvzc/SpoofDPI/pull/87)  |
+|  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel/)  |  README_JA.md  |  [#2265](https://github.com/1Panel-dev/1Panel/pull/2265)  |

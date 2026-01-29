@@ -1,0 +1,29 @@
+# DevTools
+
+|  Repository |  Files  |  PRs  |
+| ---- | ---- | ---- |
+|  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
+|  [cloudwego/thriftgo](https://github.com/cloudwego/thriftgo/)  |  README_ja.md  |  [#219](https://github.com/cloudwego/thriftgo/pull/219)  |
+|  [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor/)  |  CONTRIBUTING_ja-JP.md<br>DONATE_ja-JP.md<br>README_ja-JP.md  |  [#1144](https://github.com/cpeditor/cpeditor/pull/1144)  |
+|  [gojue/ecapture](https://github.com/gojue/ecapture/)  |  README_JA.md  |  [#324](https://github.com/gojue/ecapture/pull/324)  |
+|  [gojue/moling](https://github.com/gojue/moling/)  |  README_JA_JP.md  |  [#13](https://github.com/gojue/moling/pull/13)  |
+|  [go-nunu/nunu](https://github.com/go-nunu/nunu/)  |  README_jp.md  |  [#59](https://github.com/go-nunu/nunu/pull/59)  |
+|  [hellokaton/namesage](https://github.com/hellokaton/namesage/)  |  README_ja.md  |  [#1](https://github.com/hellokaton/namesage/pull/1)  |
+|  [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#142](https://github.com/HuolalaTech/page-spy-web/pull/142)<br>[#143](https://github.com/HuolalaTech/page-spy-web/pull/143)  |
+|  [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub/)  |  README.ja.md  |  [#16](https://github.com/jaywcjlove/DevHub/pull/16)  |
+|  [keploy/keploy](https://github.com/keploy/keploy/)  |  READMEja-JP.md  |  [#2315](https://github.com/keploy/keploy/pull/2315)  |
+|  [LeKovr/webtail](https://github.com/LeKovr/webtail/)  |  README.ja.md  |  [#17](https://github.com/LeKovr/webtail/pull/17)  |
+|  [milisp/mcp-linker](https://github.com/milisp/mcp-linker/)  |  README.ja-JP.md  |  [#1](https://github.com/milisp/mcp-linker/pull/1)  |
+|  [Morphicai/morphixai-code](https://github.com/Morphicai/morphixai-code/)  |  docs/README_JA.md  |  [#1](https://github.com/Morphicai/morphixai-code/pull/1)  |
+|  [nicepkg/aide](https://github.com/nicepkg/aide/)  |  README_JP.md  |  [#75](https://github.com/nicepkg/aide/pull/75)  |
+|  [One-Language/One](https://github.com/One-Language/One/)  |  README_JA.md  |  [#359](https://github.com/One-Language/One/pull/359)  |
+|  [petiky/awesome-mcp](https://github.com/petiky/awesome-mcp/)  |  README_ja.md  |  [#1](https://github.com/petiky/awesome-mcp/pull/1)  |
+|  [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei/)  |  README_JP.md  |  [#5259](https://github.com/projectdiscovery/nuclei/pull/5259)  |
+|  [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates/)  |  README_JA.md  |  [#10401](https://github.com/projectdiscovery/nuclei-templates/pull/10401)  |
+|  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/)  |  README-ja.md  |  [#82](https://github.com/punkpeye/awesome-mcp-servers/pull/82)  |
+|  [swow/swow](https://github.com/swow/swow/)  |  README-JP.md  |  [#252](https://github.com/swow/swow/pull/252)  |
+|  [tikkid/JetbrainKiller](https://github.com/tikkid/JetbrainKiller/)  |  README_JA-JP.md  |  [#3](https://github.com/tikkid/JetbrainKiller/pull/3)  |
+|  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
+|  [wangbooth/Claude-Code-Guardrails](https://github.com/wangbooth/Claude-Code-Guardrails/)  |  README_JA.md  |  [#3](https://github.com/wangbooth/Claude-Code-Guardrails/pull/3)  |
+|  [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help/)  |  README_JP.md  |  [#351](https://github.com/yuaotian/go-cursor-help/pull/351)  |
+|  [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org/)  |  content/_index.ja.md<br>content/download/_index.ja.md<br>content/learn/_index.ja.md<br>content/learn/getting-started.ja.md<br>content/learn/overview.ja.md<br>content/learn/samples.ja.md<br>content/learn/tools.ja.md<br>content/learn/why_zig_rust_d_cpp.ja.md<br>content/news/_index.ja.md<br>content/zsf/index.ja.md<br>themes/ziglang-original/i18n/ja.toml  |  [#212](https://github.com/ziglang/www.ziglang.org/pull/212)  |
