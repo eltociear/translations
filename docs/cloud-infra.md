@@ -28,6 +28,7 @@
 |  [lindb/lindb](https://github.com/lindb/lindb/)  |  README-ja.md  |  [#1039](https://github.com/lindb/lindb/pull/1039)  |
 |  [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray/)  |  README_ja.md  |  [#988](https://github.com/MatsuriDayo/nekoray/pull/988)  |
 |  [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi/)  |  README_ja.md  |  [#1412](https://github.com/Project-HAMi/HAMi/pull/1412)  |
+|  [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core/)  |  README_JA.md  |  [#139](https://github.com/Project-HAMi/HAMi-core/pull/139)  |
 |  [siglens/siglens](https://github.com/siglens/siglens/)  |  README_JA_JP.md  |  [#1303](https://github.com/siglens/siglens/pull/1303)  |
 |  [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs/)  |  README_JP.md  |  [#51](https://github.com/spiritLHLS/ecs/pull/51)  |
 |  [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/)  |  README-ja.md  |  [#3157](https://github.com/WasmEdge/WasmEdge/pull/3157)  |
