@@ -39,6 +39,7 @@
 |  [derisk-ai/OpenDerisk](https://github.com/derisk-ai/OpenDerisk)  |  README.ja.md  |  [#64](https://github.com/derisk-ai/OpenDerisk/pull/64)  |
 |  [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/)  |  README_JA.md  |  [#44](https://github.com/dmMaze/BallonsTranslator/pull/44)  |
 |  [eigent-ai/eigent](https://github.com/eigent-ai/eigent/)  |  README_JA.md  |  [#857](https://github.com/eigent-ai/eigent/pull/857)  |
+|  [EncrEor/rlm-claude](https://github.com/EncrEor/rlm-claude/)  |  README.ja.md  |  [#1](https://github.com/EncrEor/rlm-claude/pull/1)  |
 |  [elizaOS/eliza](https://github.com/elizaOS/eliza/)  |  README_JA.md<br>docs/README_JA.md  |  [#307](https://github.com/elizaOS/eliza/pull/307)<br>[#2515](https://github.com/elizaOS/eliza/pull/2515)  |
 |  [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT/)  |  README.ja.md  |  [#1593](https://github.com/eosphoros-ai/DB-GPT/pull/1593)  |
 |  [feiyun0112/Gradio.Net](https://github.com/feiyun0112/Gradio.Net/)  |  readme_files/README_ja.md  |  [#13](https://github.com/feiyun0112/Gradio.Net/pull/13)  |
