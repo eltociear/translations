@@ -72,6 +72,7 @@
 |  [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt/)  |  README_JA.md  |  [#3](https://github.com/jtsang4/claude-to-chatgpt/pull/3)  |
 |  [julep-ai/julep](https://github.com/julep-ai/julep/)  |  README-JP.md  |  [#598](https://github.com/julep-ai/julep/pull/598)  |
 |  [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API/)  |  README-JA.md  |  [#56](https://github.com/justlovemaki/AIClient-2-API/pull/56)  |
+|  [JustVugg/colibri](https://github.com/JustVugg/colibri/)  |  README.ja.md  |  [#1492](https://github.com/JustVugg/colibri/pull/1492)  |
 |  [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio/)  |  README.ja.md  |  [#233](https://github.com/kangfenmao/cherry-studio/pull/233)  |
 |  [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT/)  |  docs/README_JA.md  |  [#31](https://github.com/kuafuai/DevOpsGPT/pull/31)  |
 |  [KwaiKEG/KwaiAgents](https://github.com/KwaiKEG/KwaiAgents/)  |  README_JA.md  |  [#24](https://github.com/KwaiKEG/KwaiAgents/pull/24)  |
