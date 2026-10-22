@@ -16,6 +16,7 @@
 |  [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement/)  |  README_JP.md<br>Tutorial_JP.md  |  [#107](https://github.com/HolographicHat/YaeAchievement/pull/107)  |
 |  [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs/)  |  README_ja.md  |  [#320](https://github.com/hushenghao/AndroidEasterEggs/pull/320)  |
 |  [immich-app/immich](https://github.com/immich-app/immich/)  |  README_ja_JP.md  |  [#4268](https://github.com/immich-app/immich/pull/4268)  |
+|  [InlitX/streak](https://github.com/InlitX/streak/)  |  docs/README.ja.md  |  [#243](https://github.com/InlitX/streak/pull/243)  |
 |  [ish-app/ish](https://github.com/ish-app/ish/)  |  README_JP.md  |  [#2427](https://github.com/ish-app/ish/pull/2427)  |
 |  [localsend/localsend](https://github.com/localsend/localsend/)  |  README_JA.md  |  [#1584](https://github.com/localsend/localsend/pull/1584)  |
 |  [LorisYounger/VPet](https://github.com/LorisYounger/VPet/)  |  README_ja.md  |  [#284](https://github.com/LorisYounger/VPet/pull/284)  |
