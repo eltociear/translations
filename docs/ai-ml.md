@@ -38,6 +38,7 @@
 |  [coaidev/coai](https://github.com/coaidev/coai/)  |  README_ja-JP.md  |  [#262](https://github.com/coaidev/coai/pull/262)  |
 |  [ComposioHQ/composio](https://github.com/ComposioHQ/composio/)  |  README-JP.md  |  [#272](https://github.com/ComposioHQ/composio/pull/272)  |
 |  [dataelement/bisheng](https://github.com/dataelement/bisheng/)  |  README_JPN.md  |  [#268](https://github.com/dataelement/bisheng/pull/268)  |
+|  [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio/)  |  README_JA.md  |  [#2418](https://github.com/debpalash/VoiceStudio/pull/2418)  |
 |  [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration/)  |  README_ja.md  |  [#134](https://github.com/deepseek-ai/awesome-deepseek-integration/pull/134)  |
 |  [derisk-ai/OpenDerisk](https://github.com/derisk-ai/OpenDerisk)  |  README.ja.md  |  [#64](https://github.com/derisk-ai/OpenDerisk/pull/64)  |
 |  [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/)  |  README_JA.md  |  [#44](https://github.com/dmMaze/BallonsTranslator/pull/44)  |
