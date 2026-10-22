@@ -3,6 +3,7 @@
 |  Repository |  Files  |  PRs  |
 | ---- | ---- | ---- |
 |  [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons/)  |  packages/icons-svg/docs/ContributionGuide.ja-JP.md  |  [#658](https://github.com/ant-design/ant-design-icons/pull/658)  |
+|  [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk/)  |  README.ja.md  |  [#1145](https://github.com/ArtalkJS/Artalk/pull/1145)  |
 |  [asjqkkkk/markdown_widget](https://github.com/asjqkkkk/markdown_widget/)  |  README_JP.md  |  [#207](https://github.com/asjqkkkk/markdown_widget/pull/207)  |
 |  [bytedance/scene](https://github.com/bytedance/scene/)  |  README_ja.md  |  [#70](https://github.com/bytedance/scene/pull/70)  |
 |  [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus/)  |  translations/ja-jp/README.md  |  [#1329](https://github.com/DioxusLabs/dioxus/pull/1329)  |
