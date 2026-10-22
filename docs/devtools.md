@@ -23,6 +23,7 @@
 |  [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei/)  |  README_JP.md  |  [#5259](https://github.com/projectdiscovery/nuclei/pull/5259)  |
 |  [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates/)  |  README_JA.md  |  [#10401](https://github.com/projectdiscovery/nuclei-templates/pull/10401)  |
 |  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/)  |  README-ja.md  |  [#82](https://github.com/punkpeye/awesome-mcp-servers/pull/82)  |
+|  [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp/)  |  README.ja.md  |  [#687](https://github.com/StockSharp/StockSharp/pull/687)  |
 |  [swow/swow](https://github.com/swow/swow/)  |  README-JP.md  |  [#252](https://github.com/swow/swow/pull/252)  |
 |  [tikkid/JetbrainKiller](https://github.com/tikkid/JetbrainKiller/)  |  README_JA-JP.md  |  [#3](https://github.com/tikkid/JetbrainKiller/pull/3)  |
 |  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
