@@ -25,6 +25,7 @@ Multiple files / PRs in one row are joined with `<br>`.
    - Translated files = files with `changeType: ADDED` that are Japanese docs (e.g. `README.ja.md`, `README_JA.md`, `docs/ja/...`). Ignore edits to other READMEs (language links), `.gitignore`, etc.
    - If the user gave only a repo URL, find their PR with `gh pr list -R <owner>/<repo> --author eltociear --state all`.
    - If the author isn't `eltociear`, stop and tell the user.
+   - If the PR is `CLOSED` without merge, check whether the translation was adopted anyway (maintainers sometimes port it themselves): `gh api repos/<owner>/<repo>/contents/<file>` and the PR comments. Add it only if adopted; otherwise stop and ask the user.
 
 2. **Pick the category** from description/topics:
    | file | for |
