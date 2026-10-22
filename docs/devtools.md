@@ -26,6 +26,7 @@
 |  [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp/)  |  README.ja.md  |  [#687](https://github.com/StockSharp/StockSharp/pull/687)  |
 |  [swow/swow](https://github.com/swow/swow/)  |  README-JP.md  |  [#252](https://github.com/swow/swow/pull/252)  |
 |  [tikkid/JetbrainKiller](https://github.com/tikkid/JetbrainKiller/)  |  README_JA-JP.md  |  [#3](https://github.com/tikkid/JetbrainKiller/pull/3)  |
+|  [tt-a1i/archify](https://github.com/tt-a1i/archify/)  |  README_JA.md  |  [#190](https://github.com/tt-a1i/archify/pull/190)  |
 |  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
 |  [wangbooth/Claude-Code-Guardrails](https://github.com/wangbooth/Claude-Code-Guardrails/)  |  README_JA.md  |  [#3](https://github.com/wangbooth/Claude-Code-Guardrails/pull/3)  |
 |  [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help/)  |  README_JP.md  |  [#351](https://github.com/yuaotian/go-cursor-help/pull/351)  |
