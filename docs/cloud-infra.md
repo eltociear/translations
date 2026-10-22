@@ -32,6 +32,7 @@
 |  [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core/)  |  README_JA.md  |  [#139](https://github.com/Project-HAMi/HAMi-core/pull/139)  |
 |  [siglens/siglens](https://github.com/siglens/siglens/)  |  README_JA_JP.md  |  [#1303](https://github.com/siglens/siglens/pull/1303)  |
 |  [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs/)  |  README_JP.md  |  [#51](https://github.com/spiritLHLS/ecs/pull/51)  |
+|  [taosdata/TDengine](https://github.com/taosdata/TDengine/)  |  README-JP.md  |  [#35431](https://github.com/taosdata/TDengine/pull/35431)  |
 |  [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/)  |  README-ja.md  |  [#3157](https://github.com/WasmEdge/WasmEdge/pull/3157)  |
 |  [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI/)  |  readme_ja.md  |  [#87](https://github.com/xvzc/SpoofDPI/pull/87)  |
 |  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel/)  |  README_JA.md  |  [#2265](https://github.com/1Panel-dev/1Panel/pull/2265)  |
