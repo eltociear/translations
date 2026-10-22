@@ -38,6 +38,7 @@
 |  [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz/)  |  README.ja_JP.md  |  [#1352](https://github.com/chidiwilliams/buzz/pull/1352)  |
 |  [clacky-ai/openclacky](https://github.com/clacky-ai/openclacky/)  |  README_JA.md  |  [#327](https://github.com/clacky-ai/openclacky/pull/327)  |
 |  [coaidev/coai](https://github.com/coaidev/coai/)  |  README_ja-JP.md  |  [#262](https://github.com/coaidev/coai/pull/262)  |
+|  [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext/)  |  README.ja.md  |  [#1005](https://github.com/CodeGraphContext/CodeGraphContext/pull/1005)  |
 |  [comet-ml/opik](https://github.com/comet-ml/opik/)  |  readme_JA.md  |  [#7993](https://github.com/comet-ml/opik/pull/7993)  |
 |  [ComposioHQ/composio](https://github.com/ComposioHQ/composio/)  |  README-JP.md  |  [#272](https://github.com/ComposioHQ/composio/pull/272)  |
 |  [dataelement/bisheng](https://github.com/dataelement/bisheng/)  |  README_JPN.md  |  [#268](https://github.com/dataelement/bisheng/pull/268)  |
