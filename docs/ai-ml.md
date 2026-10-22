@@ -56,6 +56,7 @@
 |  [geekan/MetaGPT](https://github.com/geekan/MetaGPT/)  |  docs/README_JA.md  |  [#12](https://github.com/geekan/MetaGPT/pull/12)  |
 |  [go-ego/gse](https://github.com/go-ego/gse/)  |  README_ja.md  |  [#197](https://github.com/go-ego/gse/pull/197)  |
 |  [guanguans/ai-commit](https://github.com/guanguans/ai-commit/)  |  README-ja_JP.md  |  [#177](https://github.com/guanguans/ai-commit/pull/177)  |
+|  [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo/)  |  README-ja.md  |  [#1202](https://github.com/harry0703/MoneyPrinterTurbo/pull/1202)  |
 |  [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator/)  |  docs/ja/README.md<br>docs/ja/alltoolbuttons.md<br>docs/ja/basicuse.md<br>docs/ja/cantstart.md<br>docs/ja/embedtranslate.md<br>docs/ja/fastkeys.md<br>docs/ja/gooduseocr.md<br>docs/ja/guochandamoxing.md<br>docs/ja/hooksettings.md<br>docs/ja/ocrparam.md<br>docs/ja/offlinellm.md<br>docs/ja/playonxp.md<br>docs/ja/qa1.md<br>docs/ja/qa2.md<br>docs/ja/sidebar.md<br>docs/ja/support.md<br>docs/ja/textprocess.md<br>docs/ja/transoptimi.md<br>docs/ja/ttsofname.md<br>docs/ja/update.md<br>docs/ja/useapis/ocrapi.md<br>docs/ja/useapis/tsapi.md  |  [#1251](https://github.com/HIllya51/LunaTranslator/pull/1251)  |
 |  [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything/)  |  README_JA.md  |  [#62](https://github.com/HKUDS/CLI-Anything/pull/62)  |
 |  [HKUDS/MiniRAG](https://github.com/HKUDS/MiniRAG/)  |  README_JA.md  |  [#4](https://github.com/HKUDS/MiniRAG/pull/4)  |
