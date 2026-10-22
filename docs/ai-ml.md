@@ -170,6 +170,7 @@
 |  [XingYu-Zhong/FSRL](https://github.com/XingYu-Zhong/FSRL/)  |  readme_ja.md  |  [#1](https://github.com/XingYu-Zhong/FSRL/pull/1)  |
 |  [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents/)  |  README_JA.md  |  [#13](https://github.com/xlang-ai/OpenAgents/pull/13)  |
 |  [xorbitsai/inference](https://github.com/xorbitsai/inference/)  |  README_ja_JP.md  |  [#228](https://github.com/xorbitsai/inference/pull/228)  |
+|  [xerj-org/xerj](https://github.com/xerj-org/xerj/)  |  README.ja-JP.md  |  [#1607](https://github.com/xerj-org/xerj/pull/1607)  |
 |  [xverse-ai/XVERSE-13B](https://github.com/xverse-ai/XVERSE-13B/)  |  README_JA.md  |  [#13](https://github.com/xverse-ai/XVERSE-13B/pull/13)  |
 |  [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent/)  |  README_ja.md  |  [#36](https://github.com/X-PLUG/MobileAgent/pull/36)  |
 |  [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web/)  |  README_JA.md<br>docs/cloudflare-pages-ja.md<br>docs/faq-ja.md<br>docs/vercel-ja.md  |  [#2607](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/2607)  |
