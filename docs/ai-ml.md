@@ -177,6 +177,7 @@
 |  [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu/)  |  README.ja.md  |  [#3920](https://github.com/vshulcz/deja-vu/pull/3920)  |
 |  [wangzongming/esp-ai](https://github.com/wangzongming/esp-ai/)  |  readme_ja.md  |  [#17](https://github.com/wangzongming/esp-ai/pull/17)  |
 |  [Wannabeasmartguy/RAGENT](https://github.com/Wannabeasmartguy/RAGENT/)  |  README_ja.md  |  [#4](https://github.com/Wannabeasmartguy/RAGENT/pull/4)  |
+|  [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire/)  |  README_JA.md  |  [#47](https://github.com/xbtlin/ai-berkshire/pull/47)  |
 |  [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts/)  |  README_ja.md  |  [#54](https://github.com/xiangsx/gpt4free-ts/pull/54)  |
 |  [XingYu-Zhong/FSRL](https://github.com/XingYu-Zhong/FSRL/)  |  readme_ja.md  |  [#1](https://github.com/XingYu-Zhong/FSRL/pull/1)  |
 |  [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents/)  |  README_JA.md  |  [#13](https://github.com/xlang-ai/OpenAgents/pull/13)  |
