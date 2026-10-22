@@ -26,6 +26,33 @@
 |  [AXYZdong/AMchat](https://github.com/AXYZdong/AMchat/)  |  README_ja-JP.md  |  [#11](https://github.com/AXYZdong/AMchat/pull/11)  |
 |  [baidubce/app-builder](https://github.com/baidubce/app-builder/)  |  README_ja.md  |  [#461](https://github.com/baidubce/app-builder/pull/461)  |
 |  [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter/)  |  README_ja.md  |  [#12](https://github.com/bleedline/aimoneyhunter/pull/12)  |
+|  [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book/)  |  README.ja.md
+book-ja/afterword.ja.md
+book-ja/chapter1.ja.md
+book-ja/chapter2.ja.md
+book-ja/chapter3.ja.md
+book-ja/chapter4.ja.md
+book-ja/chapter5.ja.md
+book-ja/chapter6.ja.md
+book-ja/chapter7.ja.md
+book-ja/chapter8.ja.md
+book-ja/chapter9.ja.md
+book-ja/chapter10.ja.md
+book-ja/introduction.ja.md
+book-ja/思考题参考答案.ja.md
+chapter1/README.ja.md
+chapter2/README.ja.md
+chapter3/README.ja.md
+chapter4/README.ja.md
+chapter5/README.ja.md
+chapter6/README.ja.md
+chapter7/README.ja.md
+chapter8/README.ja.md
+chapter9/README.ja.md
+chapter10/README.ja.md
+docs/LEARNING.ja.md
+docs/ja/LEARNING.md
+docs/ja/README.md  |  [#84](https://github.com/bojieli/ai-agent-book/pull/84)  |
 |  [buxuku/SmartSub](https://github.com/buxuku/SmartSub/)  |  README_JA.md  |  [#276](https://github.com/buxuku/SmartSub/pull/276)  |
 |  [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate/)  |  README_ja-JP.md  |  [#232](https://github.com/Byaidu/PDFMathTranslate/pull/232)  |
 |  [bz-lab/AUITestAgent](https://github.com/bz-lab/AUITestAgent/)  |  README_ja.md  |  [#4](https://github.com/bz-lab/AUITestAgent/pull/4)  |
