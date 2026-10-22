@@ -167,6 +167,7 @@
 |  [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai/)  |  docs/japanese.md  |  [#345](https://github.com/VinciGit00/Scrapegraph-ai/pull/345)  |
 |  [VisActor/VMind](https://github.com/VisActor/VMind/)  |  README-ja.md  |  [#146](https://github.com/VisActor/VMind/pull/146)  |
 |  [vortezwohl/CEO-Agentic-AI-Framework](https://github.com/vortezwohl/CEO-Agentic-AI-Framework/)  |  i18n/README_ja-jp.md  |  [#67](https://github.com/vortezwohl/CEO-Agentic-AI-Framework/pull/67)  |
+|  [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu/)  |  README.ja.md  |  [#3920](https://github.com/vshulcz/deja-vu/pull/3920)  |
 |  [wangzongming/esp-ai](https://github.com/wangzongming/esp-ai/)  |  readme_ja.md  |  [#17](https://github.com/wangzongming/esp-ai/pull/17)  |
 |  [Wannabeasmartguy/RAGENT](https://github.com/Wannabeasmartguy/RAGENT/)  |  README_ja.md  |  [#4](https://github.com/Wannabeasmartguy/RAGENT/pull/4)  |
 |  [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts/)  |  README_ja.md  |  [#54](https://github.com/xiangsx/gpt4free-ts/pull/54)  |
