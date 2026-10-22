@@ -154,6 +154,7 @@
 |  [sunner/ChatALL](https://github.com/sunner/ChatALL/)  |  README_JA-JP.md  |  [#50](https://github.com/sunner/ChatALL/pull/50)  |
 |  [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API/)  |  README_JA.md  |  [#7](https://github.com/SunoAI-API/Suno-API/pull/7)  |
 |  [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb/)  |  README_ja.md  |  [#1537](https://github.com/SuperDuperDB/superduperdb/pull/1537)  |
+|  [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere/)  |  README-ja-jp.md  |  [#422](https://github.com/Sylinko/Everywhere/pull/422)  |
 |  [taco-group/OpenEMMA](https://github.com/taco-group/OpenEMMA/)  |  README_ja-JP.md  |  [#5](https://github.com/taco-group/OpenEMMA/pull/5)  |
 |  [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2/)  |  README_ja_jp.md  |  [#15](https://github.com/Tencent/Hunyuan3D-2/pull/15)  |
 |  [Tencent/WeKnora](https://github.com/Tencent/WeKnora/)  |  README_JA.md  |  [#222](https://github.com/Tencent/WeKnora/pull/222)  |
