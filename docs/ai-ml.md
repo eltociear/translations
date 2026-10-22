@@ -199,6 +199,7 @@
 |  [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5/)  |  README_ja.md  |  [#88](https://github.com/zai-org/GLM-4.5/pull/88)  |
 |  [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos/)  |  README_JP.md  |  [#19](https://github.com/Zeyi-Lin/HivisionIDPhotos/pull/19)  |
 |  [zhiguoxu/flowx](https://github.com/zhiguoxu/flowx/)  |  README_ja-JP.md  |  [#1](https://github.com/zhiguoxu/flowx/pull/1)  |
+|  [zts212653/clowder-ai](https://github.com/zts212653/clowder-ai/)  |  README.ja-JP.md  |  [#702](https://github.com/zts212653/clowder-ai/pull/702)  |
 |  [2noise/ChatTTS](https://github.com/2noise/ChatTTS/)  |  README_JP.md  |  [#199](https://github.com/2noise/ChatTTS/pull/199)  |
 |  [666ghj/BettaFish](https://github.com/666ghj/BettaFish/)  |  README-JA.md  |  [#76](https://github.com/666ghj/BettaFish/pull/76)  |
 |  [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32/)  |  README_ja.md  |  [#46](https://github.com/78/xiaozhi-esp32/pull/46)  |
