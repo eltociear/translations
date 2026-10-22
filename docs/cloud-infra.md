@@ -30,6 +30,7 @@
 |  [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian/)  |  README.ja.md  |  [#3435](https://github.com/ophub/amlogic-s9xxx-armbian/pull/3435)  |
 |  [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi/)  |  README_ja.md  |  [#1412](https://github.com/Project-HAMi/HAMi/pull/1412)  |
 |  [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core/)  |  README_JA.md  |  [#139](https://github.com/Project-HAMi/HAMi-core/pull/139)  |
+|  [Project-HAMi/HAMi-WebUI](https://github.com/Project-HAMi/HAMi-WebUI/)  |  README_JA.md  |  [#79](https://github.com/Project-HAMi/HAMi-WebUI/pull/79)  |
 |  [siglens/siglens](https://github.com/siglens/siglens/)  |  README_JA_JP.md  |  [#1303](https://github.com/siglens/siglens/pull/1303)  |
 |  [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs/)  |  README_JP.md  |  [#51](https://github.com/spiritLHLS/ecs/pull/51)  |
 |  [taosdata/TDengine](https://github.com/taosdata/TDengine/)  |  README-JP.md  |  [#35431](https://github.com/taosdata/TDengine/pull/35431)  |
