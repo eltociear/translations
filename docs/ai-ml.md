@@ -174,6 +174,7 @@
 |  [THUDM/CogView4](https://github.com/THUDM/CogView4/)  |  README_ja.md  |  [#26](https://github.com/THUDM/CogView4/pull/26)  |
 |  [thunlp/ProactiveAgent](https://github.com/thunlp/ProactiveAgent/)  | README_ja.md<br>agent/README_ja.md<br>dataset/README_ja.md<br>eval/README_ja.md<br>gym/README_ja.md  |  [#11](https://github.com/thunlp/ProactiveAgent/pull/11)  |
 |  [Thysrael/Horizon](https://github.com/Thysrael/Horizon/)  |  README_ja.md  |  [#100](https://github.com/Thysrael/Horizon/pull/100)  |
+|  [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman/)  |  README.ja-JP.md  |  [#2005](https://github.com/tinyhumansai/openhuman/pull/2005)  |
 |  [unitreerobotics/avp_teleoperate](https://github.com/unitreerobotics/avp_teleoperate/)  |  README_ja-JP.md  |  [#12](https://github.com/unitreerobotics/avp_teleoperate/pull/12)  |
 |  [unitreerobotics/unitree_IL_lerobot](https://github.com/unitreerobotics/unitree_IL_lerobot/)  |  README_ja.md  |  [#1](https://github.com/unitreerobotics/unitree_IL_lerobot/pull/1)  |
 |  [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX/)  |  README.ja-JP.md  |  [#326](https://github.com/ValueCell-ai/ClawX/pull/326)  |
