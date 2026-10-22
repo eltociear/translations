@@ -105,6 +105,7 @@
 |  [modelscope/modelscope-studio](https://github.com/modelscope/modelscope-studio/)  |  README-ja_JP.md  |  [#1](https://github.com/modelscope/modelscope-studio/pull/1)  |
 |  [moeru-ai/airi](https://github.com/moeru-ai/airi/)  |  README.ja-JP.md  |  [#138](https://github.com/moeru-ai/airi/pull/138)  |
 |  [neavo/LinguaGacha](https://github.com/nneavo/LinguaGacha/)  |  README_JP.md  |  [#29](https://github.com/neavo/LinguaGacha/pull/29)  |
+|  [Neko3000/deepseek-whalechan](https://github.com/Neko3000/deepseek-whalechan/)  |  README.ja.md  |  [#1](https://github.com/Neko3000/deepseek-whalechan/pull/1)  |
 |  [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything/)  |  README_jp.md  |  [#374](https://github.com/netease-youdao/QAnything/pull/374)  |
 |  [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx/)  |  DOCKER_DEPLOY.ja.md<br>README.ja.md  |  [#204](https://github.com/NoFxAiOS/nofx/pull/204)  |
 |  [okisdev/ChatChat](https://github.com/okisdev/ChatChat/)  |  README.JA.mdx  |  [#46](https://github.com/okisdev/ChatChat/pull/46)  |
