@@ -19,6 +19,8 @@ def sort_key(name):
 
 def main():
     root, category, repo, pr, *files = sys.argv[1:]
+    # Accept newline-joined file lists (e.g. an unsplit "$files" from zsh).
+    files = [f for arg in files for f in arg.splitlines() if f.strip()]
     if not files:
         sys.exit(__doc__)
     root = pathlib.Path(root)
