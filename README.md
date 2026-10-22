@@ -7,11 +7,11 @@
 | ---- | ---- | ---- |
 |  AI / ML  |  200  |  [View](docs/ai-ml.md)  |
 |  Web  |  24  |  [View](docs/web.md)  |
-|  DevTools  |  31  |  [View](docs/devtools.md)  |
+|  DevTools  |  32  |  [View](docs/devtools.md)  |
 |  Cloud / Infrastructure  |  35  |  [View](docs/cloud-infra.md)  |
 |  Apps  |  34  |  [View](docs/apps.md)  |
 |  Misc  |  21  |  [View](docs/misc.md)  |
-|  **Total**  |  **345**  |    |
+|  **Total**  |  **346**  |    |
 
 ### 過去にREADMEを翻訳していたRepository
 - [eltociear/OSSDocumentsTranslate](https://github.com/eltociear/OSSDocumentsTranslate)
