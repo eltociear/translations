@@ -10,6 +10,7 @@
 |  [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)  |  README-ja.md  |  [#521](https://github.com/deniscerri/ytdlnis/pull/521)  |
 |  [dream-num/univer](https://github.com/dream-num/univer/)  |  README-ja.md  |  [#857](https://github.com/dream-num/univer/pull/857)  |
 |  [Eugeny/tabby](https://github.com/Eugeny/tabby/)  |  README.ja-JP.md  |  [#6894](https://github.com/Eugeny/tabby/pull/6894)  |
+|  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv/)  |  README.ja.md  |  [#899](https://github.com/Gathin23/cleanyourtv/pull/899)  |
 |  [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed/)  |  CONTRIBUTING_ja-JP.md<br>README_ja-JP.md<br>ui/flutter/assets/locales/ja_JP.json  |  [#139](https://github.com/GopeedLab/gopeed/pull/139)  |
 |  [groupultra/telegram-search](https://github.com/groupultra/telegram-search/)  |  docs/README_JA.md  |  [#348](https://github.com/groupultra/telegram-search/pull/348)  |
 |  [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement/)  |  README_JP.md<br>Tutorial_JP.md  |  [#107](https://github.com/HolographicHat/YaeAchievement/pull/107)  |
