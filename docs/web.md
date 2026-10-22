@@ -16,6 +16,7 @@
 |  [scopewu/qrcode.vue](https://github.com/scopewu/qrcode.vue/)  |  README-ja.md  |  [#81](https://github.com/scopewu/qrcode.vue/pull/81)  |
 |  [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown/)  |  README.JP.md  |  [#851](https://github.com/Tencent/cherry-markdown/pull/851)  |
 |  [toss/es-toolkit](https://github.com/toss/es-toolkit/)  |  README-ja_jp.md  |  [#394](https://github.com/toss/es-toolkit/pull/394)  |
+|  [toss/overlay-kit](https://github.com/toss/overlay-kit/)  |  README-ja_JP.md  |  [#224](https://github.com/toss/overlay-kit/pull/224)  |
 |  [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin/)  |  README.ja-JP.md  |  [#4028](https://github.com/vbenjs/vue-vben-admin/pull/4028)  |
 |  [VisActor/VChart](https://github.com/VisActor/VChart/)  |  CONTRIBUTING.ja-JP.md<br>README.ja-JP.md  |  [#3323](https://github.com/VisActor/VChart/pull/3323)  |
 |  [VisActor/VGrammar](https://github.com/VisActor/VGrammar/)  |  README.ja-JP.md  |  [#589](https://github.com/VisActor/VGrammar/pull/589)  |
