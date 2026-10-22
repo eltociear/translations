@@ -36,6 +36,7 @@
 |  [chathub-dev/chathub](https://github.com/chathub-dev/chathub/)  |  README_JA.md  |  [#263](https://github.com/chathub-dev/chathub/pull/263)  |
 |  [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna/)  |  README_JP.MD  |  [#404](https://github.com/ChatLunaLab/chatluna/pull/404)  |
 |  [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz/)  |  README.ja_JP.md  |  [#1352](https://github.com/chidiwilliams/buzz/pull/1352)  |
+|  [clacky-ai/openclacky](https://github.com/clacky-ai/openclacky/)  |  README_JA.md  |  [#327](https://github.com/clacky-ai/openclacky/pull/327)  |
 |  [coaidev/coai](https://github.com/coaidev/coai/)  |  README_ja-JP.md  |  [#262](https://github.com/coaidev/coai/pull/262)  |
 |  [comet-ml/opik](https://github.com/comet-ml/opik/)  |  readme_JA.md  |  [#7993](https://github.com/comet-ml/opik/pull/7993)  |
 |  [ComposioHQ/composio](https://github.com/ComposioHQ/composio/)  |  README-JP.md  |  [#272](https://github.com/ComposioHQ/composio/pull/272)  |
