@@ -13,6 +13,7 @@
 |  [gojue/ecapture](https://github.com/gojue/ecapture/)  |  README_JA.md  |  [#324](https://github.com/gojue/ecapture/pull/324)  |
 |  [gojue/moling](https://github.com/gojue/moling/)  |  README_JA_JP.md  |  [#13](https://github.com/gojue/moling/pull/13)  |
 |  [go-nunu/nunu](https://github.com/go-nunu/nunu/)  |  README_jp.md  |  [#59](https://github.com/go-nunu/nunu/pull/59)  |
+|  [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done/)  |  README.ja-JP.md<br>docs/ja-JP/AGENTS.md<br>docs/ja-JP/ARCHITECTURE.md<br>docs/ja-JP/CLI-TOOLS.md<br>docs/ja-JP/COMMANDS.md<br>docs/ja-JP/CONFIGURATION.md<br>docs/ja-JP/FEATURES.md<br>docs/ja-JP/README.md<br>docs/ja-JP/USER-GUIDE.md<br>docs/ja-JP/context-monitor.md<br>docs/ja-JP/superpowers/plans/2026-03-18-materialize-new-project-config.md<br>docs/ja-JP/superpowers/specs/2026-03-20-multi-project-workspaces-design.md<br>docs/ja-JP/workflow-discuss-mode.md  |  [#1329](https://github.com/gsd-build/get-shit-done/pull/1329)  |
 |  [hellokaton/namesage](https://github.com/hellokaton/namesage/)  |  README_ja.md  |  [#1](https://github.com/hellokaton/namesage/pull/1)  |
 |  [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#142](https://github.com/HuolalaTech/page-spy-web/pull/142)<br>[#143](https://github.com/HuolalaTech/page-spy-web/pull/143)  |
 |  [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills/)  |  README.ja-JP.md  |  [#161](https://github.com/Imbad0202/academic-research-skills/pull/161)  |
