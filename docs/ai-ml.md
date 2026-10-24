@@ -33,6 +33,7 @@
 |  [bz-lab/AUITestAgent](https://github.com/bz-lab/AUITestAgent/)  |  README_ja.md  |  [#4](https://github.com/bz-lab/AUITestAgent/pull/4)  |
 |  [camel-ai/camel](https://github.com/camel-ai/camel/)  |  README.ja.md  |  [#3178](https://github.com/camel-ai/camel/pull/3178)  |
 |  [camel-ai/owl](https://github.com/camel-ai/owl/)  |  README_ja.md  |  [#410](https://github.com/camel-ai/owl/pull/410)  |
+|  [cft0808/edict](https://github.com/cft0808/edict/)  |  README_JA.md  |  [#167](https://github.com/cft0808/edict/pull/167)  |
 |  [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat/)  |  README_ja.md  |  [#2787](https://github.com/chatchat-space/Langchain-Chatchat/pull/2787)  |
 |  [chathub-dev/chathub](https://github.com/chathub-dev/chathub/)  |  README_JA.md  |  [#263](https://github.com/chathub-dev/chathub/pull/263)  |
 |  [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna/)  |  README_JP.MD  |  [#404](https://github.com/ChatLunaLab/chatluna/pull/404)  |
