@@ -154,6 +154,7 @@
 |  [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL/)  |  FAQ_ja.md<br>README_JA.md<br>TUTORIAL_ja.md<br>touchstone/README_JA.md  |  [#16](https://github.com/QwenLM/Qwen-VL/pull/16)<br>[#41](https://github.com/QwenLM/Qwen-VL/pull/41)  |
 |  [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B/)  |  FAQ_ja.md<br>README_JA.md<br>tokenization_note_ja.md  |  [#79](https://github.com/QwenLM/Qwen-7B/pull/79)<br>[#216](https://github.com/QwenLM/Qwen-7B/pull/216)  |
 |  [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot/)  |  README_JP.md  |  [#1057](http://github.com/RockChinQ/LangBot/pull/1057)  |
+|  [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI/)  |  README_JA.md  |  [#2282](https://github.com/router-for-me/CLIProxyAPI/pull/2282)  |
 |  [rte-design/ASTRA.ai](https://github.com/rte-design/ASTRA.ai/)  |  docs/readmes/README-JP.md  |  [#192](https://github.com/rte-design/ASTRA.ai/pull/192)  |
 |  [RTGS2017/NagaAgent](https://github.com/RTGS2017/NagaAgent/)  |  README_ja.md  |  [#303](https://github.com/RTGS2017/NagaAgent/pull/303)  |
 |  [RUC-GSAI/YuLan-Mini](https://github.com/RUC-GSAI/YuLan-Mini/)  |  README_ja.md  |  [#2](https://github.com/RUC-GSAI/YuLan-Mini/pull/2)  |
