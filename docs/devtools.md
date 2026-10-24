@@ -34,6 +34,7 @@
 |  [tikkid/JetbrainKiller](https://github.com/tikkid/JetbrainKiller/)  |  README_JA-JP.md  |  [#3](https://github.com/tikkid/JetbrainKiller/pull/3)  |
 |  [tt-a1i/archify](https://github.com/tt-a1i/archify/)  |  README_JA.md  |  [#190](https://github.com/tt-a1i/archify/pull/190)  |
 |  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
+|  [vnpy/vnpy](https://github.com/vnpy/vnpy/)  |  README_JPN.md  |  [#3744](https://github.com/vnpy/vnpy/pull/3744)  |
 |  [wangbooth/Claude-Code-Guardrails](https://github.com/wangbooth/Claude-Code-Guardrails/)  |  README_JA.md  |  [#3](https://github.com/wangbooth/Claude-Code-Guardrails/pull/3)  |
 |  [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help/)  |  README_JP.md  |  [#351](https://github.com/yuaotian/go-cursor-help/pull/351)  |
 |  [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org/)  |  content/_index.ja.md<br>content/download/_index.ja.md<br>content/learn/_index.ja.md<br>content/learn/getting-started.ja.md<br>content/learn/overview.ja.md<br>content/learn/samples.ja.md<br>content/learn/tools.ja.md<br>content/learn/why_zig_rust_d_cpp.ja.md<br>content/news/_index.ja.md<br>content/zsf/index.ja.md<br>themes/ziglang-original/i18n/ja.toml  |  [#212](https://github.com/ziglang/www.ziglang.org/pull/212)  |
