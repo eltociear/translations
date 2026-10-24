@@ -94,6 +94,7 @@
 |  [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya/)  |  README_JA.md  |  [#32](https://github.com/LC1332/Chat-Haruhi-Suzumiya/pull/32)  |
 |  [ldclabs/anda](https://github.com/ldclabs/anda/)  |  README_JA.md  |  [#4](https://github.com/ldclabs/anda/pull/4)  |
 |  [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney/)  |  README_JA.md  |  [#23](https://github.com/Licoy/ChatGPT-Midjourney/pull/23)  |
+|  [lingjiuu/hermes-dynamic-workflows](https://github.com/lingjiuu/hermes-dynamic-workflows/)  |  README.ja-JP.md  |  [#1](https://github.com/lingjiuu/hermes-dynamic-workflows/pull/1)  |
 |  [LinkSoul-AI/AutoAgents](https://github.com/LinkSoul-AI/AutoAgents/)  |  docs/README_JA.md  |  [#23](https://github.com/LinkSoul-AI/AutoAgents/pull/23)  |
 |  [linyiLYi/snake-ai](https://github.com/linyiLYi/snake-ai/)  |  README_JA.md  |  [#7](https://github.com/linyiLYi/snake-ai/pull/7)  |
 |  [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI/)  |  README-ja.md  |  [#66](https://github.com/linyqh/NarratoAI/pull/66)  |
