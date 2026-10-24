@@ -14,6 +14,7 @@
 |  [go-nunu/nunu](https://github.com/go-nunu/nunu/)  |  README_jp.md  |  [#59](https://github.com/go-nunu/nunu/pull/59)  |
 |  [hellokaton/namesage](https://github.com/hellokaton/namesage/)  |  README_ja.md  |  [#1](https://github.com/hellokaton/namesage/pull/1)  |
 |  [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#142](https://github.com/HuolalaTech/page-spy-web/pull/142)<br>[#143](https://github.com/HuolalaTech/page-spy-web/pull/143)  |
+|  [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills/)  |  README.ja-JP.md  |  [#161](https://github.com/Imbad0202/academic-research-skills/pull/161)  |
 |  [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub/)  |  README.ja.md  |  [#16](https://github.com/jaywcjlove/DevHub/pull/16)  |
 |  [keploy/keploy](https://github.com/keploy/keploy/)  |  READMEja-JP.md  |  [#2315](https://github.com/keploy/keploy/pull/2315)  |
 |  [LeKovr/webtail](https://github.com/LeKovr/webtail/)  |  README.ja.md  |  [#17](https://github.com/LeKovr/webtail/pull/17)  |
