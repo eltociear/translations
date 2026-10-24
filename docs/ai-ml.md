@@ -14,6 +14,7 @@
 |  [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw/)  |  README_ja.md  |  [#354](https://github.com/agentscope-ai/CoPaw/pull/354)  |
 |  [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw/)  |  docs/TESTER_GUIDE_JA.md  |  [#71](https://github.com/aiming-lab/AutoResearchClaw/pull/71)  |
 |  [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D/)  |  README_jp.md  |  [#28](https://github.com/AiuniAI/Unique3D/pull/28)  |
+|  [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit/)  |  README.ja.md  |  [#626](https://github.com/AlexsJones/llmfit/pull/626)  |
 |  [alibaba/MNN](https://github.com/alibaba/MNN/)  |  README_JP.md  |  [#3177](https://github.com/alibaba/MNN/pull/3177)  |
 |  [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba/)  |  README-ja.md  |  [#530](https://github.com/alibaba/spring-ai-alibaba/pull/530)  |
 |  [alipay/agentUniverse](https://github.com/alipay/agentUniverse/)  |  README_jp.md  |  [#1344](https://github.com/alipay/agentUniverse/pull/68)  |
