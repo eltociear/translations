@@ -117,6 +117,7 @@
 |  [modelscope/modelscope](https://github.com/modelscope/modelscope/)  |  README_ja.md  |  [#405](https://github.com/modelscope/modelscope/pull/405)  |
 |  [modelscope/modelscope-studio](https://github.com/modelscope/modelscope-studio/)  |  README-ja_JP.md  |  [#1](https://github.com/modelscope/modelscope-studio/pull/1)  |
 |  [moeru-ai/airi](https://github.com/moeru-ai/airi/)  |  README.ja-JP.md  |  [#138](https://github.com/moeru-ai/airi/pull/138)  |
+|  [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw/)  |  README_ja.md  |  [#1230](https://github.com/nanocoai/nanoclaw/pull/1230)  |
 |  [nearai/ironclaw](https://github.com/nearai/ironclaw/)  |  README.ja.md  |  [#1306](https://github.com/nearai/ironclaw/pull/1306)  |
 |  [neavo/LinguaGacha](https://github.com/nneavo/LinguaGacha/)  |  README_JP.md  |  [#29](https://github.com/neavo/LinguaGacha/pull/29)  |
 |  [Neko3000/deepseek-whalechan](https://github.com/Neko3000/deepseek-whalechan/)  |  README.ja.md  |  [#1](https://github.com/Neko3000/deepseek-whalechan/pull/1)  |
