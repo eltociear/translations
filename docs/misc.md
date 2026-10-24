@@ -23,3 +23,4 @@
 |  [UfoMiao/zcf](https://github.com/UfoMiao/zcf/)  |  README_ja-JP.md  |  [#72](https://github.com/UfoMiao/zcf/pull/72)  |
 |  [4xmen/Get-Github-Achievements](https://github.com/4xmen/Get-Github-Achievements/)  |  README.ja.md  |  [#132](https://github.com/4xmen/Get-Github-Achievements/pull/132)  |
 |  [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub/)  |  README_ja.md  |  [#2580](https://github.com/521xueweihan/HelloGitHub/pull/2580)  |
+|  [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp/)  |  readme_ja.md  |  [#8](https://github.com/9bie/php2shell-bypass-aslr-exp/pull/8)  |
