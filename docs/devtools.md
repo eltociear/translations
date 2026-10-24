@@ -9,6 +9,7 @@
 |  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
 |  [cloudwego/thriftgo](https://github.com/cloudwego/thriftgo/)  |  README_ja.md  |  [#219](https://github.com/cloudwego/thriftgo/pull/219)  |
 |  [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor/)  |  CONTRIBUTING_ja-JP.md<br>DONATE_ja-JP.md<br>README_ja-JP.md  |  [#1144](https://github.com/cpeditor/cpeditor/pull/1144)  |
+|  [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything/)  |  README.ja-JP.md  |  [#24](https://github.com/Egonex-AI/Understand-Anything/pull/24)  |
 |  [gojue/ecapture](https://github.com/gojue/ecapture/)  |  README_JA.md  |  [#324](https://github.com/gojue/ecapture/pull/324)  |
 |  [gojue/moling](https://github.com/gojue/moling/)  |  README_JA_JP.md  |  [#13](https://github.com/gojue/moling/pull/13)  |
 |  [go-nunu/nunu](https://github.com/go-nunu/nunu/)  |  README_jp.md  |  [#59](https://github.com/go-nunu/nunu/pull/59)  |
