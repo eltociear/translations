@@ -150,6 +150,7 @@
 |  [QwenLM/Qwen-7B](https://github.com/QwenLM/Qwen-7B/)  |  FAQ_ja.md<br>README_JA.md<br>tokenization_note_ja.md  |  [#79](https://github.com/QwenLM/Qwen-7B/pull/79)<br>[#216](https://github.com/QwenLM/Qwen-7B/pull/216)  |
 |  [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot/)  |  README_JP.md  |  [#1057](http://github.com/RockChinQ/LangBot/pull/1057)  |
 |  [rte-design/ASTRA.ai](https://github.com/rte-design/ASTRA.ai/)  |  docs/readmes/README-JP.md  |  [#192](https://github.com/rte-design/ASTRA.ai/pull/192)  |
+|  [RTGS2017/NagaAgent](https://github.com/RTGS2017/NagaAgent/)  |  README_ja.md  |  [#303](https://github.com/RTGS2017/NagaAgent/pull/303)  |
 |  [RUC-GSAI/YuLan-Mini](https://github.com/RUC-GSAI/YuLan-Mini/)  |  README_ja.md  |  [#2](https://github.com/RUC-GSAI/YuLan-Mini/pull/2)  |
 |  [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS/)  |  docs/ja/README.md  |  [#96](https://github.com/RVC-Boss/GPT-SoVITS/pull/96)  |
 |  [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web/)  |  docs/README_JA.md  |  [#9](https://github.com/Ryan-yang125/ChatLLM-Web/pull/9)  |
