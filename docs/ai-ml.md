@@ -104,6 +104,7 @@
 |  [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot/)  |  README_ja.md  |  [#918](https://github.com/LmeSzinc/StarRailCopilot/pull/918)  |
 |  [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat/)  |  README.ja-JP.md  |  [#3368](https://github.com/lobehub/lobe-chat/pull/3368)  |
 |  [LongxingTan/open-retrievals](https://github.com/LongxingTan/open-retrievals/)  |  README_ja-JP.md  |  [#40](https://github.com/LongxingTan/open-retrievals/pull/40)  |
+|  [looplj/axonhub](https://github.com/looplj/axonhub/)  |  README.ja-JP.md  |  [#1299](https://github.com/looplj/axonhub/pull/1299)  |
 |  [lyogavin/airllm](https://github.com/lyogavin/airllm/)  |  README_ja.md  |  [#157](https://github.com/lyogavin/airllm/pull/157)  |
 |  [MaoXiaoYuZ/AutoChatScript](https://github.com/MaoXiaoYuZ/AutoChatScript/)  |  readme_jp.md  |  [#2](https://github.com/MaoXiaoYuZ/AutoChatScript/pull/2)  |
 |  [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe/)  |  README-ja_JP.md  |  [#546](https://github.com/mediar-ai/screenpipe/pull/546)  |
