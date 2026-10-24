@@ -18,6 +18,7 @@
 |  [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin/)  |  Resources/AVR_Miner_langs.json<br>Resources/CLI_Wallet_langs.json<br>Resources/PC_Miner_langs.json<br>Resources/README_TRANSLATIONS/README_ja_JP.md<br>Resources/Wallet_langs.json  |  [#1563](https://github.com/revoxhere/duino-coin/pull/1563)  |
 |  [shibacoinppc/shibacoin](https://github.com/shibacoinppc/shibacoin/)  |  README_ja_JP.md  |  [#4](https://github.com/shibacoinppc/shibacoin/pull/4)  |
 |  [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM/)  |  README_JA.md<br>server/README_JA.md<br>web/README_JA.md  |  [#1303](https://github.com/sipeed/NanoKVM/pull/202)  |
+|  [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide/)  |  README_JA.md  |  [#2872](https://github.com/Snailclimb/JavaGuide/pull/2872)  |
 |  [subframe7536/maple-font](https://github.com/subframe7536/maple-font/)  |  README_JA.md  |  [#394](https://github.com/subframe7536/maple-font/pull/394)  |
 |  [tonsky/FiraCode](https://github.com/tonsky/FiraCode/)  |  README_JA.md  |  [#1537](https://github.com/tonsky/FiraCode/pull/1537)  |
 |  [UfoMiao/zcf](https://github.com/UfoMiao/zcf/)  |  README_ja-JP.md  |  [#72](https://github.com/UfoMiao/zcf/pull/72)  |
