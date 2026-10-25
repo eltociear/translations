@@ -44,6 +44,7 @@
 |  [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext/)  |  README.ja.md  |  [#1005](https://github.com/CodeGraphContext/CodeGraphContext/pull/1005)  |
 |  [comet-ml/opik](https://github.com/comet-ml/opik/)  |  readme_JA.md  |  [#7993](https://github.com/comet-ml/opik/pull/7993)  |
 |  [ComposioHQ/composio](https://github.com/ComposioHQ/composio/)  |  README-JP.md  |  [#272](https://github.com/ComposioHQ/composio/pull/272)  |
+|  [Core-Mate/OpenGUI](https://github.com/Core-Mate/OpenGUI/)  |  README.ja-JP.md  |  [#3](https://github.com/Core-Mate/OpenGUI/pull/3)  |
 |  [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro/)  |  README_JA.md  |  [#282](https://github.com/CortexReach/memory-lancedb-pro/pull/282)  |
 |  [dataelement/bisheng](https://github.com/dataelement/bisheng/)  |  README_JPN.md  |  [#268](https://github.com/dataelement/bisheng/pull/268)  |
 |  [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio/)  |  README_JA.md  |  [#2418](https://github.com/debpalash/VoiceStudio/pull/2418)  |
