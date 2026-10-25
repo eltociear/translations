@@ -150,6 +150,7 @@
 |  [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle/)  |  README_ja.md<br>SECURITY_ja.md<br>security/README_ja.md  |  [#53726](https://github.com/PaddlePaddle/Paddle/pull/53726)<br>[#56466](https://github.com/PaddlePaddle/Paddle/pull/56466)  |
 |  [PaddlePaddle/PaddleCustomDevice](https://github.com/PaddlePaddle/PaddleCustomDevice/)  |  README_ja.md<br>backends/custom_cpu/README_ja.md  |  [#782](https://github.com/PaddlePaddle/PaddleCustomDevice/pull/782)  |
 |  [PaddlePaddle/PaddleTS](https://github.com/PaddlePaddle/PaddleTS/)  |  README_ja.md  |  [#413](https://github.com/PaddlePaddle/PaddleTS/pull/413)  |
+|  [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach/)  |  docs/README_ja.md  |  [#200](https://github.com/Panniantong/Agent-Reach/pull/200)  |
 |  [pengzhangzhi/Open-dLLM](https://github.com/pengzhangzhi/Open-dLLM/)  |  README_ja.md  |  [#23](https://github.com/pengzhangzhi/Open-dLLM/pull/23)  |
 |  [Peterande/D-FINE](https://github.com/Peterande/D-FINE/)  |  README_ja.md  |  [#15](https://github.com/Peterande/D-FINE/pull/15)  |
 |  [petercat-ai/petercat](https://github.com/petercat-ai/petercat/)  |  README.ja-JP.md  |  [#373](https://github.com/petercat-ai/petercat/pull/373)  |
