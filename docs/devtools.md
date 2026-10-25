@@ -8,6 +8,7 @@
 |  [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/)  |  README.ja.md  |  [#1294](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/1294)  |
 |  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
 |  [cloudwego/thriftgo](https://github.com/cloudwego/thriftgo/)  |  README_ja.md  |  [#219](https://github.com/cloudwego/thriftgo/pull/219)  |
+|  [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills/)  |  README.ja-JP.md<br>CONTRIBUTING.ja-JP.md  |  [#7](https://github.com/ConardLi/garden-skills/pull/7)  |
 |  [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor/)  |  CONTRIBUTING_ja-JP.md<br>DONATE_ja-JP.md<br>README_ja-JP.md  |  [#1144](https://github.com/cpeditor/cpeditor/pull/1144)  |
 |  [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything/)  |  README.ja-JP.md  |  [#24](https://github.com/Egonex-AI/Understand-Anything/pull/24)  |
 |  [gojue/ecapture](https://github.com/gojue/ecapture/)  |  README_JA.md  |  [#324](https://github.com/gojue/ecapture/pull/324)  |
