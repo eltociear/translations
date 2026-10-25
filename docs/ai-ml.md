@@ -50,6 +50,7 @@
 |  [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio/)  |  README_JA.md  |  [#2418](https://github.com/debpalash/VoiceStudio/pull/2418)  |
 |  [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration/)  |  README_ja.md  |  [#134](https://github.com/deepseek-ai/awesome-deepseek-integration/pull/134)  |
 |  [derisk-ai/OpenDerisk](https://github.com/derisk-ai/OpenDerisk)  |  README.ja.md  |  [#64](https://github.com/derisk-ai/OpenDerisk/pull/64)  |
+|  [different-ai/openwork](https://github.com/different-ai/openwork/)  |  README_JA.md  |  [#1338](https://github.com/different-ai/openwork/pull/1338)  |
 |  [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/)  |  README_JA.md  |  [#44](https://github.com/dmMaze/BallonsTranslator/pull/44)  |
 |  [eigent-ai/eigent](https://github.com/eigent-ai/eigent/)  |  README_JA.md  |  [#857](https://github.com/eigent-ai/eigent/pull/857)  |
 |  [EncrEor/rlm-claude](https://github.com/EncrEor/rlm-claude/)  |  README.ja.md  |  [#1](https://github.com/EncrEor/rlm-claude/pull/1)  |
