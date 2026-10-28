@@ -10,8 +10,8 @@
 |  DevTools  |  41  |  [View](docs/devtools.md)  |
 |  Cloud / Infrastructure  |  35  |  [View](docs/cloud-infra.md)  |
 |  Apps  |  34  |  [View](docs/apps.md)  |
-|  Misc  |  23  |  [View](docs/misc.md)  |
-|  **Total**  |  **380**  |    |
+|  Misc  |  24  |  [View](docs/misc.md)  |
+|  **Total**  |  **381**  |    |
 
 ### 過去にREADMEを翻訳していたRepository
 - [eltociear/OSSDocumentsTranslate](https://github.com/eltociear/OSSDocumentsTranslate)
