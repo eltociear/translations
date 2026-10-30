@@ -11,6 +11,7 @@
 |  [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills/)  |  README.ja-JP.md<br>CONTRIBUTING.ja-JP.md  |  [#7](https://github.com/ConardLi/garden-skills/pull/7)  |
 |  [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor/)  |  CONTRIBUTING_ja-JP.md<br>DONATE_ja-JP.md<br>README_ja-JP.md  |  [#1144](https://github.com/cpeditor/cpeditor/pull/1144)  |
 |  [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything/)  |  README.ja-JP.md  |  [#24](https://github.com/Egonex-AI/Understand-Anything/pull/24)  |
+|  [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit/)  |  README.ja.md  |  [#62](https://github.com/feimacode/open-design-agent-kit/pull/62)  |
 |  [gojue/ecapture](https://github.com/gojue/ecapture/)  |  README_JA.md  |  [#324](https://github.com/gojue/ecapture/pull/324)  |
 |  [gojue/moling](https://github.com/gojue/moling/)  |  README_JA_JP.md  |  [#13](https://github.com/gojue/moling/pull/13)  |
 |  [go-nunu/nunu](https://github.com/go-nunu/nunu/)  |  README_jp.md  |  [#59](https://github.com/go-nunu/nunu/pull/59)  |
