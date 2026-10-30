@@ -36,4 +36,5 @@
 |  [taosdata/TDengine](https://github.com/taosdata/TDengine/)  |  README-JP.md  |  [#35431](https://github.com/taosdata/TDengine/pull/35431)  |
 |  [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/)  |  README-ja.md  |  [#3157](https://github.com/WasmEdge/WasmEdge/pull/3157)  |
 |  [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI/)  |  readme_ja.md  |  [#87](https://github.com/xvzc/SpoofDPI/pull/87)  |
+|  [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow/)  |  README.ja.md  |  [#18](https://github.com/yaojingang/GEOInflow/pull/18)  |
 |  [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel/)  |  README_JA.md  |  [#2265](https://github.com/1Panel-dev/1Panel/pull/2265)  |
