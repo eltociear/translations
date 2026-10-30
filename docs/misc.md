@@ -23,6 +23,7 @@
 |  [tonsky/FiraCode](https://github.com/tonsky/FiraCode/)  |  README_JA.md  |  [#1537](https://github.com/tonsky/FiraCode/pull/1537)  |
 |  [UfoMiao/zcf](https://github.com/UfoMiao/zcf/)  |  README_ja-JP.md  |  [#72](https://github.com/UfoMiao/zcf/pull/72)  |
 |  [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge/)  |  README.ja.md  |  [#178](https://github.com/YuJunZhiXue/dsh-purge/pull/178)  |
+|  [ZiChuanLan/pi-purge](https://github.com/ZiChuanLan/pi-purge/)  |  README.ja.md  |  [#5](https://github.com/ZiChuanLan/pi-purge/pull/5)  |
 |  [4xmen/Get-Github-Achievements](https://github.com/4xmen/Get-Github-Achievements/)  |  README.ja.md  |  [#132](https://github.com/4xmen/Get-Github-Achievements/pull/132)  |
 |  [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub/)  |  README_ja.md  |  [#2580](https://github.com/521xueweihan/HelloGitHub/pull/2580)  |
 |  [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp/)  |  readme_ja.md  |  [#8](https://github.com/9bie/php2shell-bypass-aslr-exp/pull/8)  |
