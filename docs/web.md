@@ -23,6 +23,7 @@
 |  [VisActor/VRender](https://github.com/VisActor/VRender/)  |  README.ja-JP.md  |  [#1576](https://github.com/VisActor/VRender/pull/1576)  |
 |  [VisActor/VStory](https://github.com/VisActor/VStory/)  |  README.ja-JP.md  |  [#90](https://github.com/VisActor/VStory/pull/90)  |
 |  [VisActor/VTable](https://github.com/VisActor/VTable/)  |  CONTRIBUTING.ja-JP.md<br>README.ja-JP.md  |  [#2617](https://github.com/VisActor/VTable/pull/2617)  |
+|  [walinejs/waline](https://github.com/walinejs/waline/)  |  README_JA.md  |  [#3948](https://github.com/walinejs/waline/pull/3948)  |
 |  [x-extends/vxe-table](https://github.com/x-extends/vxe-table/)  |  README.ja-JP.md  |  [#2496](https://github.com/x-extends/vxe-table/pull/2496)  |
 |  [youzan/vant](https://github.com/youzan/vant/)  |  README.ja-JP.md  |  [#13863](https://github.com/youzan/vant/pull/13863)  |
 |  [zyronon/douyin](https://github.com/zyronon/douyin/)  |  README-ja-JP.md  |  [#54](https://github.com/zyronon/douyin/pull/54)  |
