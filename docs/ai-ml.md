@@ -147,6 +147,7 @@
 |  [OpenSPG/KAG](https://github.com/OpenSPG/KAG/)  |  README_ja.md  |  [#49](https://github.com/OpenSPG/KAG/pull/49)  |
 |  [openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks/)  |  README_ja.md  |  [#2750](https://github.com/openvinotoolkit/openvino_notebooks/pull/2750)  |
 |  [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit/)  |  README_ja.md  |  [#232](https://github.com/open-compass/VLMEvalKit/pull/232)  |
+|  [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas/)  |  README.ja.md  |  [#150](https://github.com/Orkas-AI/Orkas/pull/150)  |
 |  [PaddlePaddle/docs](https://github.com/PaddlePaddle/docs/)  |  README_ja.md  |  [#6088](https://github.com/PaddlePaddle/docs/pull/6088)  |
 |  [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle/)  |  README_ja.md<br>SECURITY_ja.md<br>security/README_ja.md  |  [#53726](https://github.com/PaddlePaddle/Paddle/pull/53726)<br>[#56466](https://github.com/PaddlePaddle/Paddle/pull/56466)  |
 |  [PaddlePaddle/PaddleCustomDevice](https://github.com/PaddlePaddle/PaddleCustomDevice/)  |  README_ja.md<br>backends/custom_cpu/README_ja.md  |  [#782](https://github.com/PaddlePaddle/PaddleCustomDevice/pull/782)  |
