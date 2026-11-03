@@ -30,6 +30,7 @@
 |  [milisp/mcp-linker](https://github.com/milisp/mcp-linker/)  |  README.ja-JP.md  |  [#1](https://github.com/milisp/mcp-linker/pull/1)  |
 |  [Morphicai/morphixai-code](https://github.com/Morphicai/morphixai-code/)  |  docs/README_JA.md  |  [#1](https://github.com/Morphicai/morphixai-code/pull/1)  |
 |  [nicepkg/aide](https://github.com/nicepkg/aide/)  |  README_JP.md  |  [#75](https://github.com/nicepkg/aide/pull/75)  |
+|  [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth/)  |  README.ja.md  |  [#68](https://github.com/Oldcircle/geo-sleuth/pull/68)  |
 |  [One-Language/One](https://github.com/One-Language/One/)  |  README_JA.md  |  [#359](https://github.com/One-Language/One/pull/359)  |
 |  [op7418/CodePilot](https://github.com/op7418/CodePilot/)  |  README_JA.md  |  [#45](https://github.com/op7418/CodePilot/pull/45)  |
 |  [petiky/awesome-mcp](https://github.com/petiky/awesome-mcp/)  |  README_ja.md  |  [#1](https://github.com/petiky/awesome-mcp/pull/1)  |
