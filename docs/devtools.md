@@ -25,6 +25,7 @@
 |  [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills/)  |  README.ja-JP.md  |  [#161](https://github.com/Imbad0202/academic-research-skills/pull/161)  |
 |  [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub/)  |  README.ja.md  |  [#16](https://github.com/jaywcjlove/DevHub/pull/16)  |
 |  [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot/)  |  README.ja-JP.md  |  [#9542](https://github.com/jeecgboot/JeecgBoot/pull/9542)  |
+|  [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video/)  |  README_ja.md  |  [#2](https://github.com/JuneYaooo/rea-video/pull/2)  |
 |  [keploy/keploy](https://github.com/keploy/keploy/)  |  READMEja-JP.md  |  [#2315](https://github.com/keploy/keploy/pull/2315)  |
 |  [LeKovr/webtail](https://github.com/LeKovr/webtail/)  |  README.ja.md  |  [#17](https://github.com/LeKovr/webtail/pull/17)  |
 |  [milisp/mcp-linker](https://github.com/milisp/mcp-linker/)  |  README.ja-JP.md  |  [#1](https://github.com/milisp/mcp-linker/pull/1)  |
