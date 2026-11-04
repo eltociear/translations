@@ -27,6 +27,7 @@
 |  [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot/)  |  README.ja-JP.md  |  [#9542](https://github.com/jeecgboot/JeecgBoot/pull/9542)  |
 |  [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video/)  |  README_ja.md  |  [#2](https://github.com/JuneYaooo/rea-video/pull/2)  |
 |  [keploy/keploy](https://github.com/keploy/keploy/)  |  READMEja-JP.md  |  [#2315](https://github.com/keploy/keploy/pull/2315)  |
+|  [Kuddev/pebrel](https://github.com/Kuddev/pebrel/)  |  README.ja.md  |  [#872](https://github.com/Kuddev/pebrel/pull/872)  |
 |  [LeKovr/webtail](https://github.com/LeKovr/webtail/)  |  README.ja.md  |  [#17](https://github.com/LeKovr/webtail/pull/17)  |
 |  [milisp/mcp-linker](https://github.com/milisp/mcp-linker/)  |  README.ja-JP.md  |  [#1](https://github.com/milisp/mcp-linker/pull/1)  |
 |  [Morphicai/morphixai-code](https://github.com/Morphicai/morphixai-code/)  |  docs/README_JA.md  |  [#1](https://github.com/Morphicai/morphixai-code/pull/1)  |
