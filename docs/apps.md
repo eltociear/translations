@@ -11,6 +11,7 @@
 |  [dream-num/univer](https://github.com/dream-num/univer/)  |  README-ja.md  |  [#857](https://github.com/dream-num/univer/pull/857)  |
 |  [electerm/electerm](https://github.com/electerm/electerm/)  |  README_jp.md  |  [#4483](https://github.com/electerm/electerm/pull/4483)  |
 |  [Eugeny/tabby](https://github.com/Eugeny/tabby/)  |  README.ja-JP.md  |  [#6894](https://github.com/Eugeny/tabby/pull/6894)  |
+|  [Finb/Bark](https://github.com/Finb/Bark/)  |  README.ja.md  |  [#379](https://github.com/Finb/Bark/pull/379)  |
 |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv/)  |  README.ja.md  |  [#899](https://github.com/Gathin23/cleanyourtv/pull/899)  |
 |  [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed/)  |  CONTRIBUTING_ja-JP.md<br>README_ja-JP.md<br>ui/flutter/assets/locales/ja_JP.json  |  [#139](https://github.com/GopeedLab/gopeed/pull/139)  |
 |  [groupultra/telegram-search](https://github.com/groupultra/telegram-search/)  |  docs/README_JA.md  |  [#348](https://github.com/groupultra/telegram-search/pull/348)  |
