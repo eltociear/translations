@@ -7,6 +7,7 @@
 |  [alibaba/open-code-review](https://github.com/alibaba/open-code-review/)  |  README.ja-JP.md<br>CONTRIBUTING.ja-JP.md  |  [#64](https://github.com/alibaba/open-code-review/pull/64)  |
 |  [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim/)  |  README.ja-JP.md  |  [#497](https://github.com/alvinunreal/oh-my-opencode-slim/pull/497)  |
 |  [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/)  |  README.ja.md  |  [#1294](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/1294)  |
+|  [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy/)  |  README_ja.md  |  [#494](https://github.com/babygoton/WorkDaddy/pull/494)  |
 |  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
 |  [cloudwego/thriftgo](https://github.com/cloudwego/thriftgo/)  |  README_ja.md  |  [#219](https://github.com/cloudwego/thriftgo/pull/219)  |
 |  [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills/)  |  README.ja-JP.md<br>CONTRIBUTING.ja-JP.md  |  [#7](https://github.com/ConardLi/garden-skills/pull/7)  |
