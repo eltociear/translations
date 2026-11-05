@@ -37,4 +37,5 @@
 |  [th-ch/youtube-music](https://github.com/th-ch/youtube-music/)  |  docs/readme/README-ja.md  |  [#3180](https://github.com/th-ch/youtube-music/pull/3180)  |
 |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm/)  |  README_ja.md  |  [#335](https://github.com/tiny-craft/tiny-rdm/pull/335)  |
 |  [tw93/Pake](https://github.com/tw93/Pake/)  |  README_JP.md  |  [#723](https://github.com/tw93/Pake/pull/723)  |
+|  [wquguru/cicada](https://github.com/wquguru/cicada/)  |  README.ja.md  |  [#8](https://github.com/wquguru/cicada/pull/8)  |
 |  [zadam/trilium](https://github.com/zadam/trilium/)  |  README.ja.md  |  [#3771](https://github.com/zadam/trilium/pull/3771)  |
