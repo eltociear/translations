@@ -40,3 +40,4 @@
 |  [tw93/Pake](https://github.com/tw93/Pake/)  |  README_JP.md  |  [#723](https://github.com/tw93/Pake/pull/723)  |
 |  [wquguru/cicada](https://github.com/wquguru/cicada/)  |  README.ja.md  |  [#8](https://github.com/wquguru/cicada/pull/8)  |
 |  [zadam/trilium](https://github.com/zadam/trilium/)  |  README.ja.md  |  [#3771](https://github.com/zadam/trilium/pull/3771)  |
+|  [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown/)  |  README.ja.md  |  [#1064](https://github.com/zerx-lab/FluxDown/pull/1064)  |
