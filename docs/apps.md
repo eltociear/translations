@@ -29,6 +29,7 @@
 |  [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves/)  |  README_ja.md  |  [#1371](https://github.com/ok-oldking/ok-wuthering-waves/pull/1371)  |
 |  [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner/)  |  docs/README_JP.md  |  [#822](https://github.com/RealKai42/qwerty-learner/pull/822)  |
 |  [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk/)  |  docs/CODE_OF_CONDUCT-JP.md<br>docs/CONTRIBUTING-JP.md<br>docs/DEVCONTAINER-JP.md<br>docs/SECURITY-JP.md  |  [#6963](https://github.com/rustdesk/rustdesk/pull/6963)  |
+|  [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md/)  |  README.ja.md  |  [#76](https://github.com/s1dashu/quiet-md/pull/76)  |
 |  [samlu/CamMonitor](https://github.com/samlu/CamMonitor/)  |  README_JA.md  |  [#2](https://github.com/samlu/CamMonitor/pull/2)  |
 |  [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole/)  |  README.JA.md  |  [#410](https://github.com/Sangwan5688/BlackHole/pull/410)  |
 |  [SchneeHertz/exhentai-manga-manager](https://github.com/SchneeHertz/exhentai-manga-manager/)  |  README_JA.md  |  [#126](https://github.com/SchneeHertz/exhentai-manga-manager/pull/126)  |
