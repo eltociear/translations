@@ -11,6 +11,7 @@
 |  [bytedance/g3](https://github.com/bytedance/g3/)  |  README.ja_JP.md  |  [#268](https://github.com/bytedance/g3/pull/268)  |
 |  [bytedance/vArmor](https://github.com/bytedance/vArmor/)  |  README.ja.md  |  [#104](https://github.com/bytedance/vArmor/pull/104)  |
 |  [ca110us/epeius](https://github.com/ca110us/epeius/)  |  README-ja_JP.md  |  [#7](https://github.com/ca110us/epeius/pull/7)  |
+|  [ccfos/nightingale](https://github.com/ccfos/nightingale/)  |  README_ja.md  |  [#3470](https://github.com/ccfos/nightingale/pull/3470)  |
 |  [cloudwego/volo](https://github.com/cloudwego/volo/)  |  README-ja.md  |  [#474](https://github.com/cloudwego/volo/pull/474)  |
 |  [cookieY/Yearning](https://github.com/cookieY/Yearning/)  |  README.ja-JP.md  |  [#1173](https://github.com/cookieY/Yearning/pull/1173)  |
 |  [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede/)  |  README_JA.md  |  [#11693](https://github.com/coolsnowwolf/lede/pull/11693)  |
