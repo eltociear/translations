@@ -29,6 +29,7 @@
 |  [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves/)  |  README_ja.md  |  [#1371](https://github.com/ok-oldking/ok-wuthering-waves/pull/1371)  |
 |  [OpenSelena/omniget](https://github.com/OpenSelena/omniget/)  |  README.ja.md  |  [#141](https://github.com/OpenSelena/omniget/pull/141)  |
 |  [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner/)  |  docs/README_JP.md  |  [#822](https://github.com/RealKai42/qwerty-learner/pull/822)  |
+|  [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler/)  |  README_ja-JP.md  |  [#1770](https://github.com/ReChronoRain/HyperCeiler/pull/1770)  |
 |  [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk/)  |  docs/CODE_OF_CONDUCT-JP.md<br>docs/CONTRIBUTING-JP.md<br>docs/DEVCONTAINER-JP.md<br>docs/SECURITY-JP.md  |  [#6963](https://github.com/rustdesk/rustdesk/pull/6963)  |
 |  [s1dashu/quiet-md](https://github.com/s1dashu/quiet-md/)  |  README.ja.md  |  [#76](https://github.com/s1dashu/quiet-md/pull/76)  |
 |  [samlu/CamMonitor](https://github.com/samlu/CamMonitor/)  |  README_JA.md  |  [#2](https://github.com/samlu/CamMonitor/pull/2)  |
