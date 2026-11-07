@@ -4,6 +4,7 @@
 | ---- | ---- | ---- |
 |  [bigtreetech/Manta-M8P](https://github.com/bigtreetech/Manta-M8P/)  |  README_ja.md  |  [#134](https://github.com/bigtreetech/Manta-M8P/pull/134)  |
 |  [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11/)  |  CONTRIBUTING.ja.md  |  [#694](https://github.com/chrislgarry/Apollo-11/pull/694)  |
+|  [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map/)  |  README_JA.md  |  [#286](https://github.com/DeanChensj/jiangshan-map/pull/286)  |
 |  [easychen/CST](https://github.com/easychen/CST/)  |  README-ja.md  |  [#1](https://github.com/easychen/CST/pull/1)  |
 |  [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/)  |  README-ja.md<br>command-line-apps-ja.md<br>editor-plugin-ja.md  |  [#1844](https://github.com/jaywcjlove/awesome-mac/pull/1844)  |
 |  [kaitranntt/ccs](https://github.com/kaitranntt/ccs/)  |  README.ja.md  |  [#2](https://github.com/kaitranntt/ccs/pull/2)  |
