@@ -55,3 +55,4 @@
 |  [ys-ll/uniterm](https://github.com/ys-ll/uniterm/)  |  README_ja.md  |  [#1401](https://github.com/ys-ll/uniterm/pull/1401)  |
 |  [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help/)  |  README_JP.md  |  [#351](https://github.com/yuaotian/go-cursor-help/pull/351)  |
 |  [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org/)  |  content/_index.ja.md<br>content/download/_index.ja.md<br>content/learn/_index.ja.md<br>content/learn/getting-started.ja.md<br>content/learn/overview.ja.md<br>content/learn/samples.ja.md<br>content/learn/tools.ja.md<br>content/learn/why_zig_rust_d_cpp.ja.md<br>content/news/_index.ja.md<br>content/zsf/index.ja.md<br>themes/ziglang-original/i18n/ja.toml  |  [#212](https://github.com/ziglang/www.ziglang.org/pull/212)  |
+|  [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler/)  |  README-ja.md  |  [#639](https://github.com/ZingerLittleBee/Heeler/pull/639)  |
