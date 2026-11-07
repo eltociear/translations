@@ -21,6 +21,7 @@
 |  [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn/)  |  README-ja.md  |  [#1714](https://github.com/hwdsl2/setup-ipsec-vpn/pull/1714)  |
 |  [iGeeky/wolf](https://github.com/iGeeky/wolf/)  |  README-JA.md  |  [#52](https://github.com/iGeeky/wolf/pull/52)  |
 |  [Infisical/infisical](https://github.com/Infisical/infisical/)  |  i18n/README.ja.md  |  [#399](https://github.com/Infisical/infisical/pull/399)  |
+|  [infosave2007/aivpn](https://github.com/infosave2007/aivpn/)  |  README_JA.md  |  [#92](https://github.com/infosave2007/aivpn/pull/92)  |
 |  [jingsewu/open-wes](https://github.com/jingsewu/open-wes/)  |  README_JP.md  |  [#10](https://github.com/jingsewu/open-wes/pull/10)  |
 |  [kevwan/tproxy](https://github.com/kevwan/tproxy/)  |  readme-ja.md  |  [#92](https://github.com/kevwan/tproxy/pull/92)  |
 |  [kubesphere/kubekey](https://github.com/kubesphere/kubekey/)  |  README_ja-JP.md  |  [#2329](https://github.com/kubesphere/kubekey/pull/2329)  |
