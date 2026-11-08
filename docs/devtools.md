@@ -35,6 +35,7 @@
 |  [Morphicai/morphixai-code](https://github.com/Morphicai/morphixai-code/)  |  docs/README_JA.md  |  [#1](https://github.com/Morphicai/morphixai-code/pull/1)  |
 |  [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/)  |  README.ja.md  |  [#555](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/pull/555)  |
 |  [nicepkg/aide](https://github.com/nicepkg/aide/)  |  README_JP.md  |  [#75](https://github.com/nicepkg/aide/pull/75)  |
+|  [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui/)  |  README.ja.md  |  [#16](https://github.com/oil-oil/oil-ui/pull/16)  |
 |  [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth/)  |  README.ja.md  |  [#68](https://github.com/Oldcircle/geo-sleuth/pull/68)  |
 |  [One-Language/One](https://github.com/One-Language/One/)  |  README_JA.md  |  [#359](https://github.com/One-Language/One/pull/359)  |
 |  [op7418/CodePilot](https://github.com/op7418/CodePilot/)  |  README_JA.md  |  [#45](https://github.com/op7418/CodePilot/pull/45)  |
