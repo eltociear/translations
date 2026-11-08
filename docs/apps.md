@@ -15,6 +15,7 @@
 |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv/)  |  README.ja.md  |  [#899](https://github.com/Gathin23/cleanyourtv/pull/899)  |
 |  [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed/)  |  CONTRIBUTING_ja-JP.md<br>README_ja-JP.md<br>ui/flutter/assets/locales/ja_JP.json  |  [#139](https://github.com/GopeedLab/gopeed/pull/139)  |
 |  [groupultra/telegram-search](https://github.com/groupultra/telegram-search/)  |  docs/README_JA.md  |  [#348](https://github.com/groupultra/telegram-search/pull/348)  |
+|  [henmedia/layerling](https://github.com/henmedia/layerling/)  |  README.ja.md  |  [#1500](https://github.com/henmedia/layerling/pull/1500)  |
 |  [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement/)  |  README_JP.md<br>Tutorial_JP.md  |  [#107](https://github.com/HolographicHat/YaeAchievement/pull/107)  |
 |  [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs/)  |  README_ja.md  |  [#320](https://github.com/hushenghao/AndroidEasterEggs/pull/320)  |
 |  [immich-app/immich](https://github.com/immich-app/immich/)  |  README_ja_JP.md  |  [#4268](https://github.com/immich-app/immich/pull/4268)  |
