@@ -39,6 +39,7 @@
 |  [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth/)  |  README.ja.md  |  [#68](https://github.com/Oldcircle/geo-sleuth/pull/68)  |
 |  [One-Language/One](https://github.com/One-Language/One/)  |  README_JA.md  |  [#359](https://github.com/One-Language/One/pull/359)  |
 |  [op7418/CodePilot](https://github.com/op7418/CodePilot/)  |  README_JA.md  |  [#45](https://github.com/op7418/CodePilot/pull/45)  |
+|  [open-wxa/wxa-runner](https://github.com/open-wxa/wxa-runner/)  |  README.ja.md  |  [#124](https://github.com/open-wxa/wxa-runner/pull/124)  |
 |  [petiky/awesome-mcp](https://github.com/petiky/awesome-mcp/)  |  README_ja.md  |  [#1](https://github.com/petiky/awesome-mcp/pull/1)  |
 |  [petiky/mcp-manager](https://github.com/petiky/mcp-manager/)  |  README_ja.md  |  [#1](https://github.com/petiky/mcp-manager/pull/1)  |
 |  [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei/)  |  README_JP.md  |  [#5259](https://github.com/projectdiscovery/nuclei/pull/5259)  |
