@@ -48,6 +48,7 @@
 |  [ComposioHQ/composio](https://github.com/ComposioHQ/composio/)  |  README-JP.md  |  [#272](https://github.com/ComposioHQ/composio/pull/272)  |
 |  [Core-Mate/OpenGUI](https://github.com/Core-Mate/OpenGUI/)  |  README.ja-JP.md  |  [#3](https://github.com/Core-Mate/OpenGUI/pull/3)  |
 |  [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro/)  |  README_JA.md  |  [#282](https://github.com/CortexReach/memory-lancedb-pro/pull/282)  |
+|  [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent/)  |  README.ja.md<br>ARCHITECTURE.ja.md<br>CHANGELOG.ja.md  |  [#240](https://github.com/cosmicstack-labs/mercury-agent/pull/240)  |
 |  [dataelement/bisheng](https://github.com/dataelement/bisheng/)  |  README_JPN.md  |  [#268](https://github.com/dataelement/bisheng/pull/268)  |
 |  [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio/)  |  README_JA.md  |  [#2418](https://github.com/debpalash/VoiceStudio/pull/2418)  |
 |  [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration/)  |  README_ja.md  |  [#134](https://github.com/deepseek-ai/awesome-deepseek-integration/pull/134)  |
