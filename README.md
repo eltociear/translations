@@ -1,7 +1,7 @@
 # translations
-色々なファイルを日本語に翻訳しております、[issue](https://github.com/eltociear/translations/issues) とかで連絡していただければ訳すかもです
+I translate various files into Japanese. If you reach out via an [issue](https://github.com/eltociear/translations/issues) or similar, I may translate it for you.
 
-### ファイルの追加
+### Added files
 
 |  Category  |  Count  |  Link  |
 | ---- | ---- | ---- |
@@ -13,5 +13,5 @@
 |  Misc  |  26  |  [View](docs/misc.md)  |
 |  **Total**  |  **423**  |    |
 
-### 過去にREADMEを翻訳していたRepository
+### Repositories whose README I translated in the past
 - [eltociear/OSSDocumentsTranslate](https://github.com/eltociear/OSSDocumentsTranslate)
