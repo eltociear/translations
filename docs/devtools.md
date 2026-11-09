@@ -49,6 +49,7 @@
 |  [t8y2/motty](https://github.com/t8y2/motty/)  |  README.ja.md  |  [#475](https://github.com/t8y2/motty/pull/475)  |
 |  [tikkid/JetbrainKiller](https://github.com/tikkid/JetbrainKiller/)  |  README_JA-JP.md  |  [#3](https://github.com/tikkid/JetbrainKiller/pull/3)  |
 |  [tt-a1i/archify](https://github.com/tt-a1i/archify/)  |  README_JA.md  |  [#190](https://github.com/tt-a1i/archify/pull/190)  |
+|  [Vincentwei1021/video-talkcraft](https://github.com/Vincentwei1021/video-talkcraft/)  |  README_JA.md  |  [#44](https://github.com/Vincentwei1021/video-talkcraft/pull/44)  |
 |  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
 |  [vnpy/vnpy](https://github.com/vnpy/vnpy/)  |  README_JPN.md  |  [#3744](https://github.com/vnpy/vnpy/pull/3744)  |
 |  [wangbooth/Claude-Code-Guardrails](https://github.com/wangbooth/Claude-Code-Guardrails/)  |  README_JA.md  |  [#3](https://github.com/wangbooth/Claude-Code-Guardrails/pull/3)  |
