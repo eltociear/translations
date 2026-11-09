@@ -67,6 +67,7 @@
 |  [foldl/chatllm.cpp](https://github.com/foldl/chatllm.cpp/)  |  README_ja.md  |  [#39](https://github.com/foldl/chatllm.cpp/pull/39)  |
 |  [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek/)  |  README_JP.md  |  [#110](https://github.com/Fosowl/agenticSeek/pull/110)  |
 |  [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice/)  |  README_ja.md  |  [#55](https://github.com/FunAudioLLM/SenseVoice/pull/55)  |
+|  [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun/)  |  README.ja.md  |  [#3841](https://github.com/GCWing/OpenBitFun/pull/3841)  |
 |  [geekan/MetaGPT](https://github.com/geekan/MetaGPT/)  |  docs/README_JA.md  |  [#12](https://github.com/geekan/MetaGPT/pull/12)  |
 |  [go-ego/gse](https://github.com/go-ego/gse/)  |  README_ja.md  |  [#197](https://github.com/go-ego/gse/pull/197)  |
 |  [guanguans/ai-commit](https://github.com/guanguans/ai-commit/)  |  README-ja_JP.md  |  [#177](https://github.com/guanguans/ai-commit/pull/177)  |
