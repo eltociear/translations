@@ -9,6 +9,7 @@
 |  [codexu/note-gen](https://github.com/codexu/note-gen/)  |  README.JP.md  |  [#150](https://github.com/codexu/note-gen/pull/150)  |
 |  [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)  |  README-ja.md  |  [#521](https://github.com/deniscerri/ytdlnis/pull/521)  |
 |  [dream-num/univer](https://github.com/dream-num/univer/)  |  README-ja.md  |  [#857](https://github.com/dream-num/univer/pull/857)  |
+|  [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop/)  |  README.ja.md  |  [#499](https://github.com/Ebony-Vinyl/EAC-Desktop/pull/499)  |
 |  [electerm/electerm](https://github.com/electerm/electerm/)  |  README_jp.md  |  [#4483](https://github.com/electerm/electerm/pull/4483)  |
 |  [Eugeny/tabby](https://github.com/Eugeny/tabby/)  |  README.ja-JP.md  |  [#6894](https://github.com/Eugeny/tabby/pull/6894)  |
 |  [Finb/Bark](https://github.com/Finb/Bark/)  |  README.ja.md  |  [#379](https://github.com/Finb/Bark/pull/379)  |
