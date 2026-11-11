@@ -19,6 +19,7 @@
 |  [groupultra/telegram-search](https://github.com/groupultra/telegram-search/)  |  docs/README_JA.md  |  [#348](https://github.com/groupultra/telegram-search/pull/348)  |
 |  [henmedia/layerling](https://github.com/henmedia/layerling/)  |  README.ja.md  |  [#1500](https://github.com/henmedia/layerling/pull/1500)  |
 |  [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement/)  |  README_JP.md<br>Tutorial_JP.md  |  [#107](https://github.com/HolographicHat/YaeAchievement/pull/107)  |
+|  [huamidev/GestaltX](https://github.com/huamidev/GestaltX/)  |  README_JA.md  |  [#83](https://github.com/huamidev/GestaltX/pull/83)  |
 |  [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs/)  |  README_ja.md  |  [#320](https://github.com/hushenghao/AndroidEasterEggs/pull/320)  |
 |  [immich-app/immich](https://github.com/immich-app/immich/)  |  README_ja_JP.md  |  [#4268](https://github.com/immich-app/immich/pull/4268)  |
 |  [InlitX/streak](https://github.com/InlitX/streak/)  |  docs/README.ja.md  |  [#243](https://github.com/InlitX/streak/pull/243)  |
