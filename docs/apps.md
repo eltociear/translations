@@ -44,6 +44,7 @@
 |  [seerge/g-helper](https://github.com/seerge/g-helper/)  |  docs/README.ja-JP.md  |  [#3047](https://github.com/seerge/g-helper/pull/3047)  |
 |  [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan/)  |  README_ja_JP.md<br>API_ja_JP.md  |  [#12819](https://github.com/siyuan-note/siyuan/pull/12819)<br>[#16886](https://github.com/siyuan-note/siyuan/pull/16886)  |
 |  [siyuan-note/siyuan-android](https://github.com/siyuan-note/siyuan-android/)  |  README_ja_JP.md  |  [#26](https://github.com/siyuan-note/siyuan-android/pull/26)  |
+|  [SSShooter/ebook-to-mindmap](https://github.com/SSShooter/ebook-to-mindmap/)  |  README.ja.md  |  [#22](https://github.com/SSShooter/ebook-to-mindmap/pull/22)  |
 |  [th-ch/youtube-music](https://github.com/th-ch/youtube-music/)  |  docs/readme/README-ja.md  |  [#3180](https://github.com/th-ch/youtube-music/pull/3180)  |
 |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm/)  |  README_ja.md  |  [#335](https://github.com/tiny-craft/tiny-rdm/pull/335)  |
 |  [tw93/Pake](https://github.com/tw93/Pake/)  |  README_JP.md  |  [#723](https://github.com/tw93/Pake/pull/723)  |
