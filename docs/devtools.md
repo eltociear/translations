@@ -16,6 +16,7 @@
 |  [edenfunf/reelmimic](https://github.com/edenfunf/reelmimic/)  |  README.ja.md  |  [#145](https://github.com/edenfunf/reelmimic/pull/145)  |
 |  [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything/)  |  README.ja-JP.md  |  [#24](https://github.com/Egonex-AI/Understand-Anything/pull/24)  |
 |  [enmerasoftware/ai-design-check](https://github.com/enmerasoftware/ai-design-check/)  |  README.ja.md  |  [#4](https://github.com/enmerasoftware/ai-design-check/pull/4)  |
+|  [fantuan-lab/animated-sticker-studio](https://github.com/fantuan-lab/animated-sticker-studio/)  |  README.ja.md  |  [#1](https://github.com/fantuan-lab/animated-sticker-studio/pull/1)  |
 |  [feimacode/open-design-agent-kit](https://github.com/feimacode/open-design-agent-kit/)  |  README.ja.md  |  [#62](https://github.com/feimacode/open-design-agent-kit/pull/62)  |
 |  [gojue/ecapture](https://github.com/gojue/ecapture/)  |  README_JA.md  |  [#324](https://github.com/gojue/ecapture/pull/324)  |
 |  [gojue/moling](https://github.com/gojue/moling/)  |  README_JA_JP.md  |  [#13](https://github.com/gojue/moling/pull/13)  |
