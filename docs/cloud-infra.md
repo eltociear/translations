@@ -28,6 +28,7 @@
 |  [KusionStack/karpor](https://github.com/KusionStack/karpor/)  |  README-ja.md<br>SECURITY-ja.md  |  [#755](https://github.com/KusionStack/karpor/pull/755)  |
 |  [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/)  |  README-JP.md  |  [#2908](https://github.com/lf-edge/ekuiper/pull/2908)  |
 |  [lindb/lindb](https://github.com/lindb/lindb/)  |  README-ja.md  |  [#1039](https://github.com/lindb/lindb/pull/1039)  |
+|  [maillab/cloud-mail](https://github.com/maillab/cloud-mail/)  |  README-ja.md  |  [#637](https://github.com/maillab/cloud-mail/pull/637)  |
 |  [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray/)  |  README_ja.md  |  [#988](https://github.com/MatsuriDayo/nekoray/pull/988)  |
 |  [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian/)  |  README.ja.md  |  [#3435](https://github.com/ophub/amlogic-s9xxx-armbian/pull/3435)  |
 |  [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi/)  |  README_ja.md  |  [#1412](https://github.com/Project-HAMi/HAMi/pull/1412)  |
