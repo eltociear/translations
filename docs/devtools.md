@@ -57,6 +57,7 @@
 |  [VitoVan/calm](https://github.com/VitoVan/calm/)  |  README_JA.md<br>docs/CONTRIBUTING_JA.md<br>docs/hacking_JA.md<br>docs/installation_JA.md  |  [#144](https://github.com/VitoVan/calm/pull/144)<br>[#158](https://github.com/VitoVan/calm/pull/158)<br>[#167](https://github.com/VitoVan/calm/pull/167)  |
 |  [vnpy/vnpy](https://github.com/vnpy/vnpy/)  |  README_JPN.md  |  [#3744](https://github.com/vnpy/vnpy/pull/3744)  |
 |  [wangbooth/Claude-Code-Guardrails](https://github.com/wangbooth/Claude-Code-Guardrails/)  |  README_JA.md  |  [#3](https://github.com/wangbooth/Claude-Code-Guardrails/pull/3)  |
+|  [WhiteTowerAI/ohmygame](https://github.com/WhiteTowerAI/ohmygame/)  |  README.ja.md  |  [#753](https://github.com/WhiteTowerAI/ohmygame/pull/753)  |
 |  [win4r/video-director](https://github.com/win4r/video-director/)  |  README.ja.md  |  [#2](https://github.com/win4r/video-director/pull/2)  |
 |  [ys-ll/uniterm](https://github.com/ys-ll/uniterm/)  |  README_ja.md  |  [#1401](https://github.com/ys-ll/uniterm/pull/1401)  |
 |  [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help/)  |  README_JP.md  |  [#351](https://github.com/yuaotian/go-cursor-help/pull/351)  |
