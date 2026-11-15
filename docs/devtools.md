@@ -48,6 +48,7 @@
 |  [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates/)  |  README_JA.md  |  [#10401](https://github.com/projectdiscovery/nuclei-templates/pull/10401)  |
 |  [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/)  |  README-ja.md  |  [#82](https://github.com/punkpeye/awesome-mcp-servers/pull/82)  |
 |  [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html/)  |  README.ja.md  |  [#394](https://github.com/QingYunA/answer-me-with-html/pull/394)  |
+|  [renezander030/capcut-cli](https://github.com/renezander030/capcut-cli/)  |  README.ja.md  |  [#175](https://github.com/renezander030/capcut-cli/pull/175)  |
 |  [StockSharp/StockSharp](https://github.com/StockSharp/StockSharp/)  |  README.ja.md  |  [#687](https://github.com/StockSharp/StockSharp/pull/687)  |
 |  [swow/swow](https://github.com/swow/swow/)  |  README-JP.md  |  [#252](https://github.com/swow/swow/pull/252)  |
 |  [t8y2/motty](https://github.com/t8y2/motty/)  |  README.ja.md  |  [#475](https://github.com/t8y2/motty/pull/475)  |
