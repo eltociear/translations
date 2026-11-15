@@ -147,6 +147,7 @@
 |  [opendatalab/MinerU](https://github.com/opendatalab/MinerU/)  |  README_ja-JP.md  |  [#231](https://github.com/opendatalab/MinerU/pull/231)  |
 |  [opendatalab/UniMERNet](https://github.com/opendatalab/UniMERNet/)  |  README-ja.md  |  [#24](https://github.com/opendatalab/UniMERNet/pull/24)  |
 |  [opendilab/LLMRiddles](https://github.com/opendilab/LLMRiddles/)  |  README_ja.md  |  [#21](https://github.com/opendilab/LLMRiddles/pull/21)  |
+|  [openfilm/openfilm](https://github.com/openfilm/openfilm/)  |  README.ja.md  |  [#457](https://github.com/openfilm/openfilm/pull/457)  |
 |  [OpenInterpreter/01](https://github.com/OpenInterpreter/01/)  |  docs/README_JA.md  |  [#243](https://github.com/OpenInterpreter/01/pull/243)  |
 |  [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF/)  |  README_ja.md  |  [#636](https://github.com/OpenRLHF/OpenRLHF/pull/636)  |
 |  [OpenSPG/KAG](https://github.com/OpenSPG/KAG/)  |  README_ja.md  |  [#49](https://github.com/OpenSPG/KAG/pull/49)  |
