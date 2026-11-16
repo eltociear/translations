@@ -13,6 +13,7 @@
 |  [dream-num/univer](https://github.com/dream-num/univer/)  |  README-ja.md  |  [#857](https://github.com/dream-num/univer/pull/857)  |
 |  [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop/)  |  README.ja.md  |  [#499](https://github.com/Ebony-Vinyl/EAC-Desktop/pull/499)  |
 |  [electerm/electerm](https://github.com/electerm/electerm/)  |  README_jp.md  |  [#4483](https://github.com/electerm/electerm/pull/4483)  |
+|  [EthanYoQ/Pagekin](https://github.com/EthanYoQ/Pagekin/)  |  README_ja.md  |  [#716](https://github.com/EthanYoQ/Pagekin/pull/716)  |
 |  [Eugeny/tabby](https://github.com/Eugeny/tabby/)  |  README.ja-JP.md  |  [#6894](https://github.com/Eugeny/tabby/pull/6894)  |
 |  [Finb/Bark](https://github.com/Finb/Bark/)  |  README.ja.md  |  [#379](https://github.com/Finb/Bark/pull/379)  |
 |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv/)  |  README.ja.md  |  [#899](https://github.com/Gathin23/cleanyourtv/pull/899)  |
