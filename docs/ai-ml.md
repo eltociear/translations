@@ -23,6 +23,7 @@
 |  [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein/)  |  README_ja.md<br>TUTORIAL_ja.md  |  [#57](https://github.com/AndersonBY/vector-vein/pull/57)  |
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
 |  [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis/)  |  README.ja-JP.md  |  [#39](https://github.com/antvis/GPT-Vis/pull/39)  |
+|  [aoguai/LiYing](https://github.com/aoguai/LiYing/)  |  docs/README-JA.md  |  [#25](https://github.com/aoguai/LiYing/pull/25)  |
 |  [arkohut/pensieve](https://github.com/arkohut/pensieve/)  |  README_JP.md  |  [#25](https://github.com/arkohut/pensieve/pull/25)  |
 |  [ASLP-lab/OSUM](https://github.com/ASLP-lab/OSUM/)  |  README_JP.md  |  [#2](https://github.com/ASLP-lab/OSUM/pull/2)  |
 |  [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher/)  |  README-ja_JP.md  |  [#686](https://github.com/assafelovic/gpt-researcher/pull/686)  |
