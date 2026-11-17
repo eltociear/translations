@@ -22,6 +22,7 @@
 |  [alipay/agentUniverse](https://github.com/alipay/agentUniverse/)  |  README_jp.md  |  [#1344](https://github.com/alipay/agentUniverse/pull/68)  |
 |  [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein/)  |  README_ja.md<br>TUTORIAL_ja.md  |  [#57](https://github.com/AndersonBY/vector-vein/pull/57)  |
 |  [anse-app/anse](https://github.com/anse-app/anse/)  |  README_JA-JP.md  |  [#70](https://github.com/anse-app/anse/pull/70)  |
+|  [AntiFox-AI/antifox](https://github.com/AntiFox-AI/antifox/)  |  README.ja.md  |  [#7](https://github.com/AntiFox-AI/antifox/pull/7)  |
 |  [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis/)  |  README.ja-JP.md  |  [#39](https://github.com/antvis/GPT-Vis/pull/39)  |
 |  [aoguai/LiYing](https://github.com/aoguai/LiYing/)  |  docs/README-JA.md  |  [#25](https://github.com/aoguai/LiYing/pull/25)  |
 |  [arkohut/pensieve](https://github.com/arkohut/pensieve/)  |  README_JP.md  |  [#25](https://github.com/arkohut/pensieve/pull/25)  |
