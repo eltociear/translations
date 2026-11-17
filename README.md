@@ -9,9 +9,9 @@ I translate various files into Japanese. If you reach out via an [issue](https:/
 |  Web  |  25  |  [View](docs/web.md)  |
 |  DevTools  |  62  |  [View](docs/devtools.md)  |
 |  Cloud / Infrastructure  |  39  |  [View](docs/cloud-infra.md)  |
-|  Apps  |  52  |  [View](docs/apps.md)  |
+|  Apps  |  53  |  [View](docs/apps.md)  |
 |  Misc  |  26  |  [View](docs/misc.md)  |
-|  **Total**  |  **442**  |    |
+|  **Total**  |  **443**  |    |
 
 ### Repositories whose README I translated in the past
 - [eltociear/OSSDocumentsTranslate](https://github.com/eltociear/OSSDocumentsTranslate)
