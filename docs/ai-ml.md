@@ -97,6 +97,7 @@
 |  [JSLiam94/CMSwinKAN](https://github.com/JSLiam94/CMSwinKAN/)  |  README_ja.md  |  [#2](https://github.com/JSLiam94/CMSwinKAN/pull/2)  |
 |  [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt/)  |  README_JA.md  |  [#3](https://github.com/jtsang4/claude-to-chatgpt/pull/3)  |
 |  [julep-ai/julep](https://github.com/julep-ai/julep/)  |  README-JP.md  |  [#598](https://github.com/julep-ai/julep/pull/598)  |
+|  [JuneYaooo/rea-toon](https://github.com/JuneYaooo/rea-toon/)  |  i18n/README_ja.md  |  [#1](https://github.com/JuneYaooo/rea-toon/pull/1)  |
 |  [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API/)  |  README-JA.md  |  [#56](https://github.com/justlovemaki/AIClient-2-API/pull/56)  |
 |  [JustVugg/colibri](https://github.com/JustVugg/colibri/)  |  README.ja.md  |  [#1492](https://github.com/JustVugg/colibri/pull/1492)  |
 |  [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio/)  |  README.ja.md  |  [#233](https://github.com/kangfenmao/cherry-studio/pull/233)  |
