@@ -55,4 +55,5 @@
 |  [wquguru/cicada](https://github.com/wquguru/cicada/)  |  README.ja.md  |  [#8](https://github.com/wquguru/cicada/pull/8)  |
 |  [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory/)  |  README.ja.md  |  [#85](https://github.com/YILS-LIN/short-video-factory/pull/85)  |
 |  [zadam/trilium](https://github.com/zadam/trilium/)  |  README.ja.md  |  [#3771](https://github.com/zadam/trilium/pull/3771)  |
+|  [zephyr4123/snug](https://github.com/zephyr4123/snug/)  |  README.ja.md  |  [#40](https://github.com/zephyr4123/snug/pull/40)  |
 |  [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown/)  |  README.ja.md  |  [#1064](https://github.com/zerx-lab/FluxDown/pull/1064)  |
