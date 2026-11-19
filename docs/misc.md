@@ -17,6 +17,7 @@
 |  [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading/)  |  README_ja.md  |  [#42](https://github.com/paperswithbacktest/awesome-systematic-trading/pull/42)  |
 |  [pepecoinppc/pepecoin](https://github.com/pepecoinppc/pepecoin/)  |  README_ja_JP.md  |  [#78](https://github.com/pepecoinppc/pepecoin/pull/78)  |
 |  [Project-DARC/DARC](https://github.com/Project-DARC/DARC/)  |  README_ja.md  |  [#28](https://github.com/Project-DARC/DARC/pull/28)  |
+|  [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu/)  |  README.ja.md  |  [#76](https://github.com/Renhuai123/ziwei-doushu/pull/76)  |
 |  [revoxhere/duino-coin](https://github.com/revoxhere/duino-coin/)  |  Resources/AVR_Miner_langs.json<br>Resources/CLI_Wallet_langs.json<br>Resources/PC_Miner_langs.json<br>Resources/README_TRANSLATIONS/README_ja_JP.md<br>Resources/Wallet_langs.json  |  [#1563](https://github.com/revoxhere/duino-coin/pull/1563)  |
 |  [shibacoinppc/shibacoin](https://github.com/shibacoinppc/shibacoin/)  |  README_ja_JP.md  |  [#4](https://github.com/shibacoinppc/shibacoin/pull/4)  |
 |  [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM/)  |  README_JA.md<br>server/README_JA.md<br>web/README_JA.md  |  [#1303](https://github.com/sipeed/NanoKVM/pull/202)  |
