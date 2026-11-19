@@ -10,8 +10,8 @@ I translate various files into Japanese. If you reach out via an [issue](https:/
 |  DevTools  |  62  |  [View](docs/devtools.md)  |
 |  Cloud / Infrastructure  |  39  |  [View](docs/cloud-infra.md)  |
 |  Apps  |  53  |  [View](docs/apps.md)  |
-|  Misc  |  26  |  [View](docs/misc.md)  |
-|  **Total**  |  **448**  |    |
+|  Misc  |  27  |  [View](docs/misc.md)  |
+|  **Total**  |  **449**  |    |
 
 ### Repositories whose README I translated in the past
 - [eltociear/OSSDocumentsTranslate](https://github.com/eltociear/OSSDocumentsTranslate)
