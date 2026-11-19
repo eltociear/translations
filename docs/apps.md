@@ -10,6 +10,7 @@
 |  [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5/)  |  docs/user/README.ja.md  |  [#16080](https://github.com/boykopovar/AnyPS5/pull/16080)  |
 |  [CluvexStudio/ZedSecure](https://github.com/CluvexStudio/ZedSecure/)  |  README.ja.md  |  [#107](https://github.com/CluvexStudio/ZedSecure/pull/107)  |
 |  [codexu/note-gen](https://github.com/codexu/note-gen/)  |  README.JP.md  |  [#150](https://github.com/codexu/note-gen/pull/150)  |
+|  [D1ngtalk/iap2loc](https://github.com/D1ngtalk/iap2loc/)  |  README.ja.md  |  [#12](https://github.com/D1ngtalk/iap2loc/pull/12)  |
 |  [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)  |  README-ja.md  |  [#521](https://github.com/deniscerri/ytdlnis/pull/521)  |
 |  [dream-num/univer](https://github.com/dream-num/univer/)  |  README-ja.md  |  [#857](https://github.com/dream-num/univer/pull/857)  |
 |  [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop/)  |  README.ja.md  |  [#499](https://github.com/Ebony-Vinyl/EAC-Desktop/pull/499)  |
