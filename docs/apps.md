@@ -34,6 +34,7 @@
 |  [localsend/localsend](https://github.com/localsend/localsend/)  |  README_JA.md  |  [#1584](https://github.com/localsend/localsend/pull/1584)  |
 |  [LorisYounger/VPet](https://github.com/LorisYounger/VPet/)  |  README_ja.md  |  [#284](https://github.com/LorisYounger/VPet/pull/284)  |
 |  [mgba-emu/mgba](https://github.com/mgba-emu/mgba/)  |  README_JP.md  |  [#3399](https://github.com/mgba-emu/mgba/pull/3399)  |
+|  [MicYou-Dev/MicYou](https://github.com/MicYou-Dev/MicYou/)  |  README_ja.md  |  [#397](https://github.com/MicYou-Dev/MicYou/pull/397)  |
 |  [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant/)  |  README_JA.md  |  [#729](https://github.com/moesnow/March7thAssistant/pull/729)  |
 |  [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves/)  |  README_ja.md  |  [#1371](https://github.com/ok-oldking/ok-wuthering-waves/pull/1371)  |
 |  [ooolabdev/ooosplat](https://github.com/ooolabdev/ooosplat/)  |  README_JA.md  |  [#85](https://github.com/ooolabdev/ooosplat/pull/85)  |
