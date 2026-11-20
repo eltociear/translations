@@ -54,6 +54,7 @@
 |  [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm/)  |  README_ja.md  |  [#335](https://github.com/tiny-craft/tiny-rdm/pull/335)  |
 |  [tw93/Pake](https://github.com/tw93/Pake/)  |  README_JP.md  |  [#723](https://github.com/tw93/Pake/pull/723)  |
 |  [wquguru/cicada](https://github.com/wquguru/cicada/)  |  README.ja.md  |  [#8](https://github.com/wquguru/cicada/pull/8)  |
+|  [ybblab/Jiumi](https://github.com/ybblab/Jiumi/)  |  README.ja.md  |  [#11](https://github.com/ybblab/Jiumi/pull/11)  |
 |  [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory/)  |  README.ja.md  |  [#85](https://github.com/YILS-LIN/short-video-factory/pull/85)  |
 |  [zadam/trilium](https://github.com/zadam/trilium/)  |  README.ja.md  |  [#3771](https://github.com/zadam/trilium/pull/3771)  |
 |  [zephyr4123/snug](https://github.com/zephyr4123/snug/)  |  README.ja.md  |  [#40](https://github.com/zephyr4123/snug/pull/40)  |
