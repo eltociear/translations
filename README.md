@@ -6,12 +6,12 @@ I translate various files into Japanese. If you reach out via an [issue](https:/
 |  Category  |  Count  |  Link  |
 | ---- | ---- | ---- |
 |  AI / ML  |  244  |  [View](docs/ai-ml.md)  |
-|  Web  |  25  |  [View](docs/web.md)  |
+|  Web  |  26  |  [View](docs/web.md)  |
 |  DevTools  |  62  |  [View](docs/devtools.md)  |
 |  Cloud / Infrastructure  |  39  |  [View](docs/cloud-infra.md)  |
 |  Apps  |  56  |  [View](docs/apps.md)  |
 |  Misc  |  28  |  [View](docs/misc.md)  |
-|  **Total**  |  **454**  |    |
+|  **Total**  |  **455**  |    |
 
 ### Repositories whose README I translated in the past
 - [eltociear/OSSDocumentsTranslate](https://github.com/eltociear/OSSDocumentsTranslate)
