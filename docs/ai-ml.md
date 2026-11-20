@@ -215,6 +215,7 @@
 |  [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX/)  |  README.ja-JP.md  |  [#326](https://github.com/ValueCell-ai/ClawX/pull/326)  |
 |  [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell/)  |  README.ja.md  |  [#205](https://github.com/ValueCell-ai/valuecell/pull/205)  |
 |  [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai/)  |  docs/japanese.md  |  [#345](https://github.com/VinciGit00/Scrapegraph-ai/pull/345)  |
+|  [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill/)  |  README.ja.md  |  [#328](https://github.com/virgiliojr94/book-to-skill/pull/328)  |
 |  [VisActor/VMind](https://github.com/VisActor/VMind/)  |  README-ja.md  |  [#146](https://github.com/VisActor/VMind/pull/146)  |
 |  [volcengine/OpenViking](https://github.com/volcengine/OpenViking/)  |  README_JA.md<br>CONTRIBUTING_JA.md  |  [#755](https://github.com/volcengine/OpenViking/pull/755)  |
 |  [vortezwohl/CEO-Agentic-AI-Framework](https://github.com/vortezwohl/CEO-Agentic-AI-Framework/)  |  i18n/README_ja-jp.md  |  [#67](https://github.com/vortezwohl/CEO-Agentic-AI-Framework/pull/67)  |
