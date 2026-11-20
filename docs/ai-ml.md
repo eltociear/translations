@@ -60,6 +60,7 @@
 |  [DIYgod/pinky](https://github.com/DIYgod/pinky/)  |  README.ja.md  |  [#19](https://github.com/DIYgod/pinky/pull/19)  |
 |  [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/)  |  README_JA.md  |  [#44](https://github.com/dmMaze/BallonsTranslator/pull/44)  |
 |  [Dodaios/Dodaios](https://github.com/Dodaios/Dodaios/)  |  README.ja.md  |  [#1842](https://github.com/Dodaios/Dodaios/pull/1842)  |
+|  [DUNHKpcc/Claude-Guardian](https://github.com/DUNHKpcc/Claude-Guardian/)  |  README.ja.md  |  [#34](https://github.com/DUNHKpcc/Claude-Guardian/pull/34)  |
 |  [eigent-ai/eigent](https://github.com/eigent-ai/eigent/)  |  README_JA.md  |  [#857](https://github.com/eigent-ai/eigent/pull/857)  |
 |  [EncrEor/rlm-claude](https://github.com/EncrEor/rlm-claude/)  |  README.ja.md  |  [#1](https://github.com/EncrEor/rlm-claude/pull/1)  |
 |  [elizaOS/eliza](https://github.com/elizaOS/eliza/)  |  README_JA.md<br>docs/README_JA.md  |  [#307](https://github.com/elizaOS/eliza/pull/307)<br>[#2515](https://github.com/elizaOS/eliza/pull/2515)  |
