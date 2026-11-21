@@ -28,6 +28,7 @@
 |  [arkohut/pensieve](https://github.com/arkohut/pensieve/)  |  README_JP.md  |  [#25](https://github.com/arkohut/pensieve/pull/25)  |
 |  [ASLP-lab/OSUM](https://github.com/ASLP-lab/OSUM/)  |  README_JP.md  |  [#2](https://github.com/ASLP-lab/OSUM/pull/2)  |
 |  [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher/)  |  README-ja_JP.md  |  [#686](https://github.com/assafelovic/gpt-researcher/pull/686)  |
+|  [atuizz/posewear](https://github.com/atuizz/posewear/)  |  README.ja.md  |  [#5](https://github.com/atuizz/posewear/pull/5)  |
 |  [AXYZdong/AMchat](https://github.com/AXYZdong/AMchat/)  |  README_ja-JP.md  |  [#11](https://github.com/AXYZdong/AMchat/pull/11)  |
 |  [baidubce/app-builder](https://github.com/baidubce/app-builder/)  |  README_ja.md  |  [#461](https://github.com/baidubce/app-builder/pull/461)  |
 |  [bilibili/Index-Translate](https://github.com/bilibili/Index-Translate/)  |  README_ja.md  |  [#29](https://github.com/bilibili/Index-Translate/pull/29)  |
