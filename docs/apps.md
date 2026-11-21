@@ -32,6 +32,7 @@
 |  [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio/)  |  README.ja.md  |  [#24](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio/pull/24)  |
 |  [limengdu/reTerminal_Sticky_Bunny](https://github.com/limengdu/reTerminal_Sticky_Bunny/)  |  README_JA.md  |  [#1](https://github.com/limengdu/reTerminal_Sticky_Bunny/pull/1)  |
 |  [localsend/localsend](https://github.com/localsend/localsend/)  |  README_JA.md  |  [#1584](https://github.com/localsend/localsend/pull/1584)  |
+|  [looplj/reveric](https://github.com/looplj/reveric/)  |  README.ja-JP.md  |  [#34](https://github.com/looplj/reveric/pull/34)  |
 |  [LorisYounger/VPet](https://github.com/LorisYounger/VPet/)  |  README_ja.md  |  [#284](https://github.com/LorisYounger/VPet/pull/284)  |
 |  [mgba-emu/mgba](https://github.com/mgba-emu/mgba/)  |  README_JP.md  |  [#3399](https://github.com/mgba-emu/mgba/pull/3399)  |
 |  [MicYou-Dev/MicYou](https://github.com/MicYou-Dev/MicYou/)  |  README_ja.md  |  [#397](https://github.com/MicYou-Dev/MicYou/pull/397)  |
