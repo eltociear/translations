@@ -6,6 +6,7 @@
 |  [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill/)  |  README_JA.md  |  [#142](https://github.com/Agents365-ai/drawio-skill/pull/142)  |
 |  [alibaba/open-code-review](https://github.com/alibaba/open-code-review/)  |  README.ja-JP.md<br>CONTRIBUTING.ja-JP.md  |  [#64](https://github.com/alibaba/open-code-review/pull/64)  |
 |  [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim/)  |  README.ja-JP.md  |  [#497](https://github.com/alvinunreal/oh-my-opencode-slim/pull/497)  |
+|  [Aran404/SpotAPI](https://github.com/Aran404/SpotAPI/)  |  README.ja.md  |  [#99](https://github.com/Aran404/SpotAPI/pull/99)  |
 |  [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/)  |  README.ja.md  |  [#1294](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/1294)  |
 |  [babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy/)  |  README_ja.md  |  [#494](https://github.com/babygoton/WorkDaddy/pull/494)  |
 |  [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk/)  |  doc/README-ja.md  |  [#194](https://github.com/BlackINT3/OpenArk/pull/194)  |
