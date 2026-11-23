@@ -95,6 +95,7 @@
 |  [InternLM/lagent](https://github.com/InternLM/lagent/)  |  README_ja_JP.md<br>docs/ja/get_started/overview.md  |  [#42](https://github.com/InternLM/lagent/pull/42)  |
 |  [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy/)  |  README_ja.md  |  [#2237](https://github.com/InternLM/lmdeploy/pull/2237)  |
 |  [janhq/jan](https://github.com/janhq/jan/)  |  README.ja.md  |  [#8001](https://github.com/janhq/jan/pull/8001)  |
+|  [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact/)  |  README.ja.md  |  [#16](https://github.com/JimLiu/open-artifact/pull/16)  |
 |  [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox/)  |  README_JA.md  |  [#549](https://github.com/josStorer/chatGPTBox/pull/549)  |
 |  [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner/)  |  README_JA.md  |  [#100](https://github.com/josStorer/RWKV-Runner/pull/100)  |
 |  [JSLiam94/CMSwinKAN](https://github.com/JSLiam94/CMSwinKAN/)  |  README_ja.md  |  [#2](https://github.com/JSLiam94/CMSwinKAN/pull/2)  |
