@@ -104,6 +104,7 @@
 |  [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API/)  |  README-JA.md  |  [#56](https://github.com/justlovemaki/AIClient-2-API/pull/56)  |
 |  [JustVugg/colibri](https://github.com/JustVugg/colibri/)  |  README.ja.md  |  [#1492](https://github.com/JustVugg/colibri/pull/1492)  |
 |  [kangfenmao/cherry-studio](https://github.com/kangfenmao/cherry-studio/)  |  README.ja.md  |  [#233](https://github.com/kangfenmao/cherry-studio/pull/233)  |
+|  [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT/)  |  README.ja.md  |  [#461](https://github.com/KKKKhazix/AIHOT/pull/461)  |
 |  [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT/)  |  docs/README_JA.md  |  [#31](https://github.com/kuafuai/DevOpsGPT/pull/31)  |
 |  [KwaiKEG/KwaiAgents](https://github.com/KwaiKEG/KwaiAgents/)  |  README_JA.md  |  [#24](https://github.com/KwaiKEG/KwaiAgents/pull/24)  |
 |  [labring/FastGPT](https://github.com/labring/FastGPT/)  |  README_ja.md  |  [#455](https://github.com/labring/FastGPT/pull/455)  |
