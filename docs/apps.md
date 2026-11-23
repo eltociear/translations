@@ -26,6 +26,7 @@
 |  [HolographicHat/YaeAchievement](https://github.com/HolographicHat/YaeAchievement/)  |  README_JP.md<br>Tutorial_JP.md  |  [#107](https://github.com/HolographicHat/YaeAchievement/pull/107)  |
 |  [huamidev/GestaltX](https://github.com/huamidev/GestaltX/)  |  README_JA.md  |  [#83](https://github.com/huamidev/GestaltX/pull/83)  |
 |  [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs/)  |  README_ja.md  |  [#320](https://github.com/hushenghao/AndroidEasterEggs/pull/320)  |
+|  [iebb/mithka](https://github.com/iebb/mithka/)  |  README.ja.md  |  [#319](https://github.com/iebb/mithka/pull/319)  |
 |  [immich-app/immich](https://github.com/immich-app/immich/)  |  README_ja_JP.md  |  [#4268](https://github.com/immich-app/immich/pull/4268)  |
 |  [InlitX/streak](https://github.com/InlitX/streak/)  |  docs/README.ja.md  |  [#243](https://github.com/InlitX/streak/pull/243)  |
 |  [ish-app/ish](https://github.com/ish-app/ish/)  |  README_JP.md  |  [#2427](https://github.com/ish-app/ish/pull/2427)  |
