@@ -224,6 +224,7 @@
 |  [volcengine/OpenViking](https://github.com/volcengine/OpenViking/)  |  README_JA.md<br>CONTRIBUTING_JA.md  |  [#755](https://github.com/volcengine/OpenViking/pull/755)  |
 |  [vortezwohl/CEO-Agentic-AI-Framework](https://github.com/vortezwohl/CEO-Agentic-AI-Framework/)  |  i18n/README_ja-jp.md  |  [#67](https://github.com/vortezwohl/CEO-Agentic-AI-Framework/pull/67)  |
 |  [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu/)  |  README.ja.md  |  [#3920](https://github.com/vshulcz/deja-vu/pull/3920)  |
+|  [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot/)  |  README.ja.md  |  [#1](https://github.com/w01fb0ss/PiBot/pull/1)  |
 |  [wangzongming/esp-ai](https://github.com/wangzongming/esp-ai/)  |  readme_ja.md  |  [#17](https://github.com/wangzongming/esp-ai/pull/17)  |
 |  [Wannabeasmartguy/RAGENT](https://github.com/Wannabeasmartguy/RAGENT/)  |  README_ja.md  |  [#4](https://github.com/Wannabeasmartguy/RAGENT/pull/4)  |
 |  [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain/)  |  README.ja.md  |  [#3312](https://github.com/webbrain-one/webbrain/pull/3312)  |
