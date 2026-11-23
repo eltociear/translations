@@ -19,6 +19,7 @@
 |  [EthanYoQ/Pagekin](https://github.com/EthanYoQ/Pagekin/)  |  README_ja.md  |  [#716](https://github.com/EthanYoQ/Pagekin/pull/716)  |
 |  [Eugeny/tabby](https://github.com/Eugeny/tabby/)  |  README.ja-JP.md  |  [#6894](https://github.com/Eugeny/tabby/pull/6894)  |
 |  [Finb/Bark](https://github.com/Finb/Bark/)  |  README.ja.md  |  [#379](https://github.com/Finb/Bark/pull/379)  |
+|  [freestylefly/WeChatBridge](https://github.com/freestylefly/WeChatBridge/)  |  README_JA.md  |  [#64](https://github.com/freestylefly/WeChatBridge/pull/64)  |
 |  [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv/)  |  README.ja.md  |  [#899](https://github.com/Gathin23/cleanyourtv/pull/899)  |
 |  [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb/)  |  README.ja.md  |  [#2608](https://github.com/gloom-sh/gloomberb/pull/2608)  |
 |  [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed/)  |  CONTRIBUTING_ja-JP.md<br>README_ja-JP.md<br>ui/flutter/assets/locales/ja_JP.json  |  [#139](https://github.com/GopeedLab/gopeed/pull/139)  |
