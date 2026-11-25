@@ -32,6 +32,7 @@
 |  [immich-app/immich](https://github.com/immich-app/immich/)  |  README_ja_JP.md  |  [#4268](https://github.com/immich-app/immich/pull/4268)  |
 |  [InlitX/streak](https://github.com/InlitX/streak/)  |  docs/README.ja.md  |  [#243](https://github.com/InlitX/streak/pull/243)  |
 |  [ish-app/ish](https://github.com/ish-app/ish/)  |  README_JP.md  |  [#2427](https://github.com/ish-app/ish/pull/2427)  |
+|  [itsVicOC/bilibili-downloader](https://github.com/itsVicOC/bilibili-downloader/)  |  README.ja.md  |  [#41](https://github.com/itsVicOC/bilibili-downloader/pull/41)  |
 |  [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio/)  |  README.ja.md  |  [#24](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio/pull/24)  |
 |  [limengdu/reTerminal_Sticky_Bunny](https://github.com/limengdu/reTerminal_Sticky_Bunny/)  |  README_JA.md  |  [#1](https://github.com/limengdu/reTerminal_Sticky_Bunny/pull/1)  |
 |  [localsend/localsend](https://github.com/localsend/localsend/)  |  README_JA.md  |  [#1584](https://github.com/localsend/localsend/pull/1584)  |
