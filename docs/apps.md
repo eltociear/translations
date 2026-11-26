@@ -34,6 +34,7 @@
 |  [ish-app/ish](https://github.com/ish-app/ish/)  |  README_JP.md  |  [#2427](https://github.com/ish-app/ish/pull/2427)  |
 |  [itsVicOC/bilibili-downloader](https://github.com/itsVicOC/bilibili-downloader/)  |  README.ja.md  |  [#41](https://github.com/itsVicOC/bilibili-downloader/pull/41)  |
 |  [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio/)  |  README.ja.md  |  [#24](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio/pull/24)  |
+|  [kunkundi/crossdesk](https://github.com/kunkundi/crossdesk/)  |  README_JA.md  |  [#308](https://github.com/kunkundi/crossdesk/pull/308)  |
 |  [limengdu/reTerminal_Sticky_Bunny](https://github.com/limengdu/reTerminal_Sticky_Bunny/)  |  README_JA.md  |  [#1](https://github.com/limengdu/reTerminal_Sticky_Bunny/pull/1)  |
 |  [localsend/localsend](https://github.com/localsend/localsend/)  |  README_JA.md  |  [#1584](https://github.com/localsend/localsend/pull/1584)  |
 |  [looplj/reveric](https://github.com/looplj/reveric/)  |  README.ja-JP.md  |  [#34](https://github.com/looplj/reveric/pull/34)  |
