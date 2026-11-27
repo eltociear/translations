@@ -27,6 +27,7 @@
 |  [hellokaton/namesage](https://github.com/hellokaton/namesage/)  |  README_ja.md  |  [#1](https://github.com/hellokaton/namesage/pull/1)  |
 |  [hermai-ai/hermai-skills](https://github.com/hermai-ai/hermai-skills/)  |  README.ja-JP.md  |  [#7](https://github.com/hermai-ai/hermai-skills/pull/7)  |
 |  [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web/)  |  CONTRIBUTING_JA.md<br>README_JA.md  |  [#142](https://github.com/HuolalaTech/page-spy-web/pull/142)<br>[#143](https://github.com/HuolalaTech/page-spy-web/pull/143)  |
+|  [iamgatz/Bone-2D](https://github.com/iamgatz/Bone-2D/)  |  README.ja.md  |  [#9](https://github.com/iamgatz/Bone-2D/pull/9)  |
 |  [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills/)  |  README.ja-JP.md  |  [#161](https://github.com/Imbad0202/academic-research-skills/pull/161)  |
 |  [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub/)  |  README.ja.md  |  [#16](https://github.com/jaywcjlove/DevHub/pull/16)  |
 |  [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot/)  |  README.ja-JP.md  |  [#9542](https://github.com/jeecgboot/JeecgBoot/pull/9542)  |
