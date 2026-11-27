@@ -12,6 +12,7 @@
 |  [CluvexStudio/ZedSecure](https://github.com/CluvexStudio/ZedSecure/)  |  README.ja.md  |  [#107](https://github.com/CluvexStudio/ZedSecure/pull/107)  |
 |  [codexu/note-gen](https://github.com/codexu/note-gen/)  |  README.JP.md  |  [#150](https://github.com/codexu/note-gen/pull/150)  |
 |  [D1ngtalk/iap2loc](https://github.com/D1ngtalk/iap2loc/)  |  README.ja.md  |  [#12](https://github.com/D1ngtalk/iap2loc/pull/12)  |
+|  [DaoeZ/notflix](https://github.com/DaoeZ/notflix/)  |  README.ja.md  |  [#1](https://github.com/DaoeZ/notflix/pull/1)  |
 |  [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis)  |  README-ja.md  |  [#521](https://github.com/deniscerri/ytdlnis/pull/521)  |
 |  [dream-num/univer](https://github.com/dream-num/univer/)  |  README-ja.md  |  [#857](https://github.com/dream-num/univer/pull/857)  |
 |  [Ebony-Vinyl/EAC-Desktop](https://github.com/Ebony-Vinyl/EAC-Desktop/)  |  README.ja.md  |  [#499](https://github.com/Ebony-Vinyl/EAC-Desktop/pull/499)  |
