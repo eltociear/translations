@@ -5,13 +5,13 @@ I translate various files into Japanese. If you reach out via an [issue](https:/
 
 |  Category  |  Count  |  Link  |
 | ---- | ---- | ---- |
-|  AI / ML  |  252  |  [View](docs/ai-ml.md)  |
+|  AI / ML  |  253  |  [View](docs/ai-ml.md)  |
 |  Web  |  27  |  [View](docs/web.md)  |
 |  DevTools  |  64  |  [View](docs/devtools.md)  |
 |  Cloud / Infrastructure  |  39  |  [View](docs/cloud-infra.md)  |
 |  Apps  |  67  |  [View](docs/apps.md)  |
 |  Misc  |  28  |  [View](docs/misc.md)  |
-|  **Total**  |  **477**  |    |
+|  **Total**  |  **478**  |    |
 
 ### Repositories whose README I translated in the past
 - [eltociear/OSSDocumentsTranslate](https://github.com/eltociear/OSSDocumentsTranslate)
